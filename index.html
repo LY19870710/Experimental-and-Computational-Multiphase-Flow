@@ -546,7 +546,6 @@ function render() {
           <span class="badge-year">2026</span>
           ${a.type ? `<span class="badge-type">${esc(a.type)}</span>` : ''}
           ${volIssue ? `<span class="badge-type">${esc(volIssue)}</span>` : ''}
-          ${a.doi ? `<a class="btn-expand" style="color:#2980b9;text-decoration:none;font-weight:500" href="https://doi.org/${a.doi}" target="_blank" onclick="event.stopPropagation()">DOI</a>` : ''}
           ${a.doi ? `<button class="btn-expand" style="color:#27ae60" onclick="event.stopPropagation();downloadRIS(${i})">Download RIS</button>` : ''}
           <button class="btn-expand" onclick="event.stopPropagation();toggle(this.closest('.card'))">展开 ▾</button>
         </div>
