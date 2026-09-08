@@ -520,12 +520,8 @@ function searchScore(a, q) {
 
 /* ── Render ── */
 function render() {
-  const views = filteredArticles.reduce((s,a) => s + (parseInt(a.views)||0), 0);
-  const downloads = filteredArticles.reduce((s,a) => s + (parseInt(a.downloads)||0), 0);
   $stats.innerHTML = `
     <div class="stat-chip"><span class="dot"></span><strong>${filteredArticles.length}</strong> articles</div>
-    <div class="stat-chip"><span class="dot"></span><strong>${views}</strong> views</div>
-    <div class="stat-chip"><span class="dot"></span><strong>${downloads}</strong> downloads</div>
   `;
 
   if (!filteredArticles.length) {
