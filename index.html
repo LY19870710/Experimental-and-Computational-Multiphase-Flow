@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -576,7 +576,7 @@ function render() {
           ${a.type ? `<span class="badge-type">${esc(a.type)}</span>` : ''}
           ${volIssue ? `<span class="badge-type">${esc(volIssue)}</span>` : ''}
           ${a.doi ? `<button class="btn-expand" style="color:#27ae60" onclick="event.stopPropagation();downloadRIS(${i})">Download RIS</button>` : ''}
-          <button class="btn-expand toggle-btn" onclick="event.stopPropagation();toggle(this.closest('.card'))">展开 ▾</button>
+          <button class="btn-expand toggle-btn" onclick="event.stopPropagation();toggle(this.closest('.card'))">Expand ▾</button>
         </div>
       </div>
       <div class="card-authors">${shortNames}</div>
@@ -585,7 +585,7 @@ function render() {
       ${a.doi ? `
       <div class="card-cite" onclick="event.stopPropagation()">
         <span class="card-cite-text">${getCiteText(a)}</span>
-        <button class="card-cite-btn" onclick="copyCite(${i})">复制</button>
+        <button class="card-cite-btn" onclick="copyCite(${i})">Copy</button>
       </div>` : ''}
       <div class="detail">
         <div class="detail-grid">
@@ -609,7 +609,7 @@ function toggle(card) {
   card.classList.toggle('open');
   const btn = card.querySelector('.toggle-btn');
   if (btn) {
-    btn.textContent = card.classList.contains('open') ? '收起 ▴' : '展开 ▾';
+    btn.textContent = card.classList.contains('open') ? 'Collapse ▴' : 'Expand ▾';
   }
   if (card.classList.contains('open')) {
     const idx = parseInt(card.dataset.idx);
@@ -677,10 +677,10 @@ function fallbackCopy(text, btn) {
 }
 
 function showCopied(btn) {
-  btn.textContent = '已复制 ✓';
+  btn.textContent = 'Copied ✓';
   btn.classList.add('copied');
   setTimeout(() => {
-    btn.textContent = '复制';
+    btn.textContent = 'Copy';
     btn.classList.remove('copied');
   }, 1500);
 }
