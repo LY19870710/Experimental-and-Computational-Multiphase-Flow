@@ -580,13 +580,13 @@ function render() {
         </div>
       </div>
       <div class="card-authors">${shortNames}</div>
+      ${kws ? `<div class="card-keywords">${kws}</div>` : ''}
+      ${a.doi ? `<div class="card-doi"><a href="https://doi.org/${a.doi}" target="_blank" onclick="event.stopPropagation()">https://doi.org/${esc(a.doi)}</a></div>` : ''}
       ${a.doi ? `
       <div class="card-cite" onclick="event.stopPropagation()">
         <span class="card-cite-text">${getCiteText(a)}</span>
         <button class="card-cite-btn" onclick="copyCite(${i})">复制</button>
       </div>` : ''}
-      ${kws ? `<div class="card-keywords">${kws}</div>` : ''}
-      ${a.doi ? `<div class="card-doi"><a href="https://doi.org/${a.doi}" target="_blank" onclick="event.stopPropagation()">https://doi.org/${esc(a.doi)}</a></div>` : ''}
       <div class="detail">
         <div class="detail-grid">
           ${a.doi ? `<div class="d-item"><label>DOI</label><span>${esc(a.doi)}</span></div>` : ''}
