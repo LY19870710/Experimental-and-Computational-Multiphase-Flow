@@ -211,6 +211,35 @@ body {
   line-height: 1.5;
   max-width: 700px;
 }
+.card-cite {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+  padding: 6px 10px;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border-left: 3px solid #2980b9;
+}
+.card-cite-text {
+  flex: 1;
+  font-size: 0.78rem;
+  color: #607d8b;
+  line-height: 1.5;
+}
+.card-cite-btn {
+  background: #2980b9;
+  color: #fff;
+  border: none;
+  padding: 3px 10px;
+  border-radius: 4px;
+  font-size: 0.72rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.2s;
+}
+.card-cite-btn:hover { background: #1a5276; }
+.card-cite-btn.copied { background: #27ae60; }
 .card-keywords {
   margin-top: 8px;
   display: flex;
@@ -551,6 +580,11 @@ function render() {
         </div>
       </div>
       <div class="card-authors">${shortNames}</div>
+      ${a.doi ? `
+      <div class="card-cite" onclick="event.stopPropagation()">
+        <span class="card-cite-text">${getCiteText(a)}</span>
+        <button class="card-cite-btn" onclick="copyCite(${i})">复制</button>
+      </div>` : ''}
       ${kws ? `<div class="card-keywords">${kws}</div>` : ''}
       ${a.doi ? `<div class="card-doi"><a href="https://doi.org/${a.doi}" target="_blank" onclick="event.stopPropagation()">https://doi.org/${esc(a.doi)}</a></div>` : ''}
       <div class="detail">
