@@ -546,6 +546,7 @@ function render() {
           <span class="badge-year">2026</span>
           ${a.type ? `<span class="badge-type">${esc(a.type)}</span>` : ''}
           ${volIssue ? `<span class="badge-type">${esc(volIssue)}</span>` : ''}
+          ${a.doi ? `<button class="btn-expand" style="color:#27ae60" onclick="event.stopPropagation();downloadRIS(${i})">RIS</button>` : ''}
           <button class="btn-expand" onclick="event.stopPropagation();toggle(this.closest('.card'))">展开 ▾</button>
         </div>
       </div>
@@ -568,7 +569,6 @@ function render() {
         <div class="d-links">
           ${a.url ? `<a href="${a.url}" target="_blank" onclick="event.stopPropagation()">View on SciOpen →</a>` : ''}
           ${a.pdf ? `<a href="${a.pdf}" target="_blank" onclick="event.stopPropagation()">Download PDF →</a>` : ''}
-          ${a.doi ? `<a href="javascript:void(0)" onclick="event.stopPropagation();downloadRIS(${i})" style="color:#27ae60">Download RIS →</a>` : ''}
         </div>
       </div>
     </div>`;
