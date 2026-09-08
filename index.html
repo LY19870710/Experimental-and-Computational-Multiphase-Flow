@@ -576,7 +576,7 @@ function render() {
           ${a.type ? `<span class="badge-type">${esc(a.type)}</span>` : ''}
           ${volIssue ? `<span class="badge-type">${esc(volIssue)}</span>` : ''}
           ${a.doi ? `<button class="btn-expand" style="color:#27ae60" onclick="event.stopPropagation();downloadRIS(${i})">Download RIS</button>` : ''}
-          <button class="btn-expand" onclick="event.stopPropagation();toggle(this.closest('.card'))">展开 ▾</button>
+          <button class="btn-expand toggle-btn" onclick="event.stopPropagation();toggle(this.closest('.card'))">展开 ▾</button>
         </div>
       </div>
       <div class="card-authors">${shortNames}</div>
@@ -607,7 +607,7 @@ function render() {
 /* ── Toggle ── */
 function toggle(card) {
   card.classList.toggle('open');
-  const btn = card.querySelector('.btn-expand');
+  const btn = card.querySelector('.toggle-btn');
   if (btn) {
     btn.textContent = card.classList.contains('open') ? '收起 ▴' : '展开 ▾';
   }
