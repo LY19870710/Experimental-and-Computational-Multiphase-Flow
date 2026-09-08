@@ -1,0 +1,254 @@
+[
+  {
+    "doi": "10.1007/s42757-025-0255-0",
+    "title": "A comparative analysis between population balance method and interfacial area transfer equation approaches for modeling gas–liquid two-phase flow in a vertical circular pipe",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0259-9",
+    "title": "Eulerian simulation of premixed submerged multiphase turbulent jets",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0253-2",
+    "title": "Numerical study of bubble dynamics and heat transfer characteristics in pool boiling manipulated by the electrowetting effect",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0250-5",
+    "title": "Evaluation of source and sink models in the one-group interfacial area transport equation of small pipes for simulating upward bubbly flow with one-dimensional two-fluid model-based code",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0257-y",
+    "title": "Modeling of spherical cap bubble flow patterns in a vertical pipeline using experimental wire mesh sensor data",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0246-1",
+    "title": "Integration bionic design of cavitation flow control for a hydrodynamic torque converter: CFD simulation and multiobjective optimization strategy",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0248-z",
+    "title": "Experimental and numerical study of the dynamics of a laser-induced cavitation bubble between two parallel walls: Effect of confinement and viscosity",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0240-7",
+    "title": "Clarification of the influence of both deflector angleθ1and cutting teeth arrangement angleθ2on the aeration performance of the cyclone aerator",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0272-z",
+    "title": "Impact of bubble-induced turbulence on two-phase flow dynamics at high void fraction in a large diameter channel",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-024-0238-6",
+    "title": "Comparative analysis of numerical algorithms for modeling complex solid‒liquid flow in a vertical conveying system with ceramic and expanded polystyrene particles",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-024-0237-7",
+    "title": "Evolutionary analysis of typical characteristics for a single bubble rising in shear-thinning viscoelastic liquids",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0264-z",
+    "title": "Image-based technique for measuring liquid-film velocity profile in annular flows",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0271-0",
+    "title": "Numerical investigation and acoustic detection of flow boiling regimes in a helical tube",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0265-y",
+    "title": "Numerical simulation of liquid sheet formation and primary atomization in a simplex pressure-swirl atomizer through a VOF-LES approach",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0256-z",
+    "title": "Improved lattice Boltzmann model for realistic multicomponent gas–liquid two-phase flow and its application to slug flow in T-shaped microchannels",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0252-3",
+    "title": "An open-source solver for two-phase viscoelastic fluid flow with sharp interface advection in OpenFOAM",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-026-0299-9",
+    "title": "Resuspension of graphite dust from a wall under shear flow in HTGRs based on DEM simulations and AFM measurements",
+    "volume": 8,
+    "issue": 3,
+    "issueIndex": "2089177781842268161"
+  },
+  {
+    "doi": "10.1007/s42757-025-0282-x",
+    "title": "Editorial from Guest Editors of Special Issue on Advancements in Modelling Aerosol Science for Drug Delivery and Health Care",
+    "volume": 8,
+    "issue": 2,
+    "issueIndex": "2059185043575197698"
+  },
+  {
+    "doi": "10.1007/s42757-025-0273-y",
+    "title": "Simulating respiratory droplet dispersion in ventilated office spaces: Effects of particle size and ventilation rate",
+    "volume": 8,
+    "issue": 2,
+    "issueIndex": "2059185043575197698"
+  },
+  {
+    "doi": "10.1007/s42757-025-0249-y",
+    "title": "Impact of COPD breathing profile and airflow relative humidity on drug delivery in mouth–throat airway through pMDIs:In vitroand CFD studies",
+    "volume": 8,
+    "issue": 2,
+    "issueIndex": "2059185043575197698"
+  },
+  {
+    "doi": "10.1007/s42757-024-0228-8",
+    "title": "Quantification of house dust mite deposition in the paranasal cavities following functional endoscopic sinus surgery",
+    "volume": 8,
+    "issue": 2,
+    "issueIndex": "2059185043575197698"
+  },
+  {
+    "doi": "10.1007/s42757-024-0207-0",
+    "title": "Computational fluid dynamics simulation of complete nasal saline irrigation in pre- and post-functional endoscopic surgery: A comparative analysis",
+    "volume": 8,
+    "issue": 2,
+    "issueIndex": "2059185043575197698"
+  },
+  {
+    "doi": "10.1007/s42757-025-0266-x",
+    "title": "Challenges of infant pulmonary drug delivery: Aerosol deposition during realistic breathing",
+    "volume": 8,
+    "issue": 2,
+    "issueIndex": "2059185043575197698"
+  },
+  {
+    "doi": "10.1007/s42757-025-0262-1",
+    "title": "Effects of applied spray mass on evaporation rate and deposition distribution of aerosol droplets in the respiratory tract",
+    "volume": 8,
+    "issue": 2,
+    "issueIndex": "2059185043575197698"
+  },
+  {
+    "doi": "10.1007/s42757-025-0267-9",
+    "title": "Transport and deposition of pharmaceutical aerosols in a helium–oxygen mixture in a CT-based nose-to-lung respiratory tract",
+    "volume": 8,
+    "issue": 2,
+    "issueIndex": "2059185043575197698"
+  },
+  {
+    "doi": "10.1007/s42757-025-0275-9",
+    "title": "Innovative applications and technological breakthroughs of artificial intelligence in complex multiphase flow systems: A review",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  },
+  {
+    "doi": "10.1007/s42757-025-0244-3",
+    "title": "Explaining the solution chemistry dependence of particle detachment by capillary forces",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  },
+  {
+    "doi": "10.1007/s42757-024-0226-x",
+    "title": "Characteristics of newly formed child droplets in the collisions of slurry droplets with solid particles",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  },
+  {
+    "doi": "10.1007/s42757-025-0254-1",
+    "title": "Evaluation of two-group IATE coupling with PBE for beyond bubbly flows in a large diameter pipe",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  },
+  {
+    "doi": "10.1007/s42757-025-0247-0",
+    "title": "Numerical investigation of dropwise condensation on plain and functional surfaces",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  },
+  {
+    "doi": "10.1007/s42757-025-0245-2",
+    "title": "Minimum fluidization velocity of three mineralogically different iron ore tailing samples: Comparison of empirical correlations and hydrodynamic study",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  },
+  {
+    "doi": "10.1007/s42757-024-0231-0",
+    "title": "Separation enhancement of conventional and square cyclones through the tailored inlet and vortex finder configurations using different particle characteristics",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  },
+  {
+    "doi": "10.1007/s42757-024-0219-9",
+    "title": "Characterization of bubble mobility during flow through fibrous porous media",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  },
+  {
+    "doi": "10.1007/s42757-024-0217-y",
+    "title": "Underwater interior ballistic process mechanism and precursor flow field characteristics based on multiphase flow coupling",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  },
+  {
+    "doi": "10.1007/s42757-024-0233-y",
+    "title": "Migration orientation of the laser-induced cavitation bubble near a vertically rigid boundary and free surface",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  },
+  {
+    "doi": "10.1007/s42757-025-0243-4",
+    "title": "A collapsing bubble-based micropump for viscous liquids",
+    "volume": 8,
+    "issue": 1,
+    "issueIndex": "2041701686721478657"
+  }
+]

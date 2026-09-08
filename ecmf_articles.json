@@ -1,0 +1,2226 @@
+[
+  {
+    "doi": "10.1007/s42757-025-0255-0",
+    "title": "A comparative analysis between population balance method and interfacial area transfer equation approaches for modeling gas–liquid two-phase flow in a vertical circular pipe",
+    "authors": [
+      {
+        "name": "Shahriar Mahmud"
+      },
+      {
+        "name": "Yuanhang Chen"
+      }
+    ],
+    "affiliations": [
+      "Craft & Hawkins Department of Petroleum Engineering,UNITED STATES",
+      "Louisiana State University,UNITED STATES",
+      "Department of Petroleum and Mineral Resources Engineering,BANGLADESH",
+      "Bangladesh University of Engineering and Technology,BANGLADESH",
+      "Craft & Hawkins Department of Petroleum Engineering,UNITED STATES",
+      "Louisiana State University,UNITED STATES"
+    ],
+    "keywords": [
+      "bubble coalescence",
+      "bubble breakup",
+      "1D modeling",
+      "large L/D pipe simulation",
+      "non-Newtonian fluid"
+    ],
+    "abstract": "This review explores the population balance method (PBM) and the interfacial area transport equation (IATE) for modeling gas–liquid two-phase flow in vertical pipes. While both methods capture bubble dynamics, they differ in theoretical formulation and computational demands. PBM excels in handling complex coalescence and breakup mechanisms, making it particularly suited for non-Newtonian fluids and high-pressure conditions (up to 2 MPa). However, its computational intensity limits its applicability to large-scale systems. IATE, in contrast, offers an efficient framework for predicting interfacial dynamics and flow regime transitions, making it advantageous for large-scale industrial simulations. However, its empirical correlations remain constrained to air–water systems and moderate pressures (up to 0.6 MPa), limiting its accuracy in complex fluid environments. This review synthesizes these methods’ principles, strengths, and limitations and discusses the implications of choosing one method over another depending on specific application requirements. The comparative analysis emphasizes the need to select appropriate modeling techniques based on targeted operational goals, contributing to more efficient and safer design in engineering practices.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "313",
+    "lastpage": "327",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/4/30",
+    "received": "15 January 2025",
+    "revised": "15 February 2025",
+    "accepted": "22 March 2025",
+    "published": "30 April 2026",
+    "type": "Review",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0255-0",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0255-0.pdf",
+    "internal_id": "2089177730877280258",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0259-9",
+    "title": "Eulerian simulation of premixed submerged multiphase turbulent jets",
+    "authors": [
+      {
+        "name": "Vikrant Kamble"
+      },
+      {
+        "name": "Jochen Fröhlich"
+      },
+      {
+        "name": "Roland Rzehak"
+      }
+    ],
+    "affiliations": [
+      "Institute of Fluid Mechanics,GERMANY",
+      "Technische Universität Dresden, 01062,GERMANY",
+      "HZDR Innovation GmbH,GERMANY",
+      "FLSmidth A/S,DENMARK",
+      "Institute of Fluid Mechanics,GERMANY",
+      "Technische Universität Dresden, 01062,GERMANY",
+      "Institute of Fluid Dynamics,Helmholtz-Zentrum Dresden-Rossendorf,GERMANY"
+    ],
+    "keywords": [
+      "dispersed multiphase flow",
+      "Euler–Euler two-fluid model",
+      "closure relations",
+      "turbulent jet",
+      "CFD simulation",
+      "model validation"
+    ],
+    "abstract": "Premixed submerged multiphase turbulent jet flows occur in a variety of important processes in chemical and mineral engineering to enhance mixing and mass transfer. Computational fluid dynamics (CFD) simulations of such processes on industrial scales are principally feasible within the Eulerian framework of interpenetrating continua. However, practical application requires suitable closure models to account for phenomena on the scale of individual particles or bubbles, which are not resolved in this approach. The present work applies closure relations, which were previously established for different geometries, such as bubble columns, pipe flows, and stirred tanks. CFD simulations based on these models are compared with experimental data from the literature for two-phase gas–liquid and solid–liquid turbulent jets. Overall, a reasonable agreement between the simulation and experiment is found. Possible causes for the remaining differences are discussed, and directions for further research are identified. Finally, simulations are also presented for three-phase gas–solid–liquid turbulent jets.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "328",
+    "lastpage": "360",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/5/12",
+    "received": "27 September 2024",
+    "revised": "07 March 2025",
+    "accepted": "20 April 2025",
+    "published": "12 May 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0259-9",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s42757-025-0259-9.pdf",
+    "internal_id": "2089177767334170626",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0253-2",
+    "title": "Numerical study of bubble dynamics and heat transfer characteristics in pool boiling manipulated by the electrowetting effect",
+    "authors": [
+      {
+        "name": "Mohammed Hirpho Tobe"
+      },
+      {
+        "name": "Xiao-Bin Li"
+      },
+      {
+        "name": "Hong-Na Zhang"
+      },
+      {
+        "name": "Feng-Chen Li"
+      }
+    ],
+    "affiliations": [
+      "State Key Laboratory of Engines,CHINA",
+      "School of Mechanical Engineering,CHINA",
+      "Tianjin University, 300072,CHINA",
+      "Department of Mathematics,ETHIOPIA",
+      "Arsi University,ETHIOPIA",
+      "State Key Laboratory of Engines,CHINA",
+      "School of Mechanical Engineering,CHINA",
+      "Tianjin University, 300072,CHINA",
+      "State Key Laboratory of Engines,CHINA",
+      "School of Mechanical Engineering,CHINA",
+      "Tianjin University, 300072,CHINA",
+      "State Key Laboratory of Engines,CHINA",
+      "School of Mechanical Engineering,CHINA",
+      "Tianjin University, 300072,CHINA"
+    ],
+    "keywords": [
+      "pool boiling",
+      "electrowetting (EW)",
+      "bubble dynamics",
+      "phase field",
+      "numerical simulation"
+    ],
+    "abstract": "The study focuses on understanding vapor bubble dynamics and heat transfer characteristics in pool boiling influenced by electrowetting (EW), a critical phenomenon for enhancing heat transfer efficiency in applications such as power generation and electronic cooling. EW is a promising method that allows precise control over fluid interfaces through electric fields, altering bubble growth, detachment, and contact angles. This study leverages numerical simulations using the phase-field interface tracking approach to examine the impact of direct current (DC) and alternating current (AC) EW on bubble dynamics. The results demonstrate that increased applied voltages enhance bubble detachment and decrease the contact angle, improving heat transfer rates. In the case of AC electrowetting, as the frequency increases, the fluid interface begins to experience difficulty in keeping up with the rapid voltage oscillations, and then the detachment time is slow. Moreover, it is demonstrated that compared to the impact of AC and DC electrowetting on bubble dynamics, the bubble tends to grow more rapidly when DCEW is applied. This is because the applied voltage is constant, which provides a steady force, resulting in more uniform and potentially faster bubble growth.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "361",
+    "lastpage": "374",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/5/6",
+    "received": "03 December 2024",
+    "revised": "07 March 2025",
+    "accepted": "15 March 2025",
+    "published": "06 May 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0253-2",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s42757-025-0253-2.pdf",
+    "internal_id": "2089177772782571522",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0250-5",
+    "title": "Evaluation of source and sink models in the one-group interfacial area transport equation of small pipes for simulating upward bubbly flow with one-dimensional two-fluid model-based code",
+    "authors": [
+      {
+        "name": "Mengsi Shen"
+      },
+      {
+        "name": "Meng Lin"
+      },
+      {
+        "name": "Yanhua Yang"
+      },
+      {
+        "name": "Wei Li"
+      },
+      {
+        "name": "Pengcheng Zhao"
+      },
+      {
+        "name": "Zijing Liu"
+      }
+    ],
+    "affiliations": [
+      "School of Nuclear Science and Technology,CHINA",
+      "University of South China, 421001,CHINA",
+      "Key Laboratory of Advanced Nuclear Energy Design and Safety, Ministry of Education,CHINA",
+      "University of South China, 421001,CHINA",
+      "School of Nuclear Science and Engineering,CHINA",
+      "Shanghai Jiao Tong University, 200240,CHINA",
+      "Key Laboratory of Nuclear Power Systems and Equipment, Ministry of Education,CHINA",
+      "Shanghai Jiao Tong University, 200240,CHINA",
+      "School of Nuclear Science and Engineering,CHINA",
+      "Shanghai Jiao Tong University, 200240,CHINA",
+      "School of Nuclear Science and Technology,CHINA",
+      "University of South China, 421001,CHINA",
+      "Key Laboratory of Advanced Nuclear Energy Design and Safety, Ministry of Education,CHINA",
+      "University of South China, 421001,CHINA",
+      "School of Nuclear Science and Technology,CHINA",
+      "University of South China, 421001,CHINA",
+      "Key Laboratory of Advanced Nuclear Energy Design and Safety, Ministry of Education,CHINA",
+      "University of South China, 421001,CHINA",
+      "School of Nuclear Science and Technology,CHINA",
+      "University of South China, 421001,CHINA",
+      "Key Laboratory of Advanced Nuclear Energy Design and Safety, Ministry of Education,CHINA",
+      "University of South China, 421001,CHINA"
+    ],
+    "keywords": [
+      "interfacial area transport equation (IATE)",
+      "one-dimensional two-fluid model (1D-TFM)",
+      "source and sink models",
+      "accurateness",
+      "generality"
+    ],
+    "abstract": "The interfacial area transport equation (IATE) is able to improve the computation of the interfacial closure model in a one-dimensional two-fluid model (1D-TFM), so it is essential to pay attention to the accuracy and generality of source and sink models in IATE. To evaluate the accuracy and generality of applying the source and sink models in one-group IATE for small diameter pipes to simulate different undeveloped bubbly flows in both small and large diameter pipes, the code where the 1D-TFM is coupled with one-group IATE was developed first, i.e., Solver-IATE. Then, Solver-IATE was used to simulate the coalescence-dominant experiment, the breakup-dominant experiment and the coalescence-breakup-dominant experiment in different diameter pipes with the different models. The results showed that the Hibiki and Ishii (2000) model, Hibiki and Ishii (2002) model, and Dave (2016) model are more suitable for simulating the breakup-dominant experiment, and the Ishii et al. (2001) model is the most accurate model for the coalescence-dominant experiment. Meanwhile, the model can be generally suitable for pipes with different diameters, only when it has the following two characteristics: ① considering wake entrainment and ② considering the turbulence enhancement due to the free movement of bubbles.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "375",
+    "lastpage": "394",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/5/7",
+    "received": "30 May 2024",
+    "revised": "17 January 2025",
+    "accepted": "21 February 2025",
+    "published": "07 May 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0250-5",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s42757-025-0250-5.pdf",
+    "internal_id": "2089177724648738817",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0257-y",
+    "title": "Modeling of spherical cap bubble flow patterns in a vertical pipeline using experimental wire mesh sensor data",
+    "authors": [
+      {
+        "name": "Eric Thompson Brantson"
+      },
+      {
+        "name": "Mukhtar Abdulkadir"
+      },
+      {
+        "name": "Emmanuel Epelle"
+      },
+      {
+        "name": "Francis Adjei"
+      },
+      {
+        "name": "Fuseini Naziru Issaka"
+      },
+      {
+        "name": "Zainab Ololade Iyiola"
+      },
+      {
+        "name": "Adu-Awuku Joel"
+      },
+      {
+        "name": "Nannan Liu"
+      },
+      {
+        "name": "Laliri Bright Ntebu"
+      }
+    ],
+    "affiliations": [
+      "Department of Petroleum and Natural Gas Engineering,GHANA",
+      "GNPC School of Petroleum Studies,GHANA",
+      ",GHANA",
+      "Department of Chemical Engineering,NIGERIA",
+      "Federal University of Technology, Minna,NIGERIA",
+      "School of Engineering,UNITED KINGDOM",
+      "University of Edinburgh,UNITED KINGDOM",
+      "Department of Petroleum and Natural Gas Engineering,GHANA",
+      "GNPC School of Petroleum Studies,GHANA",
+      ",GHANA",
+      "Department of Materials Science and Engineering,UNITED STATES",
+      "Missouri University of Science and Technology,UNITED STATES",
+      "Mewbourne School of Petroleum and Geological Engineering,UNITED STATES",
+      "University of Oklahoma,UNITED STATES",
+      "Department of Petroleum and Natural Gas Engineering,GHANA",
+      "GNPC School of Petroleum Studies,GHANA",
+      ",GHANA",
+      "School of Petroleum and Natural Gas Engineering,CHINA",
+      "Changzhou University, 213164,CHINA",
+      "Department of Petroleum and Natural Gas Engineering,GHANA",
+      "GNPC School of Petroleum Studies,GHANA",
+      ",GHANA"
+    ],
+    "keywords": [
+      "wire mesh sensor (WMS)",
+      "spherical cap bubble (SCB)",
+      "explainable artificial intelligence",
+      "support vector machine (SVM)",
+      "pressure drop",
+      "convolutional neural network (CNN)"
+    ],
+    "abstract": "The classification of spherical cap bubble (SCB) flow in pipes is a major challenge when gas and liquid flow simultaneously in many industrial processes. Moreover, several conventional methods are used to classify SCB flows but are restricted by operating conditions and limited databases. Furthermore, real-time automated monitoring of gas–liquid flow is challenging due to inadequate image processing techniques. This study uses conventional, convolutional neural network (CNN) and hybrid methods to classify air and silicone oil SCB flow in an upward vertical pipe. Furthermore, three experimental runs were used to obtain images for the SCB flow (fine, fine-coarse, and coarse SCB bubbles) using advanced wire mesh sensor (WMS) instrumentation. Additionally, the WMS time-averaged velocity measurements for the three experimental runs were validated using electrical capacitance tomography (ECT) instrumentation. Monotonic and nonmonotonic pressure profiles were observed along the pipe yielding pressure drops across the entire pipe length. The testing supervised CNN classification results showed an accuracy (97.52%), sensitivity (97.32%), specificity (98.80%), precision (97.21%), and F1 score (97.30%) compared to the state-of-the-art supervised machine learning (ML) models, with SVM having an accuracy of 49.60% being the best. CNN was combined with SVM as a hybrid classifier, which resulted in an improved accuracy (98.57%), sensitivity (97.73%), specificity (99.17%), precision (97.62%), and F1 score (97.66%). Additionally, local interpretable model-agnostic explanations, gradCAM, and occlusion sensitivity as explainable artificial intelligence (XAI) techniques integrated into the CNN model were used to explain SCB image results that contributed to the total classification scores. Furthermore, the receiver operating characteristic (ROC) curve, area under the curve (AUC), and confusion matrix (CM) also showed that both the CNN and hybrid CNN-SVM classifiers performed well on the testing datasets. Last, the SCB classifications with the standalone CNN and hybrid CNN-SVM models’ generalization capability have improved SCB classification accuracy compared to conventional techniques with certainty and confidence for industrial applications.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "395",
+    "lastpage": "419",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/4/20",
+    "received": "28 October 2024",
+    "revised": "22 March 2025",
+    "accepted": "05 April 2025",
+    "published": "20 April 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0257-y",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0257-y.pdf",
+    "internal_id": "2089177716625035266",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0246-1",
+    "title": "Integration bionic design of cavitation flow control for a hydrodynamic torque converter: CFD simulation and multiobjective optimization strategy",
+    "authors": [
+      {
+        "name": "Jing Li"
+      },
+      {
+        "name": "Changying Li"
+      },
+      {
+        "name": "Chunbao Liu"
+      }
+    ],
+    "affiliations": [
+      "College of Animal Science and Technology,CHINA",
+      "Southwest University, 400715,CHINA",
+      "School of Mechanical and Aerospace Engineering,Jilin,CHINA",
+      "Jilin University,Changchun,Jilin,CHINA",
+      "College of Animal Science and Technology,CHINA",
+      "Southwest University, 400715,CHINA",
+      "School of Mechanical and Aerospace Engineering,Jilin,CHINA",
+      "Jilin University,Changchun,Jilin,CHINA"
+    ],
+    "keywords": [
+      "cavitation",
+      "hydrodynamic torque converter",
+      "bionic suppression",
+      "leading-edge tubercles",
+      "flow control"
+    ],
+    "abstract": "The pursuit of high-power density has emerged as a prominent objective in the design of turbine machinery. Investigating the unsteady cavitation characteristics due to the complex rotor–stator interaction resulting from the high rotating speed within the working chamber is challenging but often overlooked. This study aims to provide numerical approaches for evaluating cavitating performance and exploring potential suppression methods. Therefore, a full wheel transient cavitation model is established to accurately capture the dynamic evolution law of the vortex morphology inside the torque converter by integrating experimental data on hydraulic performance under different operating conditions. The findings indicate that the development of cavitation is observed to primarily align with variations in the incident angle. Under the stall condition, the stator blade experiencing the greatest incident angle and flow rate is affected by the oil, leading to the worst-case scenario for cavitation. However, when operating under high-speed ratio settings, the discrepancy in rotating speed between the pump and the turbine is diminished, resulting in an increase in pressure throughout the fluid channel without the occurrence of cavitation. This ensures the maintenance of maximum efficiency. By employing the Latin hypercube experimental design method in conjunction with the multiobjective optimization algorithm, the study investigates the effects of bionic tubercles on both hydrodynamic characteristics and cavitation performance. It is confirmed that the amplitude has a more significant control influence on cavitation control. The optimized model has the capability to mitigate the formation of cavitation, inhibit the occurrence of separation vortex, and minimize flow losses.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "420",
+    "lastpage": "436",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/2/14",
+    "received": "26 June 2024",
+    "revised": "27 November 2024",
+    "accepted": "19 January 2025",
+    "published": "14 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0246-1",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0246-1.pdf",
+    "internal_id": "2089177777933176834",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0248-z",
+    "title": "Experimental and numerical study of the dynamics of a laser-induced cavitation bubble between two parallel walls: Effect of confinement and viscosity",
+    "authors": [
+      {
+        "name": "Abdolrahman Dadvand"
+      },
+      {
+        "name": "Ebrahim Kadivar"
+      },
+      {
+        "name": "Saman A. Bapir"
+      },
+      {
+        "name": "Kawa M. A. Manmi"
+      },
+      {
+        "name": "Ould el Moctar"
+      }
+    ],
+    "affiliations": [
+      "Faculty of Mechanical Engineering,Urmia University of Technology, 57166-17165",
+      "Faculty of Mechanical Engineering,Tarbiat Modares University,Institute of Ship Technology,GERMANY",
+      "University of Duisburg-Essen, 47057,GERMANY",
+      "Department of Mathematics,IRAQ",
+      "Salahaddin University-Erbil,IRAQ",
+      "Mathematics Institute,University of Warwick,Department of Mathematics,IRAQ",
+      "Salahaddin University-Erbil,IRAQ",
+      "Institute of Ship Technology,GERMANY",
+      "University of Duisburg-Essen, 47057,GERMANY"
+    ],
+    "keywords": [
+      "finite element method (FEM)",
+      "micropolar flow",
+      "radiation",
+      "micro-gyration",
+      "porous plate"
+    ],
+    "abstract": "The collapse of a cavitation bubble near a rigid boundary induces a high-speed transient liquid jet that accelerates the liquid to the boundary. In this study, the dynamics of a laser-induced bubble confined between two parallel walls is studied experimentally and numerically. The effects of confinement/gap distance H as well as the off-centre distance δ on the dynamics of the bubble are examined. The numerical results are validated against the corresponding experimental data in terms of the evolution of the bubble shape during expansion, collapse, and rebound. Furthermore, a case with a more confined situation is considered. The numerical simulation elucidates intricate aspects of the bubble dynamics around the jet impact, which are not obtainable through experiments. The numerical results are scrutinised in a more comprehensive manner in order to derive the pressure and velocity fields, thereby determining their impact on the walls. It was found that the location of the bubble with respect to the walls and the degree of confinement determine the number as well as the strength of the liquid jet. Typically, when the confinement increased (H decreased), the peak pressure at the upper wall decreased significantly (17%) for a given off-centre distance δ, whereas at the lower wall, it decreased by 39%. Furthermore, the velocity at the upper and lower walls decreased by approximately 2% and 20%, respectively. Finally, the liquid jet’s pressure and velocity impacting on the rigid walls decrease with increasing the liquid viscosity. This study provides new insights into the complex fluid dynamics of confined laser-induced cavitation bubbles, which is relevant for various engineering applications.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "437",
+    "lastpage": "456",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/4/30",
+    "received": "28 August 2024",
+    "revised": "01 November 2024",
+    "accepted": "06 February 2025",
+    "published": "30 April 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0248-z",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0248-z.pdf",
+    "internal_id": "2089177691115278337",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0240-7",
+    "title": "Clarification of the influence of both deflector angle <i>θ</i><sub>1</sub> and cutting teeth arrangement angle <i>θ</i><sub>2</sub> on the aeration performance of the cyclone aerator",
+    "authors": [
+      {
+        "name": "Tong Zhao"
+      },
+      {
+        "name": "Keke Xu"
+      },
+      {
+        "name": "Zhilong Wang"
+      },
+      {
+        "name": "Bo Sun"
+      },
+      {
+        "name": "Chaofan Pang"
+      },
+      {
+        "name": "Yosephus Ardean Kurnianto Prayitno"
+      }
+    ],
+    "affiliations": [
+      "School of Mechanical and Precision Instrument Engineering,CHINA",
+      "Xi’an University of Technology, 710048,CHINA",
+      "School of Mechanical and Precision Instrument Engineering,CHINA",
+      "Xi’an University of Technology, 710048,CHINA",
+      "School of Mechanical and Precision Instrument Engineering,CHINA",
+      "Xi’an University of Technology, 710048,CHINA",
+      "School of Mechanical and Precision Instrument Engineering,CHINA",
+      "Xi’an University of Technology, 710048,CHINA",
+      "School of Mechanical and Precision Instrument Engineering,CHINA",
+      "Xi’an University of Technology, 710048,CHINA",
+      "Department of Mechanical Engineering,INDONESIA",
+      "Universitas Gadjah Mada,INDONESIA"
+    ],
+    "keywords": [
+      "deflector angle",
+      "cutting teeth arrangement angle",
+      "cyclone aerator"
+    ],
+    "abstract": "This paper investigated the influence of both deflector angle θ1 and cutting teeth arrangement angle θ2 on the aeration performance of a cyclone aerator by using the CFD-PBM coupling model. The aeration performance of the cyclone aerator is evaluated by the proposed bubble breakage rate η. Specifically, five different θ1 values (30°, 45°, 60°, 75°, and 90°) and five different θ2 values (6°, 12°, 18°, 24°, and 30°) are selected. Thus, two factors with five levels result in 25 simulation cases. Meanwhile, two-factor variance analysis is performed with SPSS software; as a result, both the intersubject factor and the results of the intersubject effect testing are analyzed. The simulation results show that the cyclone aerator has a maximum η in the cases of θ1 = 90° and θ2 = 30°. Furthermore, η of the optimal cyclone aerator structure model with θ1 = 90° and θ2 = 30° is increased by 12.5% compared with that of the original model. To verify the correctness of the simulated results, clear water aeration and oxygenation experiments were performed by analyzing KLas and SOTR. The experimental results show that compared with the original model, the KLas of the optimal cyclone aerator structure model is increased by 27.1%, while the SOTR of the optimal cyclone aerator structure model is increased by 27.7%. Additionally, after using ImageJ software to deal with the experimental images, it is clear that the optimized cyclone aerator has smaller and denser bubbles. Therefore, the aeration performance of the cyclone aerator can be largely improved in the cases of the optimal θ1 = 90° and θ2 = 30°.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "457",
+    "lastpage": "472",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/5/6",
+    "received": "28 May 2024",
+    "revised": "03 October 2024",
+    "accepted": "17 January 2025",
+    "published": "06 May 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0240-7",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s42757-025-0240-7.pdf",
+    "internal_id": "2089177749529350146",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0272-z",
+    "title": "Impact of bubble-induced turbulence on two-phase flow dynamics at high void fraction in a large diameter channel",
+    "authors": [
+      {
+        "name": "Sungje Hong"
+      },
+      {
+        "name": "Joshua P. Schlegel"
+      },
+      {
+        "name": "Subash L. Sharma"
+      }
+    ],
+    "affiliations": [
+      "Department of Nuclear Engineering and Radiation Science,UNITED STATES",
+      "Missouri University of Science and Technology,UNITED STATES",
+      "Department of Nuclear Engineering and Radiation Science,UNITED STATES",
+      "Missouri University of Science and Technology,UNITED STATES",
+      "Department of Nuclear Engineering and Radiation Science,UNITED STATES",
+      "Missouri University of Science and Technology,UNITED STATES"
+    ],
+    "keywords": [
+      "interfacial area transport equation (IATE)",
+      "beyond bubbly flows",
+      "bubble-induced turbulence (BIT)",
+      "large diameter pipe"
+    ],
+    "abstract": "This study represents the first investigation into the influence of bubble-induced turbulence (BIT) on interfacial area transport mechanisms in gas–liquid two-phase flows under conditions of high void fraction and high velocity in a large diameter channel. Given the unique characteristics of bubble flow in larger channels, the turbulent effects induced by bubbles differ from those observed in smaller channels. However, limited research exists regarding the impact of BIT beyond bubbly flows in large-diameter channels. To address this gap, two approaches for implementing the BIT model are explored: a direct method and an indirect method. This paper assesses both the general and individual effects of BIT. This comparison helps identify the influence of BIT on local distributions of key flow parameters, including turbulent kinetic energy (TKE), turbulent dissipation rate (ε or TDR), void fraction, and interfacial area concentration (IAC). This study further analyzes its impact on the three primary components of the two-group (2G) interfacial area transport equation (IATE) and investigates the coupling mechanisms of two different BIT model approaches and their effects on two-phase flow parameters. The results show that the presence of BIT enhances both TKE and ε (or TDR), resulting in variations in the void fraction and IAC profiles under different flow conditions and for different bubble groups. These findings underscore the importance of incorporating BIT in studies of large-diameter channels, as they enhance the understanding and prediction of gas–liquid flow behaviors.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "473",
+    "lastpage": "504",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/5/11",
+    "received": "31 October 2024",
+    "revised": "07 July 2025",
+    "accepted": "18 July 2025",
+    "published": "11 May 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0272-z",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s42757-025-0272-z.pdf",
+    "internal_id": "2089177736522813442",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-024-0238-6",
+    "title": "Comparative analysis of numerical algorithms for modeling complex solid‒liquid flow in a vertical conveying system with ceramic and expanded polystyrene particles",
+    "authors": [
+      {
+        "name": "Mahmoud A. El-Emam"
+      },
+      {
+        "name": "Ling Zhou"
+      },
+      {
+        "name": "Eman Yasser"
+      }
+    ],
+    "affiliations": [
+      "School of Mechanical Engineering,CHINA",
+      "Nantong University, 226019,CHINA",
+      "Department of Agricultural and Biosystems Engineering,EGYPT",
+      "Alexandria University,EGYPT",
+      "Fluid Machinery Engineering Technology Research Center,CHINA",
+      "Jiangsu University, 212013,CHINA",
+      "Fluid Machinery Engineering Technology Research Center,CHINA",
+      "Jiangsu University, 212013,CHINA"
+    ],
+    "keywords": [
+      "two-phase flow",
+      "CFD–DEM/DPM",
+      "turbulent motion dynamics",
+      "hydraulic conveying systems",
+      "numerical validation"
+    ],
+    "abstract": "This work presents a numerical investigation of a supported upflow vertical pipe model conveying a two-phase particle–liquid flow, focusing on elucidating the turbulent motion dynamics of the particle–liquid interactions. Two numerical methods, computational fluid dynamics coupled with the discrete element method (CFD–DEM) and discrete phase model (CFD–DPM), were employed and validated against experimental measurements. The study involved ceramic particles and expanded polystyrene particles with diameters of 2.32 mm and 1.79 mm, respectively, representing materials with heavier and lighter densities than water. Validation of the CFD–DEM/DPM models across various flow conditions demonstrated the applicability and accuracy of the CFD–DEM method in simulating this flow system, successfully predicting the main flow characteristics. Furthermore, the CFD–DEM approach exhibited minor average deviation errors, highlighting its superior accuracy in capturing the experimental dynamics. The findings revealed that under all operating conditions with applying lift force, the time-averaged variables—including particle volume fraction, axial liquid velocity, and axial particle velocity—exhibited maximum values at the pipe center, gradually decreasing radially toward the wall. The volume fraction profiles indicated that ceramic particles were almost uniformly distributed at low flow rates, while higher flow rates led to their concentration toward the center of the pipe. Conversely, the distribution of the lighter polystyrene particles showed a wall peaking at both low and high flow rates, with the peaking effect diminishing as the flow rate increased. The force analysis revealed that the drag, lift, and interparticle forces dominate the upflow of the conveying vertical pipe, greatly affecting the flow dynamics. The results obtained from this investigation are anticipated to contribute significantly to optimizing hydraulic conveying systems.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "505",
+    "lastpage": "523",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/2/27",
+    "received": "13 July 2024",
+    "revised": "12 October 2024",
+    "accepted": "20 December 2024",
+    "published": "27 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0238-6",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0238-6.pdf",
+    "internal_id": "1893924927843188738",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-024-0237-7",
+    "title": "Evolutionary analysis of typical characteristics for a single bubble rising in shear-thinning viscoelastic liquids",
+    "authors": [
+      {
+        "name": "Ziyi Yang"
+      },
+      {
+        "name": "Shihuan Zhang"
+      },
+      {
+        "name": "Mingjun Pang"
+      }
+    ],
+    "affiliations": [
+      "School of Mechanical Engineering and Rail Transit,CHINA",
+      "Changzhou University, 213164,CHINA",
+      "School of Mechanical Engineering and Rail Transit,CHINA",
+      "Changzhou University, 213164,CHINA",
+      "School of Mechanical Engineering and Rail Transit,CHINA",
+      "Changzhou University, 213164,CHINA"
+    ],
+    "keywords": [
+      "viscoelastic fluid",
+      "bubble dynamics",
+      "characteristic parameter evolution",
+      "direct numerical simulation"
+    ],
+    "abstract": "To elucidate the dynamics of a single bubble rising through shear-thinning viscoelastic liquids, the evolution of characteristic parameters against time was analyzed. The bubble interface was tracked using the volume of fluid (VOF) method, the liquid’s shear-thinning behavior was characterized using the Carreau model, and the viscoelasticity was characterized using the FENE-CR model. Detailed analyses were conducted on bubble shape, liquid-phase velocity, static pressure, viscous stress, and elastic stress fields in representative scenarios. The results reveal that while the elastic stress in the liquid generally increases over time, the viscous stress is significantly influenced by a negative wake, showing complex variations. The hysteresis of elastic stress indicates that bubble deformation in viscoelastic liquids occurs in two distinct phases: initially dominated by viscous stress, surface tension, and pressure, followed by a phase where elastic stress becomes the primary influence. When the shear-thinning effect is pronounced (n = 0.2) and the surface tension is relatively weak (Eo = 100), a single bubble tends to deform into a cap-like shape with a tip. The interplay between elastic and viscous stresses at the bubble’s tail leads to a negative wake, and the bubble’s periodic deformation correlates with the ratio of the polymer relaxation time to the bubble motion time.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "524",
+    "lastpage": "556",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/2/27",
+    "received": "15 August 2024",
+    "revised": "28 October 2024",
+    "accepted": "02 December 2024",
+    "published": "27 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0237-7",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0237-7.pdf",
+    "internal_id": "2089177696857280513",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0264-z",
+    "title": "Image-based technique for measuring liquid-film velocity profile in annular flows",
+    "authors": [
+      {
+        "name": "Ana Luiza B. Santana"
+      },
+      {
+        "name": "Natan S. Reginaldo"
+      },
+      {
+        "name": "Moisés A. Marcelino Neto"
+      },
+      {
+        "name": "Marco J. da Silva"
+      },
+      {
+        "name": "Eduardo N. dos Santos"
+      },
+      {
+        "name": "Rigoberto E. M. Morales"
+      }
+    ],
+    "affiliations": [
+      "Multiphase Flow Research Center,Curitiba,BRAZIL",
+      "Federal University of Technology - Paraná,Curitiba,BRAZIL",
+      "Multiphase Flow Research Center,Curitiba,BRAZIL",
+      "Federal University of Technology - Paraná,Curitiba,BRAZIL",
+      "Multiphase Flow Research Center,Curitiba,BRAZIL",
+      "Federal University of Technology - Paraná,Curitiba,BRAZIL",
+      "Institute of Measurement Technology,AUSTRIA",
+      "Johannes Kepler University Linz,AUSTRIA",
+      "Multiphase Flow Research Center,Curitiba,BRAZIL",
+      "Federal University of Technology - Paraná,Curitiba,BRAZIL",
+      "Multiphase Flow Research Center,Curitiba,BRAZIL",
+      "Federal University of Technology - Paraná,Curitiba,BRAZIL"
+    ],
+    "keywords": [
+      "annular flow",
+      "phase correlation",
+      "image registration",
+      "flow measurement"
+    ],
+    "abstract": "This work focuses on measuring the velocity profiles of the liquid phase in annular flows by high-speed camera snapshots. This parameter is important for developing flow models and, therefore, improving engineering processes involving heat and mass transfer. This study introduces an image-based technique based on two-dimensional phase correlation to estimate the velocity profiles of liquid films in downward annular gas–liquid flows. High-speed camera images capture the dynamic behavior of disturbance waves and ripples on the liquid film surface. By analyzing sequential images, the method calculates translational offsets, from which velocity profiles are derived. These velocities are input into a mass conservation model to compute the average liquid film thickness, which is then compared with measurements from a conductance sensor. The results show deviations from reference sensor data of approximately 5% for a 26 mm pipe diameter and up to 20% for a 50 mm diameter, indicating reasonable agreement. Additionally, the technique successfully detects and quantifies droplet entrainment from disturbance waves, with deviations within 10% compared to manual measurements.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "557",
+    "lastpage": "574",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/3/24",
+    "received": "28 November 2024",
+    "revised": "30 May 2025",
+    "accepted": "03 June 2025",
+    "published": "24 March 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0264-z",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0264-z.pdf",
+    "internal_id": "2089177761927712769",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0271-0",
+    "title": "Numerical investigation and acoustic detection of flow boiling regimes in a helical tube",
+    "authors": [
+      {
+        "name": "Chao-Guo Chen"
+      },
+      {
+        "name": "Yan Wang"
+      },
+      {
+        "name": "Xiao-Bin Li"
+      },
+      {
+        "name": "Hong-Na Zhang"
+      },
+      {
+        "name": "Feng-Chen Li"
+      }
+    ],
+    "affiliations": [
+      "State Key Laboratory of Engines,CHINA",
+      "School of Mechanical Engineering,CHINA",
+      "Tianjin University, 300072,CHINA",
+      "State Key Laboratory of Engines,CHINA",
+      "School of Mechanical Engineering,CHINA",
+      "Tianjin University, 300072,CHINA",
+      "State Key Laboratory of Engines,CHINA",
+      "School of Mechanical Engineering,CHINA",
+      "Tianjin University, 300072,CHINA",
+      "State Key Laboratory of Engines,CHINA",
+      "School of Mechanical Engineering,CHINA",
+      "Tianjin University, 300072,CHINA",
+      "State Key Laboratory of Engines,CHINA",
+      "School of Mechanical Engineering,CHINA",
+      "Tianjin University, 300072,CHINA"
+    ],
+    "keywords": [
+      "boiling acoustics (BA)",
+      "flow regime identification",
+      "convolutional neural network (CNN)",
+      "helical tube flow boiling",
+      "noise-robust classification"
+    ],
+    "abstract": "Boiling acoustics (BA) offers a noninvasive approach for two-phase flow regime identification, yet its correlation with specific boiling regimes under flow conditions remains poorly characterized. This study simulates flow boiling and corresponding acoustic emissions in a helical tube to establish the relationship between flow regimes and their acoustic signatures. Machine learning (ML) models, particularly a convolutional neural network (CNN), are trained to automate regime classification. The results reveal distinct acoustic features: plug flow exhibits high-frequency dominance, wavy flow is characterized by low-frequency components, and slug flow combines both. BA-based classification is numerically validated and further enhanced by the CNN model, which achieves 97.5% accuracy even under strong white noise (SD = 0.7). These findings demonstrate BA’s potential as a robust, real-time tool for monitoring and controlling flow boiling processes in industrial systems.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "575",
+    "lastpage": "591",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/5/7",
+    "received": "07 October 2024",
+    "revised": "06 July 2025",
+    "accepted": "08 July 2025",
+    "published": "07 May 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0271-0",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s42757-025-0271-0.pdf",
+    "internal_id": "2089177757183954945",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0265-y",
+    "title": "Numerical simulation of liquid sheet formation and primary atomization in a simplex pressure-swirl atomizer through a VOF-LES approach",
+    "authors": [
+      {
+        "name": "Francisco Javier Salvador"
+      },
+      {
+        "name": "Marcos Carreres"
+      },
+      {
+        "name": "Alicia Muñoz Agulló"
+      },
+      {
+        "name": "François-Xavier Demoulin"
+      }
+    ],
+    "affiliations": [
+      "CMT-Clean Mobility and Thermofluids,SPAIN",
+      "Universitat Politècnica de València,SPAIN",
+      "CMT-Clean Mobility and Thermofluids,SPAIN",
+      "Universitat Politècnica de València,SPAIN",
+      "CMT-Clean Mobility and Thermofluids,SPAIN",
+      "Universitat Politècnica de València,SPAIN",
+      "CNRS CORIA UMR 6614,FRANCE",
+      "Univ Rouen Normandie,FRANCE"
+    ],
+    "keywords": [
+      "internal flow",
+      "primary atomization",
+      "pressure-swirl atomizer",
+      "Large Eddy Simulation (LES)",
+      "Volume of Fluid (VOF)"
+    ],
+    "abstract": "Numerical simulations of the atomization issued by pressure-swirl injectors can help improve their design to reduce CO2 and NOx power plant emissions. In particular, two-phase flow simulations allow the characterization of the resulting spray through characteristic droplet sizes and velocities. This computational work focuses on the liquid atomization of n-heptane in the simplex pressure-swirl atomizer of the CORIA Rouen Spray Burner (CRSB). The present work proposes the simultaneous numerical resolution of the internal flow and atomization development through a Volume of Fluid-Large Eddy Simulation (VOF-LES) approach using a hexahedral mesh and Adaptive Mesh Refinement (AMR). A nonreactive condition has been tested with the interIsoFoam solver of the OpenFOAM open-source toolbox. First, the achieved results are analyzed in terms of qualitative properties, such as spray development and vortex visualization. Then, the internal flow is studied from both the air core radius and the film thickness evolution along the axial length. Finally, droplet statistics are obtained through a droplet detection algorithm based on a volume fraction threshold. For validation purposes, the numerical results are compared with available Phase Doppler Anemometry (PDA) experimental data for this operating condition of the CRSB academic burner. The investigation demonstrates the capability of the proposed numerical methodology to predict the physics under the primary atomization process, allowing us to describe the air core formation and to capture the instabilities that trigger the jet breakup, leading to the spray evolution.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "592",
+    "lastpage": "617",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/5/14",
+    "received": "27 September 2024",
+    "revised": "08 June 2025",
+    "accepted": "13 June 2025",
+    "published": "14 May 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0265-y",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s42757-025-0265-y.pdf",
+    "internal_id": "2089177701047390210",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0256-z",
+    "title": "Improved lattice Boltzmann model for realistic multicomponent gas–liquid two-phase flow and its application to slug flow in T-shaped microchannels",
+    "authors": [
+      {
+        "name": "Chen Xiong"
+      },
+      {
+        "name": "Hong Zhang"
+      },
+      {
+        "name": "Peizhuo Liu"
+      },
+      {
+        "name": "Na Xu"
+      },
+      {
+        "name": "Xiang Ma"
+      },
+      {
+        "name": "Yonghai Zhang"
+      },
+      {
+        "name": "Laiqiang Zhang"
+      }
+    ],
+    "affiliations": [
+      "Shanxi Key Laboratory of Chemical Product Engineering,CHINA",
+      "College of Chemical Engineering and Technology,CHINA",
+      "Taiyuan University of Technology, 030600,CHINA",
+      "Shanxi Key Laboratory of Chemical Product Engineering,CHINA",
+      "College of Chemical Engineering and Technology,CHINA",
+      "Taiyuan University of Technology, 030600,CHINA",
+      "Shanxi Key Laboratory of Chemical Product Engineering,CHINA",
+      "College of Chemical Engineering and Technology,CHINA",
+      "Taiyuan University of Technology, 030600,CHINA",
+      "Shanxi Key Laboratory of Chemical Product Engineering,CHINA",
+      "College of Chemical Engineering and Technology,CHINA",
+      "Taiyuan University of Technology, 030600,CHINA",
+      "School of Chemical Engineering and Technology,Shanxi,CHINA",
+      "Xi׳an Jiaotong University,Xi'an,Shanxi,CHINA",
+      "School of Chemical Engineering and Technology,Shanxi,CHINA",
+      "Xi׳an Jiaotong University,Xi'an,Shanxi,CHINA",
+      "Shaanxi Yanchang Petroleum Group Pipeline Company,CHINA"
+    ],
+    "keywords": [
+      "microchannel",
+      "multiphase multicomponent",
+      "lattice Boltzmann method",
+      "pseudopotential model",
+      "bubble flow"
+    ],
+    "abstract": "Microscale bubble systems have enormous engineering application value. However, due to the inherent complexity of microscale multiphase flow and the size limitation of microchannels, there are limitations in the current studies of microscale bubble flow behavior based on theoretical analysis and experimental test methods. Therefore, a pseudopotential lattice Boltzmann numerical computational model suitable for simulating real microchannel bubble flow was developed in this study, and the accuracy and applicability of the model were verified. On this basis, the bubble evolution process and the effects of the gas–liquid two-phase flow rate on the evolution, length, and local flow characteristics of bubbles were investigated in a T-shaped microchannel. The liquid flow rate has a decisive influence on bubble evolution, while the gas flow rate has a small influence. The bubble length has an inverse relationship with the liquid flow rate. The gas-phase flow inside the bubble is more stable with increasing two-phase flow velocity. In the head, middle, and tail sections of the bubble, the turbulence of the flow field is higher near the centerline along the flow direction in the head, near the channel wall in the middle, and near the channel wall in the tail than in other locations of the same section. Due to the stronger local turbulence, the heat and mass transfer occurring at these three locations is more intense.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "618",
+    "lastpage": "634",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/5/15",
+    "received": "04 September 2024",
+    "revised": "28 February 2025",
+    "accepted": "05 April 2025",
+    "published": "15 May 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0256-z",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s42757-025-0256-z.pdf",
+    "internal_id": "2089177711604453378",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0252-3",
+    "title": "An open-source solver for two-phase viscoelastic fluid flow with sharp interface advection in OpenFOAM",
+    "authors": [
+      {
+        "name": "Apostolos Kyrloglou"
+      },
+      {
+        "name": "Udo Fritsching"
+      }
+    ],
+    "affiliations": [
+      "Graduate School MIMENIMA,GERMANY",
+      "University of Bremen,GERMANY",
+      "Leibniz Institute for Materials Engineering - IWT,GERMANY",
+      "Graduate School MIMENIMA,GERMANY",
+      "University of Bremen,GERMANY",
+      "Particles and Process Engineering,GERMANY",
+      "University of Bremen,GERMANY",
+      "Leibniz Institute for Materials Engineering - IWT,GERMANY"
+    ],
+    "keywords": [
+      "multiphase flow",
+      "viscoelasticity",
+      "viscoelastic two-phase flow",
+      "OpenFOAM",
+      "volume-of-fluid"
+    ],
+    "abstract": "The study of viscoelastic fluids has been a topic of increased study in recent years due to their wide use in the food and pharmaceutical industries as well as their existence in many biological systems. Simulation thereof has been a major topic to increase our understanding of such systems. Various rheological models from the simple Maxwell or Oldroyd-B to the more complex Phan–Thien–Tanner have been proposed for solving such flow problems. Similarly, various simulation methods from volume-of-fluid to finite differences and even Lagrangian formulations have been developed to utilise these models and accurately represent these complex fluids in single-phase and multiphase computational fluid dynamic cases. In this work, we propose a novel fully open-source two-phase viscoelastic solver using the volume-of-fluid method through the OpenFoam software package and utilise some of the most recent advancements in the field of interface reconstruction and advection. We validate this solver in two distinct cases: a 3D pipe flow experiment for the single-phase bulk flow field and a well-established Weissenberg flow effect (rod climbing experiment) for the representation of the interface.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "635",
+    "lastpage": "641",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/4/20",
+    "received": "24 September 2024",
+    "revised": "12 February 2025",
+    "accepted": "15 March 2025",
+    "published": "20 April 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0252-3",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0252-3.pdf",
+    "internal_id": "2089177705342357505",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-026-0299-9",
+    "title": "Resuspension of graphite dust from a wall under shear flow in HTGRs based on DEM simulations and AFM measurements",
+    "authors": [
+      {
+        "name": "Qi Sun"
+      },
+      {
+        "name": "Xiaozhong Wang"
+      },
+      {
+        "name": "Lei Shi"
+      },
+      {
+        "name": "Wei Peng"
+      }
+    ],
+    "affiliations": [
+      "Key Laboratory of Advanced Reactor Engineering and Safety of Ministry of Education,CHINA",
+      ",CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Key Laboratory of Advanced Reactor Engineering and Safety of Ministry of Education,CHINA",
+      ",CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Key Laboratory of Advanced Reactor Engineering and Safety of Ministry of Education,CHINA",
+      ",CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Key Laboratory of Advanced Reactor Engineering and Safety of Ministry of Education,CHINA",
+      ",CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA"
+    ],
+    "keywords": [
+      "high-temperature gas-cooled reactors (HTGRs)",
+      "particle resuspension",
+      "atomic force microscope",
+      "discrete element method (DEM)"
+    ],
+    "abstract": "Pebble-bed high-temperature gas-cooled reactors (HTGRs) generate micron-sized graphite dust particles during their operation. These dust particles are deposited on the inner surface of the reactor’s primary loop and could become resuspended by the gas flow in the event of a breach, increasing the risk of radioactive dispersion. Therefore, studying the resuspension behavior of graphite dust particles is important for the safety of HTGRs. During the process of graphite dust resuspension, the particle–particle, particle–wall, and particle–gas flow interactions play decisive roles that are closely related to the particle shape and the structure of particle deposition. In this study, atomic force microscopy is used to investigate the interaction forces between particles and the particle–wall interface. Based on adhesion force data, numerical simulations of particle resuspension are carried out using the discrete element method, and the resuspension process is studied for the case of multilayer deposition structures. The results indicate that the particle–wall adhesion force is greater than the particle–particle adhesion force. The deposition structures formed by nonspherical rod-like particles are significantly larger than those formed by spherical particles. During particle resuspension, the particles move in a rolling regime, and particle clusters deform, stretch, break, and become suspended under the influence of near-wall shear flows, leaving a wake region at the trailing end of the particle cluster. With an increase in the particle deposition height, the resuspension rate rises, and rod-like particles generally exhibit higher resuspension rates than spherical and ellipsoidal particles.",
+    "volume": 8,
+    "issue": 3,
+    "firstpage": "642",
+    "lastpage": "653",
+    "year": 2026,
+    "publication_date": "2026/9/1",
+    "online_date": "2026/8/10",
+    "received": "19 March 2026",
+    "revised": "11 July 2026",
+    "accepted": "14 July 2026",
+    "published": "10 August 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-026-0299-9",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-026-0299-9.pdf",
+    "internal_id": "2089177753929175042",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0282-x",
+    "title": "Editorial from Guest Editors of Special Issue on Advancements in Modelling Aerosol Science for Drug Delivery and Health Care",
+    "authors": [
+      {
+        "name": "Jingliang Dong"
+      },
+      {
+        "name": "Jinxiang Xi"
+      }
+    ],
+    "affiliations": [
+      "Institute for Sustainable Industries & Liveable Cities,AUSTRALIA",
+      "Victoria University,AUSTRALIA",
+      "Department of Biomedical Engineering,UNITED STATES",
+      "University of Massachusetts Lowell,UNITED STATES"
+    ],
+    "keywords": [],
+    "abstract": null,
+    "volume": 8,
+    "issue": 2,
+    "firstpage": "205",
+    "lastpage": "206",
+    "year": 2026,
+    "publication_date": "2026/6/1",
+    "online_date": "2026/5/23",
+    "received": null,
+    "revised": null,
+    "accepted": null,
+    "published": "23 May 2026",
+    "type": "Review",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0282-x",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0282-x.pdf",
+    "internal_id": "2059185013078413313",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0273-y",
+    "title": "Simulating respiratory droplet dispersion in ventilated office spaces: Effects of particle size and ventilation rate",
+    "authors": [
+      {
+        "name": "Amirmasoud Anvari"
+      },
+      {
+        "name": "Goodarz Ahmadi"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical & Aerospace Engineering,Clarkson University",
+      "Department of Mechanical & Aerospace Engineering,Clarkson University"
+    ],
+    "keywords": [
+      "particle concentration",
+      "<i>k</i>–<i>kl</i>–<i>ω</i> turbulence model",
+      "Lagrangian method",
+      "discrete random walk (DRW) model",
+      "ventilation system",
+      "computational fluid dynamics (CFD)"
+    ],
+    "abstract": "The COVID-19 (coronavirus disease 2019, an infectious disease caused by the coronavirus SARS-CoV-2) outbreak has brought attention to the critical role of airborne respiratory droplets and aerosols in the transmission of viruses. This study analyzed the transport and dispersion of respiratory droplets in a ventilated office space housing two mannequins separated by a partition. It was assumed that one of the mannequins emits respiratory droplets while speaking. The airflow patterns and droplet dispersion in the presence of two different-height partitions, 1.372 m and 1.626 m, were investigated using the transition k–kl–ω turbulence model. The ANSYS-Fluent code was employed to simulate the airflow in the room. The Lagrangian particle tracking method was used to evaluate the droplet velocity and trajectories. The discrete random walk (DRW) model was employed to account for turbulence fluctuation effects on particle dispersion. The influence of various ventilation flow rates, from 1.975 to 5.6, on the dispersion of droplets of different sizes 1, 10, and 20 μm, emitted by the speaking mannequin was evaluated. Furthermore, the concentration and distribution of droplets of varying sizes near the receiving mannequin were analyzed. A velocity inlet of 1.1 m/s was applied at the emitter mannequin’s mouth, directing flow toward the receptor, and a total of 12,125 water-density droplets were released. Droplet concentrations were evaluated using the two-way coupling approach of the ANSYS-Fluent code and particle plane-crossing estimate using MATLAB software for dilute droplet concentration. The predicted concentrations of droplets of different sizes in the breathing zone of the receptor mannequin were compared with the earlier enhanced diffusion model estimates, and general agreement was found. This study revealed that increasing the ventilation flow rate (air changes per hour, ACH) leads to a decrease in the concentration of smaller-sized particles in the breathing zone of the receptor mannequin. The larger droplets had higher gravitational sedimentation velocity, resulting in lower concentrations in the breathing zone of the receptor mannequin. As expected, the highest concentration was observed for 1-μm particles at ACH = 1.975 (the lowest ACH studied). This trend was observed by both the diffusion model and Lagrangian particle tracking models. The simulation results also showed that the concentration of respiratory droplets was highly nonuniform and was significantly affected by the ventilation flow pattern in the room.",
+    "volume": 8,
+    "issue": 2,
+    "firstpage": "207",
+    "lastpage": "220",
+    "year": 2026,
+    "publication_date": "2026/6/1",
+    "online_date": "2026/3/24",
+    "received": "06 November 2024",
+    "revised": "25 June 2025",
+    "accepted": "04 August 2025",
+    "published": "24 March 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0273-y",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0273-y.pdf",
+    "internal_id": "2059185010079485953",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0249-y",
+    "title": "Impact of COPD breathing profile and airflow relative humidity on drug delivery in mouth–throat airway through pMDIs: <i>In vitro</i> and CFD studies",
+    "authors": [
+      {
+        "name": "Farnia Dastoorian"
+      },
+      {
+        "name": "Janusz Kozinski"
+      },
+      {
+        "name": "Ehsan Behzadfar"
+      },
+      {
+        "name": "Leila Pakzad"
+      }
+    ],
+    "affiliations": [
+      "Department of Chemical Engineering,CANADA",
+      "Lakehead University,CANADA",
+      "Department of Chemical Engineering,CANADA",
+      "Lakehead University,CANADA",
+      "Department of Graphic Communications Management,CANADA",
+      "Toronto Metropolitan University,CANADA",
+      "Department of Chemical Engineering,CANADA",
+      "Lakehead University,CANADA"
+    ],
+    "keywords": [
+      "pressurized metered-dose inhaler (pMDI)",
+      "computational fluid dynamics (CFD)",
+      "chronic obstructive pulmonary disease (COPD)",
+      "inhalation profile",
+      "relative humidity (RH)",
+      "deposited particle size distribution"
+    ],
+    "abstract": "This study examined key factors influencing drug delivery from pressurized metered-dose inhalers (pMDIs), focusing on constant versus chronic obstructive pulmonary disease (COPD) breathing profiles and varying relative humidity (RH) conditions. A combined experimental and numerical approach was employed using an eight-stage next generation impactor (NGI) along with computational fluid dynamics (CFD) simulations. The simulations incorporated a low Reynolds number (LRN) k–ω turbulence model and a discrete phase model (DPM) to evaluate particle size distribution and deposition within the mouth–throat airway geometry. At a low flow rate of 30 L/min, the mass fraction of large particles (12–15 μm) deposited on airway walls increased by 39% compared to that at a flow rate of 60 L/min. The CFD analysis identified two significant recirculation zones near the bend between the mouth and throat, which notably affected deposition patterns. Additionally, relative humidity was found to influence deposition efficiency. At 99% RH, a higher number of large particles (&gt; 10 μm) passed through the airway outlet, resulting in reduced deposition in the upper airway. Under COPD breathing conditions, delayed spray development contributed to increased deposition of large particles on airway surfaces. However, in areas of high turbulence, especially under elevated humidity, there was a reduction of approximately 4% in the mass fraction of large particles deposited on the walls.",
+    "volume": 8,
+    "issue": 2,
+    "firstpage": "221",
+    "lastpage": "239",
+    "year": 2026,
+    "publication_date": "2026/6/1",
+    "online_date": "2026/4/1",
+    "received": "14 April 2024",
+    "revised": "02 November 2024",
+    "accepted": "07 February 2025",
+    "published": "01 April 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0249-y",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0249-y.pdf",
+    "internal_id": "2059185016983310337",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-024-0228-8",
+    "title": "Quantification of house dust mite deposition in the paranasal cavities following functional endoscopic sinus surgery",
+    "authors": [
+      {
+        "name": "Ruiping Ma"
+      },
+      {
+        "name": "Feilun Yang"
+      },
+      {
+        "name": "Miao Lou"
+      },
+      {
+        "name": "Yusheng Wang"
+      },
+      {
+        "name": "Zhenzhen Hu"
+      },
+      {
+        "name": "Minjie Gong"
+      },
+      {
+        "name": "Tao Daniel Xing"
+      },
+      {
+        "name": "Shaokoon Cheng"
+      },
+      {
+        "name": "Guoxi Zheng"
+      },
+      {
+        "name": "Jingliang Dong"
+      },
+      {
+        "name": "Ya Zhang"
+      }
+    ],
+    "affiliations": [
+      "Department of Otolaryngology Head and Neck Surgery,CHINA",
+      "The Second Affiliated Hospital of Xi’an Jiaotong University, 710004,CHINA",
+      "Institute for Sustainable Industries & Liveable Cities,AUSTRALIA",
+      "Victoria University,AUSTRALIA",
+      "Department of Otolaryngology Head and Neck Surgery,CHINA",
+      "The Second Affiliated Hospital of Xi’an Jiaotong University, 710004,CHINA",
+      "Department of Otolaryngology Head and Neck Surgery,Shanxi,CHINA",
+      "Shaanxi Provincial People’s Hospital,Xi'an,Shanxi,CHINA",
+      "Department of Otolaryngology Head and Neck Surgery,CHINA",
+      "The Second Affiliated Hospital of Xi’an Jiaotong University, 710004,CHINA",
+      "Department of Otolaryngology Head and Neck Surgery,CHINA",
+      "The Second Affiliated Hospital of Xi’an Jiaotong University, 710004,CHINA",
+      "Department of Otolaryngology Head and Neck Surgery,CHINA",
+      "the First Affiliated Hospital of Xi’an Jiaotong University, 710061,CHINA",
+      "Department of Radiation Oncology,AUSTRALIA",
+      "Townsville University Hospital,AUSTRALIA",
+      "School of Engineering,AUSTRALIA",
+      "Faculty of Science and Engineering,AUSTRALIA",
+      "Macquarie University, 2109,AUSTRALIA",
+      "Department of Otolaryngology Head and Neck Surgery,CHINA",
+      "The Second Affiliated Hospital of Xi’an Jiaotong University, 710004,CHINA",
+      "Institute for Sustainable Industries & Liveable Cities,AUSTRALIA",
+      "Victoria University,AUSTRALIA",
+      "First Year College,AUSTRALIA",
+      "Victoria University,AUSTRALIA",
+      "Department of Otolaryngology Head and Neck Surgery,CHINA",
+      "The Second Affiliated Hospital of Xi’an Jiaotong University, 710004,CHINA"
+    ],
+    "keywords": [
+      "house dust mites (HDM)",
+      "particle deposition",
+      "post-FESS",
+      "paranasal cavities",
+      "numerical simulation"
+    ],
+    "abstract": "House dust mites (HDM) are a major perennial allergen source and a significant cause of allergic diseases worldwide. However, inhalation exposure to HDMs in the paranasal cavities remains unclear. This study describes and quantifies HDM deposition and potential allergic impact in the paranasal cavities for patients who underwent functional endoscopic sinus surgery (FESS). HDM deposition in postoperative nasal models was numerically investigated based on the largest patient cohort with 8 post-FESS nasal airway subjects. The effects of body position on allergen deposition were investigated. HDM with a smaller diameter was deposited dispersively in the paranasal cavities, and compared with healthy adults, there were rare fecal pellet deposits in the post-FESS of the paranasal sinuses, except for the frontal sinus. The large particles were mainly deposited in the nasal septum, and a few were deposited in the sinuses. In a lying position, more HDM is deposited outside the paranasal cavities. Under exercising conditions, the deposition rates in the nasal cavity and ethmoid sinus increased, while those in the frontal sinus decreased. HDM fecal pellets could enter all sinuses following FESS, and the smaller were deposited dispersively in the paranasal cavities, which may contribute to allergic respiratory disease. In addition to the respiratory flow rate and particle size, body position is also a notable factor in HDM deposition. The digital post-FESS nasal subject database with HDM fecal pellet deposition data can offer a valuable reference for the treatment and prevention of recurrence following endoscopic sinus surgery.",
+    "volume": 8,
+    "issue": 2,
+    "firstpage": "240",
+    "lastpage": "251",
+    "year": 2026,
+    "publication_date": "2026/6/1",
+    "online_date": "2026/2/14",
+    "received": "18 June 2024",
+    "revised": "09 September 2024",
+    "accepted": "07 October 2024",
+    "published": "14 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0228-8",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0228-8.pdf",
+    "internal_id": "2059185032393183233",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-024-0207-0",
+    "title": "Computational fluid dynamics simulation of complete nasal saline irrigation in pre- and post-functional endoscopic surgery: A comparative analysis",
+    "authors": [
+      {
+        "name": "Mehrdad Khamooshi"
+      },
+      {
+        "name": "Hana Salati"
+      },
+      {
+        "name": "Shaun D. Gregory"
+      },
+      {
+        "name": "Sara Vahaj"
+      },
+      {
+        "name": "Kiao Inthavong"
+      }
+    ],
+    "affiliations": [
+      "Centre for Biomedical Technologies,AUSTRALIA",
+      "School of Mechanical, Medical and Process Engineering,AUSTRALIA",
+      "Queensland University of Technology (QUT),AUSTRALIA",
+      "School of Engineering,AUSTRALIA",
+      "RMIT University,AUSTRALIA",
+      "Centre for Biomedical Technologies,AUSTRALIA",
+      "School of Mechanical, Medical and Process Engineering,AUSTRALIA",
+      "Queensland University of Technology (QUT),AUSTRALIA",
+      "School of Engineering,AUSTRALIA",
+      "RMIT University,AUSTRALIA",
+      "School of Engineering,AUSTRALIA",
+      "RMIT University,AUSTRALIA"
+    ],
+    "keywords": [
+      "computational fluid dynamics (CFD)",
+      "chronic rhinosinusitis",
+      "nasal irrigation",
+      "volume of fluid (VOF)"
+    ],
+    "abstract": "Saline nasal irrigation is crucial for post-operative recovery in patients undergoing functional endoscopic sinus surgery (FESS). Recognizing the significant changes in nasal anatomy post-surgery, this study explores the effects of airway geometry alterations on flow dynamics, as the airway differs markedly from those in pre-operative or healthy nasal airways. This study analyses the dispersion patterns of saline irrigation flow in reshaped nasal cavities following FESS using computational fluid dynamics (CFD). The application of the nasal saline irrigation bottle involved having the head tilted at a 45-degree angle forward, emulating a stance over a sink during irrigation. The investigation includes comparative analyses of saline irrigation performed both pre- and post-surgery on the same patients. The simulations span 16 s, allocating 4.5 s for the irrigation of each nasal cavity side. Our findings reveal consistent coverage of the nasal passage surfaces by the saline solution in both pre- and post-surgical conditions. Notably, the post-surgery simulations demonstrate enhanced penetration of saline into all sinuses, including those areas that were not effectively irrigated prior to surgery. These results underscore the efficacy of saline nasal irrigation in the post-operative care of FESS patients, highlighting its role in facilitating optimal recovery by adequately reaching altered sinus structures.",
+    "volume": 8,
+    "issue": 2,
+    "firstpage": "252",
+    "lastpage": "261",
+    "year": 2026,
+    "publication_date": "2026/6/1",
+    "online_date": "2026/2/14",
+    "received": "28 January 2024",
+    "revised": "02 May 2024",
+    "accepted": "04 June 2024",
+    "published": "14 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0207-0",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0207-0.pdf",
+    "internal_id": "2059185020733018114",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0266-x",
+    "title": "Challenges of infant pulmonary drug delivery: Aerosol deposition during realistic breathing",
+    "authors": [
+      {
+        "name": "Ondrej Mišík"
+      },
+      {
+        "name": "František Prinz"
+      },
+      {
+        "name": "Jakub Elcner"
+      },
+      {
+        "name": "Jakub Lázňovský"
+      },
+      {
+        "name": "Miloslav Bělka"
+      },
+      {
+        "name": "Tomáš Juren"
+      },
+      {
+        "name": "Jan Jedelsky"
+      },
+      {
+        "name": "František Lízal"
+      }
+    ],
+    "affiliations": [
+      "Department of Thermodynamics and Environmental Engineering,CZECH REPUBLIC",
+      "Faculty of Mechanical Engineering,CZECH REPUBLIC",
+      "Brno University of Technology, 61669,CZECH REPUBLIC",
+      "Department of Thermodynamics and Environmental Engineering,CZECH REPUBLIC",
+      "Faculty of Mechanical Engineering,CZECH REPUBLIC",
+      "Brno University of Technology, 61669,CZECH REPUBLIC",
+      "Department of Thermodynamics and Environmental Engineering,CZECH REPUBLIC",
+      "Faculty of Mechanical Engineering,CZECH REPUBLIC",
+      "Brno University of Technology, 61669,CZECH REPUBLIC",
+      "CEITEC-Central European Institute of Technology,CZECH REPUBLIC",
+      "Brno University of Technology, 61669,CZECH REPUBLIC",
+      "Department of Thermodynamics and Environmental Engineering,CZECH REPUBLIC",
+      "Faculty of Mechanical Engineering,CZECH REPUBLIC",
+      "Brno University of Technology, 61669,CZECH REPUBLIC",
+      "Department of Neonatology,CZECH REPUBLIC",
+      "University Hospital Brno,CZECH REPUBLIC",
+      "Department of Thermodynamics and Environmental Engineering,CZECH REPUBLIC",
+      "Faculty of Mechanical Engineering,CZECH REPUBLIC",
+      "Brno University of Technology, 61669,CZECH REPUBLIC",
+      "Department of Thermodynamics and Environmental Engineering,CZECH REPUBLIC",
+      "Faculty of Mechanical Engineering,CZECH REPUBLIC",
+      "Brno University of Technology, 61669,CZECH REPUBLIC"
+    ],
+    "keywords": [
+      "infant",
+      "airways",
+      "inhalation",
+      "aerosol deposition",
+      "computational fluid dynamics"
+    ],
+    "abstract": "Effective inhalation therapy in infants presents significant challenges owing to their distinctive airway anatomy, respiratory patterns, and behavioural factors. This study examined aerosol deposition in a realistic infant airway model under various respiratory conditions, including normal breathing and crying. The airway geometry of a 10-month-old infant was reconstructed from computed tomography scans, and both computational (in silico) and experimental (in vitro) methodologies were employed to analyse aerosol deposition patterns. The findings demonstrated that while a substantial proportion of nebulised aerosol particles (70%) bypassed the upper respiratory tract during stationary inspiration, realistic breathing patterns revealed considerable variations in deposition. Notably, crying significantly increased aerosol deposition in the upper airways. Particle size also exhibited a crucial role, with 5 μm particles demonstrating 50% deposition in the upper airways during normal breathing compared to only 6% for 2.5 μm particles. This observation underscores the suboptimal nature of current inhalation products, which are frequently designed for particle sizes of 1–5 μm. This study provides valuable insights into aerosol delivery in infants, emphasising the need for age-specific inhalation therapy. Modifications in particle size distribution, potentially towards smaller particles (1–2.5 μm), may enhance therapeutic outcomes. Further research is warranted to develop infant-specific airway models and to explore alternative particle designs to optimise inhalation drug delivery in this vulnerable population.",
+    "volume": 8,
+    "issue": 2,
+    "firstpage": "262",
+    "lastpage": "275",
+    "year": 2026,
+    "publication_date": "2026/6/1",
+    "online_date": "2026/4/29",
+    "received": "20 December 2024",
+    "revised": "10 April 2025",
+    "accepted": "13 June 2025",
+    "published": "29 April 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0266-x",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0266-x.pdf",
+    "internal_id": "2059185039749992450",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0262-1",
+    "title": "Effects of applied spray mass on evaporation rate and deposition distribution of aerosol droplets in the respiratory tract",
+    "authors": [
+      {
+        "name": "Mohamed Talaat"
+      },
+      {
+        "name": "Xiuhua A. Si"
+      },
+      {
+        "name": "Jinxiang Xi"
+      }
+    ],
+    "affiliations": [
+      "Department of Biomedical Engineering,UNITED STATES",
+      "University of Massachusetts Lowell,UNITED STATES",
+      "Department of Aerospace, Industrial, and Mechanical Engineering,UNITED STATES",
+      "California Baptist University,UNITED STATES",
+      "Department of Biomedical Engineering,UNITED STATES",
+      "University of Massachusetts Lowell,UNITED STATES"
+    ],
+    "keywords": [
+      "metered-dose inhaler (MDI)",
+      "evaporation",
+      "thermohumidity",
+      "pulmonary drug delivery",
+      "drug-based deposition"
+    ],
+    "abstract": "The study of spray evaporation and deposition in the respiratory airway is crucial for understanding the efficacy of inhaled medications. While numerous factors influence these processes, the effect of applied mass remains an underexplored variable. This paper investigated the relationship between the applied mass of a spray and its evaporation and deposition within the respiratory airway. Experimentally determined spray parameters were implemented as the boundary/initial conditions in an integrated MDI-airway model. Large-eddy simulations (LES) and the chemical species model were implemented to simulate airflow and water vapor transport. The discrete-phase Lagrangian approach and a multicomponent evaporation–condensation model were utilized to track the trajectories and deposition of evaporating droplets. The results showed significant thermohumidity differences in the mouth among the four applied masses considered. Droplets evaporated most quickly upon administration; however, it took 0.9 s for 17 mg sprays to reach their equilibrium and 0.4 s for 0.017 mg sprays, indicating a prevailing influence of droplet evaporation throughout the respiratory tract. Smaller droplets evaporated faster than larger droplets and were more affected by the local thermohumidity and applied mass. The most notable dosimetry differences among different applied masses were observed in the mouth and pulmonary region. The regional DF exhibited a positive relationship with applied mass in the mouth but a negative relationship in the larynx and downstream airways. For all applied masses considered, the count-based dosimetry method overestimated the drug-based DF in the pulmonary region by a factor of 2.70%±0.65%, while the mass-based dosimetry underestimated it by a factor of 0.26%±0.08%.",
+    "volume": 8,
+    "issue": 2,
+    "firstpage": "276",
+    "lastpage": "294",
+    "year": 2026,
+    "publication_date": "2026/6/1",
+    "online_date": "2026/4/29",
+    "received": "15 December 2024",
+    "revised": "27 March 2025",
+    "accepted": "11 May 2025",
+    "published": "29 April 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0262-1",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0262-1.pdf",
+    "internal_id": "2059185024671469570",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0267-9",
+    "title": "Transport and deposition of pharmaceutical aerosols in a helium–oxygen mixture in a CT-based nose-to-lung respiratory tract",
+    "authors": [
+      {
+        "name": "Xinlei Huang"
+      },
+      {
+        "name": "Akshoy Ranjan Paul"
+      },
+      {
+        "name": "Prashanta Kumar Mandal"
+      },
+      {
+        "name": "Suvash C. Saha"
+      }
+    ],
+    "affiliations": [
+      "School of Mechanical and Mechatronic Engineering,AUSTRALIA",
+      "Faculty of Engineering and Information Technology,AUSTRALIA",
+      "University of Technology Sydney, 2007,AUSTRALIA",
+      "Department of Applied Mechanics,INDIA",
+      "Motilal Nehru National Institute of Technology Allahabad, 211004,INDIA",
+      "Department of Mathematics,INDIA",
+      "Visva-Bharati,INDIA",
+      "School of Mechanical and Mechatronic Engineering,AUSTRALIA",
+      "Faculty of Engineering and Information Technology,AUSTRALIA",
+      "University of Technology Sydney, 2007,AUSTRALIA"
+    ],
+    "keywords": [
+      "pharmaceutical aerosol",
+      "computational fluid–particle dynamics",
+      "particle-laden flow",
+      "targeted delivery",
+      "human respiratory tract",
+      "health"
+    ],
+    "abstract": "Helium–oxygen mixtures (HeliOx) have been proposed to enhance aerosol drug delivery by reducing airflow turbulence and facilitating deeper penetration of medications into the respiratory tract. However, previous studies on HeliOx efficacy have yielded mixed results, often limited by unrealistic anatomical models and steady-state assumptions, and focus on restricted sections of the airway. This study aims to address these limitations by investigating the transport and deposition of pharmaceutical aerosols in HeliOx compared to atmospheric air using a realistic, computed tomography-based nose-to-lung respiratory tract model that extends from a face mask to the 13th generation of tracheobronchial airways. Experimentally measured, dynamic breathing profiles were incorporated to simulate realistic inhalation conditions. Pharmaceutical aerosols with diameters ranging from 1 to 100 μm were released under two conditions: ambient air and HeliOx. Computational fluid–particle dynamics simulations were performed to model and visualize the transport and deposition patterns of aerosols throughout the respiratory tract during inhalation. The simulation results indicate that HeliOx promotes more steady airflow with reduced turbulence, facilitating a deeper delivery of drug aerosols compared to ambient air. Specifically, HeliOx reduced turbulence intensity in the nasal cavity, larynx, and upper trachea regions, and enhanced aerosol penetration to the lower respiratory tract, increasing the deposition fraction in the deeper lung regions. These findings suggest that utilizing HeliOx as a carrier gas can improve deep lung-targeted drug delivery, potentially enhancing therapeutic outcomes for pulmonary diseases.",
+    "volume": 8,
+    "issue": 2,
+    "firstpage": "295",
+    "lastpage": "312",
+    "year": 2026,
+    "publication_date": "2026/6/1",
+    "online_date": "2026/5/20",
+    "received": "31 December 2024",
+    "revised": "16 April 2025",
+    "accepted": "13 June 2025",
+    "published": "20 May 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0267-9",
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s42757-025-0267-9.pdf",
+    "internal_id": "2059185028110798850",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0275-9",
+    "title": "Innovative applications and technological breakthroughs of artificial intelligence in complex multiphase flow systems: A review",
+    "authors": [
+      {
+        "name": "Xiaoxi Zhang"
+      },
+      {
+        "name": "Jiyuan Tu"
+      },
+      {
+        "name": "Takashi Hibiki"
+      },
+      {
+        "name": "Nan Gui"
+      },
+      {
+        "name": "Xingtuan Yang"
+      },
+      {
+        "name": "Shengyao Jiang"
+      }
+    ],
+    "affiliations": [
+      "School of Science,Beijing,CHINA",
+      "China University of Geosciences (Beijing),Beijing,CHINA",
+      "Key Laboratory of Advanced Reactor Engineering and Safety (Ministry of Education),CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "School of Engineering,AUSTRALIA",
+      "RMIT University,AUSTRALIA",
+      "Key Laboratory of Advanced Reactor Engineering and Safety (Ministry of Education),CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Department of Mechanical Engineering,Hong Kong,CHINA",
+      "City University of Hong Kong Kowloon,Hong Kong,CHINA",
+      "Key Laboratory of Advanced Reactor Engineering and Safety (Ministry of Education),CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Key Laboratory of Advanced Reactor Engineering and Safety (Ministry of Education),CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Key Laboratory of Advanced Reactor Engineering and Safety (Ministry of Education),CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA",
+      "Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA",
+      "Institute of Nuclear and New Energy Technology,CHINA",
+      "Tsinghua University, 100084,CHINA"
+    ],
+    "keywords": [
+      "multiphase flow",
+      "artificial intelligence (AI)",
+      "physics-informed neural networks (PINNs)",
+      "flow regime recognition",
+      "hybrid modeling"
+    ],
+    "abstract": "This review systematically evaluates the transformative impact of artificial intelligence (AI) on the modeling, analysis, and control of complex multiphase flow systems. Multiphase flow has long been regarded as a significant challenge in the field of fluid mechanics due to its strong nonlinearity, multiscale coupling, and dynamic interface behavior. Traditional methods, including empirical correlations, theoretical modeling, and high-fidelity numerical simulations, frequently face limitations in adaptability, predictive accuracy, and real-time performance under complex, heterogeneous, and dynamic conditions. Recent advances in machine learning, deep learning, and physics-informed modeling have reshaped this landscape, enabling data–physics hybrid models, accelerated simulations, flow regime classification, intelligent parameter prediction, and closed-loop process control. This paper reviews recent progress in three key areas. First, it explores AI-enhanced modeling and simulation techniques, with a focus on data-driven models, physics-informed neural networks (PINNs), and hybrid modeling strategies that integrate prior knowledge. Second, it highlights AI applications in flow field analysis, including structural pattern extraction, intelligent forecasting of key variables, and reinforcement learning-based dynamic regulation. Third, it examines representative industrial applications across the energy, petrochemical, environmental, and bioprocessing sectors and presents a comparative analysis of leading AI methods (e.g., CNN, GNN, GAN, PINN, and RL) in terms of their functional capabilities and engineering suitability. Despite these advancements, the practical deployment of AI in multiphase flow systems still encounters major obstacles, such as the scarcity of high-quality labeled data, limited interpretability and physical consistency of models, constraints in edge computing environments, and insufficient generalization across operating conditions. To address these limitations, the paper outlines future research priorities, including multimodal data fusion, mechanism-informed learning frameworks, integration with digital twins, lightweight edge AI algorithms, and the development of open-source, cross-disciplinary collaboration platforms. AI is increasingly driving the shift of multiphase systems toward intelligent, adaptive, and fine-grained management, offering new momentum for achieving critical goals in energy security, carbon neutrality, and smart manufacturing. The intelligent evolution of multiphase flow science is expected to play a central role in the forthcoming transformation of scientific computing and industrial systems.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "1",
+    "lastpage": "20",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/1/31",
+    "received": "21 May 2025",
+    "revised": "01 July 2025",
+    "accepted": "21 August 2025",
+    "published": "31 January 2026",
+    "type": "Review",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0275-9",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0275-9.pdf",
+    "internal_id": "2041701623005806594",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0244-3",
+    "title": "Explaining the solution chemistry dependence of particle detachment by capillary forces",
+    "authors": [
+      {
+        "name": "Yutong Yang"
+      },
+      {
+        "name": "Thomas Russell"
+      },
+      {
+        "name": "Themis Carageorgos"
+      },
+      {
+        "name": "Pavel Bedrikovetsky"
+      }
+    ],
+    "affiliations": [
+      "School of Chemical Engineering,AUSTRALIA",
+      "The University of Adelaide,AUSTRALIA",
+      "School of Chemical Engineering,AUSTRALIA",
+      "The University of Adelaide,AUSTRALIA",
+      "School of Chemical Engineering,AUSTRALIA",
+      "The University of Adelaide,AUSTRALIA",
+      "School of Chemical Engineering,AUSTRALIA",
+      "The University of Adelaide,AUSTRALIA"
+    ],
+    "keywords": [
+      "colloid detachment",
+      "two-phase flow",
+      "energy barrier",
+      "reattachment",
+      "visualization experiments",
+      "microfluidics"
+    ],
+    "abstract": "During two-phase flow, the fluid–fluid interface exerts a strong force on particles attached to the solid–water interface, resulting in some cases in their detachment. The capillary force exerted by the meniscus is more than sufficient to detach particles; however, existing experimental data indicate that the removal of particles by the interface is significantly affected by solution chemistry. Traditional models for detachment during two-phase flow predict complete detachment, independent of the solution chemistry. This discrepancy has yet to be resolved. Direct visualization of particle detachment was performed during drainage (air injection into water) and imbibition (water injection into air) on a particle-laden borosilicate glass substrate. Particle detachment was observed via optical microscopy. The novelty of the experimental procedure is the individual study of drainage and imbibition across a range of solution chemistries (controlled by NaCl concentration and pH). Almost complete particle removal was observed in all the cases except during drainage under favorable conditions. We experimentally and theoretically show that the capillary force is, in fact, large enough to detach all the particles but that during drainage, the particles are reattached to the substrate. Reattachment is observed directly and predicted theoretically with force balances and particle trajectory analysis. The existence of an energy barrier under unfavorable conditions prevents reattachment, which explains the solution chemistry dependence of particle removal. The result is a quantitative theory describing particle detachment, accounting for particle reattachment. The analysis in this work is an integral part of any quantitative description of particle detachment in two-phase flow.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "21",
+    "lastpage": "34",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/1/5",
+    "received": "29 August 2024",
+    "revised": "21 November 2024",
+    "accepted": "17 January 2025",
+    "published": "05 January 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0244-3",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0244-3.pdf",
+    "internal_id": "2041701634158460929",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-024-0226-x",
+    "title": "Characteristics of newly formed child droplets in the collisions of slurry droplets with solid particles",
+    "authors": [
+      {
+        "name": "Anastasia G. Islamova"
+      },
+      {
+        "name": "Nikita E. Shlegel"
+      },
+      {
+        "name": "Pavel A. Strizhak"
+      }
+    ],
+    "affiliations": [
+      "Heat and Mass Transfer Laboratory,National Research Tomsk Polytechnic University, 634050",
+      "Heat and Mass Transfer Laboratory,National Research Tomsk Polytechnic University, 634050",
+      "Heat and Mass Transfer Laboratory,National Research Tomsk Polytechnic University, 634050,Kutateladze Institute of Thermophysics,RUSSIAN FEDERATION",
+      "Siberian Branch of the Russian Academy of Sciences,RUSSIAN FEDERATION"
+    ],
+    "keywords": [
+      "slurry",
+      "particle",
+      "droplet",
+      "collision",
+      "regime",
+      "child droplet"
+    ],
+    "abstract": "The interaction of slurry droplets and solid particles is utilized in practical applications such as heat drying and the generation of multicomponent fuel sprays. The generation of aerosols and suspensions by spray drying is widely used in the food, chemical, pharmaceutical, cosmetic, fuel, and power industries. This research reports the experimental findings on the regimes and outcomes of the collisions of water-based slurry droplets with solid particles of the same material. The maps of two collision regimes (agglomeration and stretching separation) were plotted with the number and size of child droplets recorded in the coordinate system allowing for the Weber number and linear impact parameter. The key parameters of droplets and particles were varied: sizes and velocities, concentration of solid particles in droplets, and droplet shapes. The thickness of the residual liquid film on the particle surface was examined. Conditions of effective secondary atomization of droplets were identified. Mathematical equations with dimensionless parameters were derived to predict the conditions of transition to agglomeration and atomization of liquid droplets through collisions with solid particles.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "35",
+    "lastpage": "46",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/2/14",
+    "received": "11 June 2024",
+    "revised": "20 September 2024",
+    "accepted": "25 September 2024",
+    "published": "14 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0226-x",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0226-x.pdf",
+    "internal_id": "2041701629238542337",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0254-1",
+    "title": "Evaluation of two-group IATE coupling with PBE for beyond bubbly flows in a large diameter pipe",
+    "authors": [
+      {
+        "name": "Sungje Hong"
+      },
+      {
+        "name": "Joshua. P. Schlegel"
+      },
+      {
+        "name": "Subash L. Sharma"
+      }
+    ],
+    "affiliations": [
+      "Department of Nuclear Engineering and Radiation Science,UNITED STATES",
+      "Missouri University of Science and Technology,UNITED STATES",
+      "Department of Nuclear Engineering and Radiation Science,UNITED STATES",
+      "Missouri University of Science and Technology,UNITED STATES",
+      "Department of Nuclear Engineering and Radiation Science,UNITED STATES",
+      "Missouri University of Science and Technology,UNITED STATES"
+    ],
+    "keywords": [
+      "S-Gamma (<i>S</i><sub><i>γ</i></sub>)",
+      "interfacial area transport equation (IATE)",
+      "population balance",
+      "beyond bubbly flows",
+      "large-diameter pipe"
+    ],
+    "abstract": "This study evaluates the two-group interfacial area transport equation (2G IATE) coupled with the S-Gamma (Sγ) population balance equation (PBE) model for beyond bubbly flow regimes in a vertical large-diameter pipe. The 2G IATE framework incorporates intergroup mass transfer mechanisms and is implemented within the Sγ model, which assumes a log-normal bubble size distribution. The numerical approach is validated against experimental data from Schlegel et al. (2012), with a focus on the void fraction and interfacial area concentration (IAC) distributions. The results show that 2G IATE improves the predictions of the void fraction and IAC, although its accuracy varies with flow conditions. Dominant transport mechanisms, such as bubble interaction (IM), IAC from mass transfer between group-1 and group-2 bubbles (MT), and volume expansion (VE), are analyzed, revealing that the IM is the primary contributor to IAC variations, whereas MT effects become more significant at higher gas velocities. These findings contribute to the advancement of multiphase flow modeling, with potential applications in nuclear reactor safety, chemical processing, and CFD-based two-phase flow simulations.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "47",
+    "lastpage": "71",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/2/3",
+    "received": "17 April 2024",
+    "revised": "17 March 2025",
+    "accepted": "22 March 2025",
+    "published": "03 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0254-1",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0254-1.pdf",
+    "internal_id": "2041701661345939458",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0247-0",
+    "title": "Numerical investigation of dropwise condensation on plain and functional surfaces",
+    "authors": [
+      {
+        "name": "Hosein Mohassel"
+      },
+      {
+        "name": "Ali Koşar"
+      },
+      {
+        "name": "Ali Sadaghiani"
+      }
+    ],
+    "affiliations": [
+      "Mechatronics Engineering Program,TURKEY",
+      "Faculty of Engineering and Natural Sciences (FENS),TURKEY",
+      "Sabanci University, 34956,TURKEY",
+      "Mechatronics Engineering Program,TURKEY",
+      "Faculty of Engineering and Natural Sciences (FENS),TURKEY",
+      "Sabanci University, 34956,TURKEY",
+      "SMaRT Research Group,UNITED KINGDOM",
+      "School of Engineering,UNITED KINGDOM",
+      "The University of Birmingham,UNITED KINGDOM"
+    ],
+    "keywords": [
+      "dropwise condensation (DWC)",
+      "hydrophobic surface",
+      "superhydrophobic surface",
+      "wettability",
+      "droplet distribution"
+    ],
+    "abstract": "Condensation, a natural phase change phenomenon, is extremely significant in a variety of applications, from power generation to electronics cooling. While previous studies have predominantly focused on experimental studies and single droplet simulations, there is a gap in the literature on the comprehensive numerical analysis of dropwise condensation and parameters affecting its performance. By simulating condensing flow on different surfaces and considering major parameters, this study reveals the effect of the steam mass flux and wettability on dropwise condensation. The unique aspect of this study lies in the multiparametric simulations to obtain the entire dropwise condensation cycle, elucidating the dynamic processes. The findings reveal that a higher steam mass flux improves heat transfer, as the droplet departure diameter adversely changes with the steam mass flux. Surfaces with low wettability exhibit substantial improvements in heat transfer (up to a 33% increase in heat transfer coefficient) at high steam mass fluxes compared to highly wettable surfaces. The findings consistently display a beneficial relationship among higher contact angles, decreased departure droplets, and superior heat transfer performance. Furthermore, this work validates the developed numerical model through comparison with experimental results, which provides the reliability of the computational approach in accurately modeling dropwise condensation and predicting and optimizing dropwise condensation behavior for different applications.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "72",
+    "lastpage": "86",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/2/6",
+    "received": "09 June 2024",
+    "revised": "30 September 2024",
+    "accepted": "06 February 2025",
+    "published": "06 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0247-0",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0247-0.pdf",
+    "internal_id": "2041701651732594690",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0245-2",
+    "title": "Minimum fluidization velocity of three mineralogically different iron ore tailing samples: Comparison of empirical correlations and hydrodynamic study",
+    "authors": [
+      {
+        "name": "Subhabrata Mishra"
+      },
+      {
+        "name": "Jyotirmayee Mahanta"
+      },
+      {
+        "name": "Swagatika Dash"
+      },
+      {
+        "name": "Prabhas Chandra Beuria"
+      }
+    ],
+    "affiliations": [
+      "CSIR-Institute of Minerals and Materials Technology, 751013,INDIA",
+      "Academy of Scientific and Innovative Research (AcSIR),INDIA",
+      "CSIR-Institute of Minerals and Materials Technology, 751013,INDIA",
+      "Academy of Scientific and Innovative Research (AcSIR),INDIA",
+      "CSIR-Institute of Minerals and Materials Technology, 751013,INDIA",
+      "Academy of Scientific and Innovative Research (AcSIR),INDIA",
+      "CSIR-Institute of Minerals and Materials Technology, 751013,INDIA",
+      "Academy of Scientific and Innovative Research (AcSIR),INDIA"
+    ],
+    "keywords": [
+      "minimum fluidization velocity",
+      "low-grade iron ore",
+      "tailing",
+      "fluidized bed"
+    ],
+    "abstract": "The importance of utilizing various low and lean-grade iron ore samples in the form of tailings, slimes, and mine wastes is the need for researchers and the iron and steelmaking industries. These ultrafine wastes can be reduced by developing commercial technology for fluidized bed reduction roasting systems, which require fundamental research. The minimum fluidization velocity significantly affects the reduction roasting process during fluidization. The minimum fluidization velocity of three mineralogically different iron ore tailing samples was experimentally investigated in a cold fluidized bed setup with an internal diameter of 45 mm and a height of 1200 mm. The hydrodynamics of the fluidized bed, channeling, and elutriation were observed during the cold fluidization study. Additionally, the experimental values were compared with the predicted values obtained from various empirical correlations on minimum fluidization velocity (Umf). The study also reported that the Coltters and Rivas 12 and 14 correlations predicted the most accurate minimum fluidization velocity for iron ore tailing samples with an error percentage of less than 16%. A new correlation was developed from the experimental Umf of each size fraction of iron ore tailing samples, which predicted Umf with an R2 of 0.99. Overall, the study highlighted the hydrodynamics of fine particles during fluidization, elucidating the fluidization phenomena of fine particles.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "87",
+    "lastpage": "102",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/2/6",
+    "received": "27 October 2024",
+    "revised": null,
+    "accepted": "17 January 2025",
+    "published": "06 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0245-2",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0245-2.pdf",
+    "internal_id": "2041701640017903617",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-024-0231-0",
+    "title": "Separation enhancement of conventional and square cyclones through the tailored inlet and vortex finder configurations using different particle characteristics",
+    "authors": [
+      {
+        "name": "Mahmoud A. El-Emam"
+      },
+      {
+        "name": "Ziqiang Hu"
+      },
+      {
+        "name": "Ling Zhou"
+      }
+    ],
+    "affiliations": [
+      "School of Mechanical Engineering,CHINA",
+      "Nantong University, 226019,CHINA",
+      "Department of Agricultural and Biosystems Engineering,EGYPT",
+      "Alexandria University,EGYPT",
+      "Jiangxi Naipu Mining Machinery Co. Ltd.,CHINA",
+      "Fluid Machinery Engineering Technology Research Center,CHINA",
+      "Jiangsu University, 212013,CHINA"
+    ],
+    "keywords": [
+      "cyclone investigations",
+      "gas–particle flow",
+      "turbulent flow dynamics",
+      "separation performance",
+      "CFD–DEM coupling"
+    ],
+    "abstract": "A gas–particle cyclone separator is an economical device for removing heterogeneous particulate matter from a gas system and is widely used in industrial and environmental applications. This paper presents a numerical analysis of gas–particle flow in square and circular cyclone separators with different inlet and vortex finder configurations to compare their separation performance. Nine cyclones labeled C1 to C9 were fabricated in three groups based on the inlet configuration. Each group comprised a conventional cyclone with a circular cross-section, a square cyclone, and a square cyclone with a cylindrical vortex finder. The turbulent flow of the gas phase was simulated using a three-dimensional Reynolds stress model (RSM), while the dispersion of particles was simulated using a Lagrangian equation through the two-way coupling of CFD–DEM. Heterogeneous mixtures of biogenic and solid particles, such as jojoba seeds, jojoba leaves, and sand, were modeled with their actual shape and size, considering particle interactions and impact. The results indicated that inlet configurations and cyclone type influenced turbulent flow dynamics and separation performance. Under the same boundary conditions, the square cyclone exhibited enhanced performance compared to the square cyclone with a cylindrical vortex finder, where the conventional cyclones failed for particle separation. Remarkably, the square cyclone (C5) demonstrated the highest performance, reporting 23%, 30%, and 94% increases in separation efficiency, cleaning efficiency, and effectiveness, respectively, over the experimental cyclone design (C1). The comprehensive particle force analysis revealed that the particle–wall collision is intense at the wall opposite the cyclone inlet for all cyclones and in the cone wall bottom where the particles accumulate, which is particularly evident in the C1, C3, and C6 cyclones. Particle–particle interaction forces played a significant role in cyclone performance, with increased separation efficiency observed due to particle collisions. The gas–particle interaction forces, including drag and pressure gradient forces, were mainly affected in the inlet region and extended into the cylindrical part, where the drag force impact continued to the conic part and mainly affected the leaf particles that reversed their direction toward the vortex finder. The pressure gradient force exhibited minimal values; however, it had only a maximum impact on seed particles, proving the dominant drag force on particle behavior. This work provides for the first time the conditions under which particle collisions occur for varying biogenic and solid shapes and orientations and their behavior on approach with associated cyclone designs, where the developed DEM–CFD coupled method makes it feasible to apply the high-performance cyclone to an industrial-scale system.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "103",
+    "lastpage": "138",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/1/30",
+    "received": "22 July 2024",
+    "revised": "13 August 2024",
+    "accepted": "07 October 2024",
+    "published": "30 January 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0231-0",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0231-0.pdf",
+    "internal_id": "1893923329066778625",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-024-0219-9",
+    "title": "Characterization of bubble mobility during flow through fibrous porous media",
+    "authors": [
+      {
+        "name": "Shih Wen Chen"
+      },
+      {
+        "name": "Navid Niknafs Kermani"
+      },
+      {
+        "name": "Pavel Simacek"
+      },
+      {
+        "name": "Suresh G. Advani"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering,University of Delaware, 19716,Center for Composite Materials,University of Delaware, 19711",
+      "Department of Mechanical Engineering,University of Delaware, 19716,Center for Composite Materials,University of Delaware, 19711",
+      "Department of Mechanical Engineering,University of Delaware, 19716,Center for Composite Materials,University of Delaware, 19711",
+      "Department of Mechanical Engineering,University of Delaware, 19716,Center for Composite Materials,University of Delaware, 19711"
+    ],
+    "keywords": [
+      "multiphase flow",
+      "porous media",
+      "bubble dynamics",
+      "fabric weave",
+      "void minimization"
+    ],
+    "abstract": "Multiphase flow through porous media is a common phenomenon during the processing of composite materials in which viscous liquid thermoset resin containing small bubbles due to entrapped air is injected into reinforcing porous fibrous media. The composite part is formed once the resin cures. Entrapped bubbles cause porosity, which is characteristic of materials fabricated by this technique and results in reduced mechanical properties. Hence, the reduction in porosity during the processing stage remains a critical issue. To investigate this, an experimental study was conducted to characterize the movement of bubbles within the pore network of the fabric's weave architecture representing the porous media. Bubble dynamics, as the simulated resin impregnated the fibrous network, were observed in transparent molds for three fabric architectures, with bubble diameter and velocity being measured as they traversed through the fabric. A dimensionless number is introduced to correlate the fabric weave architecture to the bubble size, revealing that higher bubble mobility (indicating how fast the bubble moves compared to the pore averaged resin velocity) is observed in tighter weaves and with larger bubbles. To predict bubble mobility based on bubble size and fabric weave, two physics-based models are introduced. The predicted results are compared with the experimental data, facilitating void minimization by regulating bubble mobility.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "139",
+    "lastpage": "151",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/2/7",
+    "received": "25 April 2024",
+    "revised": "01 August 2024",
+    "accepted": "16 August 2024",
+    "published": "07 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0219-9",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0219-9.pdf",
+    "internal_id": "2041701665980645377",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-024-0217-y",
+    "title": "Underwater interior ballistic process mechanism and precursor flow field characteristics based on multiphase flow coupling",
+    "authors": [
+      {
+        "name": "Zhiqun Sun"
+      },
+      {
+        "name": "Qiang Li"
+      },
+      {
+        "name": "Xuewei Zhang"
+      },
+      {
+        "name": "Pu Qu"
+      },
+      {
+        "name": "Lin Lu"
+      }
+    ],
+    "affiliations": [
+      "School of Mechanic and Electric Engineering, North University of China",
+      "School of Mechanic and Electric Engineering, North University of China",
+      "No. 208 Research Institute of China Ordnance Industries,Beijing,CHINA",
+      "School of Mechanic and Electric Engineering, North University of China",
+      "School of Mechanic and Electric Engineering, North University of China"
+    ],
+    "keywords": [
+      "underwater interior ballistics",
+      "precursor flow",
+      "bidirectionally coupled computational method",
+      "initial flow field",
+      "multiphase flow coupling"
+    ],
+    "abstract": "The mechanisms of the internal ballistic process and the evolution of the precursor flow field within an underwater submerged launch are investigated. A bidirectionally coupled computational method is proposed,wherein the fourth-order Runge–Kutta method is employed by external programs to solve the interior ballistic model,providing accurate bottom pressures of the projectile. Simultaneously,the Computational Fluid Dynamics (CFD) method is applied to solve the fluid model,offering precise front pressures of the projectile. Ultimately,the state of the projectile’s motion along the barrel is determined. A velocity–pressure separation solution algorithm,Semi-Implicit Method for Pressure Linked Equations (SIMPLE) and the Schnerr–Sauer cavitation model,is utilized to solve the Volume of Fluid (VOF) multiphase Navier–Stokes equations with compressible cavitation. The interior ballistic process with a cavitation reaction of the water column flow ahead of the projectile in the barrel is simulated and verified by underwater launch experiments. The development of the precursor flow generated by the precursor fluid is simulated,and the initial flow field at the muzzle is obtained. The results demonstrate that the projectile will experience an acceleration–deceleration–acceleration motion process due to the change in the projectile drag. The compression and expansion waves of the underwater internal ballistic process are the main cause of the large variation in drag. Furthermore,the cavitation cavity strength formed by the precursor flow has a tendency to increase and then decrease.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "152",
+    "lastpage": "168",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/3/24",
+    "received": "08 June 2024",
+    "revised": "22 July 2024",
+    "accepted": "29 July 2024",
+    "published": "24 March 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0217-y",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0217-y.pdf",
+    "internal_id": "2041701646246445058",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-024-0233-y",
+    "title": "Migration orientation of the laser-induced cavitation bubble near a vertically rigid boundary and free surface",
+    "authors": [
+      {
+        "name": "Qingmiao Ding"
+      },
+      {
+        "name": "Xiaoman Li"
+      },
+      {
+        "name": "Yanyu Cui"
+      },
+      {
+        "name": "Cuiwei Liu"
+      },
+      {
+        "name": "Yunlong Shan"
+      }
+    ],
+    "affiliations": [
+      "College of Aeronautical Engineering,Civil Aviation University of China, 300300",
+      "College of Aeronautical Engineering,Civil Aviation University of China, 300300",
+      "College of Aeronautical Engineering,Civil Aviation University of China, 300300",
+      "College of Pipeline and Civil Engineering, China University of Petroleum (East China)",
+      "College of Aeronautical Engineering,Civil Aviation University of China, 300300"
+    ],
+    "keywords": [
+      "cavitation bubble",
+      "rigid boundary",
+      "free surface",
+      "Kelvin impulse",
+      "migration mechanism"
+    ],
+    "abstract": "We studied the migration of a laser-induced cavitation bubble with the coupling of a vertical rigid boundary and free surface. We used a high-speed camera and particle imaging velocimetry to obtain and analyze the experimental data on the velocity distribution at the bubble surface, bubble migration, and the surrounding flow field. The results revealed that when the bubble was near the single boundary, the migration orientation was pointing toward the rigid boundary or away from the free surface. When the bubble was simultaneously near the two boundaries, the migration orientation deviated from the vertical direction and formed an angle. Subsequently, based on the Kelvin impulse model, the quantitative correlation between the migration angle and the stand-off distance was obtained, thereby predicting the migration orientation.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "169",
+    "lastpage": "181",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/1/5",
+    "received": "21 May 2024",
+    "revised": "15 September 2024",
+    "accepted": "07 October 2024",
+    "published": "05 January 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0233-y",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0233-y.pdf",
+    "internal_id": "2041701681696702465",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0243-4",
+    "title": "A collapsing bubble-based micropump for viscous liquids",
+    "authors": [
+      {
+        "name": "Alireza Esfandiari Khosroshahi"
+      },
+      {
+        "name": "Abdolrahman Dadvand"
+      },
+      {
+        "name": "Kawa Mustafa Aziz Manmi"
+      }
+    ],
+    "affiliations": [
+      "Faculty of Mechanical Engineering,Urmia University of Technology, 57166-17165",
+      "Faculty of Mechanical Engineering,Urmia University of Technology, 57166-17165",
+      "Mathematics Institute,University of Warwick,Department of Mathematics,IRAQ",
+      "Salahaddin University-Erbil,IRAQ"
+    ],
+    "keywords": [
+      "pumping effect",
+      "viscous liquid",
+      "bubble jet",
+      "cone hole",
+      "volume of fluid",
+      "mass flow rate"
+    ],
+    "abstract": "During the collapse of a bubble near a rigid plate/wall, a liquid jet forms that is directed toward the plate/wall. For perforated plates, part of the jet flow passes through the hole, so the bubble jet acts as a pump transporting liquid from one side of the plate to the other. A distinct advantage of this particular micropump is its absence of any moving components coupled with its exceptionally rapid response time. The transport process is highly complex, time dependent, and influenced by various parameters, including bubble–hole distance, plate thickness, and hole geometry. The objective is to numerically simulate the pumping of a viscous liquid through a truncated cone hole made in a rigid plate. The numerical method is based on the volume of fluid method, which employs a single-field formulation of the Navier–Stokes equations to model immiscible two-phase flows and considers the influences of surface tension and viscosity. The results are presented in terms of bubble shape, pressure and velocity fields, and mass flow through the hole. It was found that cone angle, standoff distance, plate thickness, and liquid viscosity have a significant role in the pumping effect of the bubble. Specifically, as each of these parameters increases, the net mass pumped decreases.",
+    "volume": 8,
+    "issue": 1,
+    "firstpage": "182",
+    "lastpage": "203",
+    "year": 2026,
+    "publication_date": "2026/3/1",
+    "online_date": "2026/2/6",
+    "received": "27 September 2024",
+    "revised": "02 December 2024",
+    "accepted": "17 January 2025",
+    "published": "06 February 2026",
+    "type": "Research Article",
+    "views": 0,
+    "downloads": 0,
+    "citations_crossref": 0,
+    "citations_wos": 0,
+    "citations_scopus": 0,
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0243-4",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0243-4.pdf",
+    "internal_id": "2041701671689093121",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869"
+  }
+]
