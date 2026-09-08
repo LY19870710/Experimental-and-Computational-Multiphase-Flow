@@ -595,11 +595,6 @@ function render() {
           ${a.publication_date ? `<div class="d-item"><label>Published</label><span>${esc(a.publication_date)}</span></div>` : ''}
         </div>
         ${a.abstract ? `<div class="d-abstract"><strong>Abstract:</strong> ${highlight(a.abstract.replace(/<[^>]+>/g, ''), currentQuery)}</div>` : ''}
-        ${a.doi ? `
-        <div class="d-cite">
-          <div class="d-cite-text" id="cite-${i}"><strong>Cite this article:</strong> <span class="cite-content"></span></div>
-          <button class="d-cite-copy" onclick="event.stopPropagation();copyCite(${i})">复制</button>
-        </div>` : ''}
         <div class="d-links">
           ${a.url ? `<a href="${a.url}" target="_blank" onclick="event.stopPropagation()">View on SciOpen →</a>` : ''}
           ${a.pdf ? `<a href="${a.pdf}" target="_blank" onclick="event.stopPropagation()">Download PDF →</a>` : ''}
