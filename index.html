@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Experimental and Computational Multiphase Flow 2026</title>
+<title>Experimental and Computational Multiphase Flow 2024-2026</title>
 <style>
 :root {
   --bg: #fef9f3;
@@ -405,7 +405,7 @@ body {
   <div class="header-inner">
     <div>
       <h1>Experimental and Computational Multiphase Flow</h1>
-      <p>Volume 8 (2026) — Article Index & Search</p>
+      <p>Volumes 6-8 (2024-2026) — Article Index & Search</p>
     </div>
   </div>
 </header>
@@ -416,7 +416,7 @@ body {
       <span class="icon">🔍</span>
       <input type="text" id="searchInput" placeholder="Search by title, author, keyword...">
     </div>
-    <select class="filter-select" id="issueFilter"><option value="">All Issues</option></select>
+    <select class="filter-select" id="yearFilter"><option value="">All Years</option></select>
     <select class="filter-select" id="typeFilter"><option value="">All Types</option></select>
   </div>
 </section>
@@ -437,7 +437,7 @@ let allArticles = [];
 let filteredArticles = [];
 
 const $search = document.getElementById('searchInput');
-const $issue = document.getElementById('issueFilter');
+const $year = document.getElementById('yearFilter');
 const $type = document.getElementById('typeFilter');
 const $list = document.getElementById('articleList');
 const $stats = document.getElementById('statsRow');
@@ -457,13 +457,13 @@ async function loadData() {
 
 /* ── Filters ── */
 function fillFilters() {
-  const issues = new Set(), types = new Set();
+  const years = new Set(), types = new Set();
   allArticles.forEach(a => { 
-    if (a.issue) issues.add(a.issue); 
+    if (a.year) years.add(a.year); 
     if (a.type) types.add(a.type); 
   });
-  [...issues].sort((a,b)=>a-b).forEach(i => {
-    const o = document.createElement('option'); o.value = i; o.textContent = 'Iss. ' + i; $issue.appendChild(o);
+  [...years].sort((a,b)=>b-a).forEach(y => {
+    const o = document.createElement('option'); o.value = y; o.textContent = y; $year.appendChild(o);
   });
   [...types].sort().forEach(t => {
     const o = document.createElement('option'); o.value = t; o.textContent = t; $type.appendChild(o);
@@ -475,10 +475,10 @@ let currentQuery = '';
 function applyFilters() {
   const q = $search.value.trim();
   currentQuery = q;
-  const iv = $issue.value, tv = $type.value;
+  const yv = $year.value, tv = $type.value;
   filteredArticles = allArticles
     .map(a => {
-      if (iv && a.issue != iv) return null;
+      if (yv && a.year != yv) return null;
       if (tv && a.type !== tv) return null;
       const score = searchScore(a, q);
       if (q && score === 0) return null;
@@ -572,7 +572,7 @@ function render() {
       <div class="card-head" onclick="toggle(this.parentElement)">
         <div class="card-title">${highlight(a.title.replace(/<[^>]+>/g, ''), currentQuery)}</div>
         <div class="badges">
-          <span class="badge-year">2026</span>
+          <span class="badge-year">${a.year || '?'}</span>
           ${a.type ? `<span class="badge-type">${esc(a.type)}</span>` : ''}
           ${volIssue ? `<span class="badge-type">${esc(volIssue)}</span>` : ''}
           <button class="btn-expand toggle-btn" onclick="event.stopPropagation();toggle(this.closest('.card'))">Expand ▾</button>
@@ -733,7 +733,7 @@ function esc(s) {
 
 /* ── Events ── */
 $search.addEventListener('input', debounce(applyFilters, 300));
-$issue.addEventListener('change', applyFilters);
+$year.addEventListener('change', applyFilters);
 $type.addEventListener('change', applyFilters);
 
 function debounce(fn, ms) {

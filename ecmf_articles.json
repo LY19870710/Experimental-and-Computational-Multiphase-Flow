@@ -2042,5 +2042,2913 @@
     "internal_id": "2041701671689093121",
     "publisher": "清华大学出版社",
     "issn": "2661-8869"
+  },
+  {
+    "doi": "10.1007/s42757-025-0242-5",
+    "title": "Unsteady behavior of cloud cavitation and its induced shock waves: Part 2: Two-dimensional multiphase flow analysis",
+    "authors": [
+      {
+        "name": "Takahiro Ushioku"
+      },
+      {
+        "name": "Hiroaki Yoshimura"
+      }
+    ],
+    "affiliations": [
+      "Department of Applied Mechanics and Aerospace Engineering,JAPAN. Waseda University, 163-8001,JAPAN.",
+      "Department of Applied Mechanics and Aerospace Engineering,JAPAN. Waseda University, 163-8001,JAPAN."
+    ],
+    "keywords": [
+      "comparative study"
+    ],
+    "abstract": "We conducted a two-dimensional numerical analysis on the unsteady behavior of cloud cavitation and associated induced shock waves using the smoothed particle hydrodynamics method in conjunction with a pulsed submerged water jet injection into still water through a nozzle. We modeled a bubbly water jet as a mixture of liquids and gases to develop Navier–Stokes (NS) equations for multiphase flows in the Lagrangian description, which can naturally describe the inception of cavities without phase change models or initial bubble conditions. Subsequently, we numerically investigated the inception, growth, collapse, and rebound of clouds generated in multiphase flows. Our investigation revealed the appearance of twin vortices in association with the water jet injection, which moves along the boundary of the cloud synchronized with its growth and collapse behavior. Furthermore, we investigated the pressure fields to showcase the emission of the shock wave associated with the cloud collapse, noting the release of weak pressure waves prior to the main shock wave generation. Finally, a comparative study between the numerical analysis and the experimental results outlined in Part 1 of this study demonstrated consistency in the numerically observed unsteady behavior of the cloud and main shock wave phenomenon.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "389",
+    "lastpage": "408",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/1/17",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0242-5.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0242-5",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0235-9",
+    "title": "Impact of surface and physical property on multiphase flow in sealed vessel: Liquid dropdown performance",
+    "authors": [
+      {
+        "name": "Mehedi Hasan Tusar"
+      },
+      {
+        "name": "Palash K. Bhowmik"
+      },
+      {
+        "name": "Kazuma Kobayashi"
+      },
+      {
+        "name": "Syed Bahauddin Alam"
+      },
+      {
+        "name": "Shoaib Usman"
+      }
+    ],
+    "affiliations": [
+      "Department of Nuclear Engineering and Radiation Science,密苏里州,UNITED STATES. Missouri University of Science and Technology,罗拉,密苏里州,UNITED STATES.",
+      "Department of Irradiation Experiment and Thermal-hydraulics Analysis,UNITED STATES. Idaho National Laboratory,UNITED STATES.",
+      "Department of Nuclear, Plasma & Radiological Engineering,UNITED STATES. University of Illinois Urbana-Champaign,UNITED STATES.",
+      "Department of Nuclear, Plasma & Radiological Engineering,UNITED STATES. University of Illinois Urbana-Champaign,UNITED STATES. National Center for Supercomputing Applications,UNITED STATES.",
+      "Department of Nuclear Engineering and Radiation Science,密苏里州,UNITED STATES. Missouri University of Science and Technology,罗拉,密苏里州,UNITED STATES."
+    ],
+    "keywords": [
+      "volume of fluid (VOF)"
+    ],
+    "abstract": "This study explores multi-phase (i.e., liquid–gas) and multi-fluid (i.e., air–water, and water–silicone oil) flow-pattern and flow-blockage physics phenomena for wall wettability conditions ranging from superhydrophilic to superhydrophobic cases in sealed vessels utilizing computational fluid dynamics (CFD) simulation tools and volume-of-fluid (VOF) method with sharp interface modeling. Detailed modeling and simulation (M & S) of such physics phenomena—in which liquid (e.g., water) stands over top of gas (e.g., air or steam) in a closed channel and exhibited flow blockage, flow reversal related challenges—are pivotal for design, analysis, and qualification of component-level (e.g., heat pipes, heat exchangers) to system-level (e.g., emergency core cooling systems in nuclear reactors) heating and cooling industrial applications. Results show that, these physics phenomena are dependent on factors like contact angle (CA), channel diameter, gravity, and viscosity which impact the flow behavior in an adiabatic, and closed environment. Key observations include the role of CA (for 10-, 50-, 90-, 130-, and 170-degree) in dropdown time:  (a) a quicker dropdown for higher wettability surfaces (CA < 90 degrees); and (b) a slower dropdown for normal (CA = 90 degrees) and lower wettability surfaces (CA > 90 degrees). Other important observations are: (a) channel diameter (for 3, 10, and 100 mm) emerges as a crucial factor, a completely blocking flow case; (b) gravity variations introduce further complexities, leading to more unpredictable and unsteady flows under reduced gravity conditions. These findings, observations, and insights, including quantitative, qualitative, and nondimensional analysis supports design optimization, enhanced components-to-system level heat-transfer performance for relevant engineering applications.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "409",
+    "lastpage": "420",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/5/27",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0235-9.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0235-9",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0214-1",
+    "title": "Passive flow regime identification based on synchrosqueezing wavelet transform and deep learning",
+    "authors": [
+      {
+        "name": "Huzaifa Azam"
+      },
+      {
+        "name": "William Pao"
+      },
+      {
+        "name": "Nabihah Sallih"
+      },
+      {
+        "name": "Muhammad Sohail"
+      }
+    ],
+    "affiliations": [
+      "Mechanical Engineering Department,MALAYSIA. Universiti Teknologi PETRONAS, 31750,MALAYSIA.",
+      "Mechanical Engineering Department,MALAYSIA. Universiti Teknologi PETRONAS, 31750,MALAYSIA.",
+      "Mechanical Engineering Department,MALAYSIA. Universiti Teknologi PETRONAS, 31750,MALAYSIA.",
+      "Mechanical Engineering Department,MALAYSIA. Universiti Teknologi PETRONAS, 31750,MALAYSIA."
+    ],
+    "keywords": [
+      "SHAP"
+    ],
+    "abstract": "Two-phase flow produces flow patterns inside a straight horizontal pipe based on inlet velocities. Conventionally flow regimes are identified by comparing superficial velocities with available flow regime maps. A non-invasive technique of flow regime identification is required for the two-phase flow industry. This research proposes a passive method for automatically identifying flow regimes by combining synchrosqueezing wavelet transform (SWT) and deep learning. This study introduces a method for categorizing pipe surface vibrational displacement signals to identify flow regimes. The approach utilizes post-signal processing techniques, specifically continuous wavelet transform (CWT) and synchrosqueezing wavelet transform (SWT). It establishes a bijection relationship between flow regimes and the time–frequency (TF) textures extracted from passive displacement signals. Initially, the displacement signal of the flow regimes is captured using an accelerometer, followed by conversion into the time–frequency domain (TFD) via SWT. Subsequently, three convolutional neural network (CNN) architectures, namely AlexNet, VggNet, and ResNet, are trained to automate flow regime identification. The study investigates the impact of TF analysis methods and CNN architectures, revealing that SWT effectively represents TF textures of displacement signals. AlexNet, VggNet, and ResNet achieve identification accuracies of 83.55%, 92.76%, and 97.88%, respectively, with ResNet demonstrating the strongest identification capability. This method's primary contribution is validating the feasibility of utilizing displacement signals and CNN for slug, stratified, and elongated flow regime identification. Finally, SHAP analysis showed that minimum and maximum values extracted from SWT scalogram using ResNet architecture are the best flow-distinguishing feature using CNN.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "421",
+    "lastpage": "438",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/9/1",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0214-1.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0214-1",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0215-0",
+    "title": "Experimental and LBM simulation study on the effect of bubble departure and bubbles merging on subcooled flow boiling of pure water and surfactant solution",
+    "authors": [
+      {
+        "name": "Jue Wang"
+      },
+      {
+        "name": "Shifan Ouyang"
+      },
+      {
+        "name": "Yongzhong Chen"
+      },
+      {
+        "name": "Qingming Dong"
+      },
+      {
+        "name": "Junfeng Wang"
+      },
+      {
+        "name": "Zhentao Wang"
+      }
+    ],
+    "affiliations": [
+      "School of Energy Science and Engineering,CHINA. Jiangsu University, 212013,CHINA. Department of Chemical Engineering,NIGERIA. Federal University of Minna,NIGERIA.",
+      "Department of Chemical Engineering,NIGERIA. Federal University of Minna,NIGERIA.",
+      "Department of Chemical Engineering,NIGERIA. Federal University of Minna,NIGERIA.",
+      "Department of Chemical Engineering,NIGERIA. Federal University of Minna,NIGERIA.",
+      "Department of Chemical Engineering,NIGERIA. Federal University of Minna,NIGERIA.",
+      "School of Energy Science and Engineering,CHINA. Jiangsu University, 212013,CHINA. Department of Chemical Engineering,NIGERIA. Federal University of Minna,NIGERIA."
+    ],
+    "keywords": [
+      "surfactant"
+    ],
+    "abstract": "In the present study, flow boiling experiment using Ni-resistance method of temperature determination and numerical simulation by means of lattice Boltzmann method (LBM) are carried out to confirm the effect of bubble departure and bubbles merging on subcooled flow boiling heat transfer in pure water and CTAC/NaSal(1:1) solutions. Tests are performed with the same cross-section channel of 6.0 mm × 3.5 mm, inlet fluid temperature of Tin = 80 ℃, and outlet pressure of Pout = 101.3 kPa. With microlens and high-speed camera, the bubble departure process and flow patterns are recorded at different concentrations, gravity directions, and mass velocities. The improved Shan–Chen model with large density ratio (TS = 0.8TC, ρl/ρv = 36.55) is applied to simulate the bubble departure and bubbles merging process with changing gravity. The present results show that the superheat of CTAC/NaSal solution has a positive relationship with the bubble departure time and heat transfer coefficient (HTC) of pure water is almost unaffected by surfactant additives without bubble departure. Without bubble departure, the dry spot at the bottom of bubble causes the higher superheat, and the increasing velocity of liquid phase is the main reason of subcooled flow boiling heat transfer.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "439",
+    "lastpage": "449",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/8/14",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0215-0.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0215-0",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0195-0",
+    "title": "Investigation of hysteresis behavior and critical parameters in ventilated cavitation flows using experiments, simulations, and machine learning",
+    "authors": [
+      {
+        "name": "Hossein Ali Kamali"
+      },
+      {
+        "name": "Mohammad-Reza Erfanian"
+      },
+      {
+        "name": "Mahmoud Pasandidehfard"
+      },
+      {
+        "name": "Mohammad Mehdi Rashidi"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering,IRAN, ISLAMIC REPUBLIC OF. Ferdowsi University of Mashhad,IRAN, ISLAMIC REPUBLIC OF.",
+      "Department of Mechanical Engineering,IRAN, ISLAMIC REPUBLIC OF. Ferdowsi University of Mashhad,IRAN, ISLAMIC REPUBLIC OF.",
+      "Department of Mechanical Engineering,IRAN, ISLAMIC REPUBLIC OF. Ferdowsi University of Mashhad,IRAN, ISLAMIC REPUBLIC OF.",
+      "Institute of Fundamental and Frontier Sciences,CHINA. University of Electronic Science and Technology of China, 610054,CHINA."
+    ],
+    "keywords": [
+      "ventilation"
+    ],
+    "abstract": "One of the important and complex phenomena in ventilation supercavitation is the existence of hysteresis variations, which involves the study of the coefficients of ventilation formation and collapse. In this article, this phenomenon using a multifaceted approach, employing experimental, numerical methods, and also a machine learning model has investigated. Initially, the hysteresis curve was studied on the disc-shaped cavitation at different Froude numbers using a combination of experimental and numerical methods. Subsequently, Bayesian optimization algorithm was employed to fine-tune the hyperparameters of the XGBoost model, resulting in the BOA–XGB model. The outcomes of this optimized model agree well with the both experimental and numerical results. The results indicate that, with an increase in the Froude number, the values of the ventilation formation and collapse coefficients initially exhibit an increasing trend, followed by a decreasing trend. Also, the results show that the collapse ventilation coefficient has a linear relationship with the formation ventilation coefficient. The results obtained from the BOA–XGB model demonstrate that as the cavitation diameter increases, the maximum value of the formation ventilation coefficient linearly moves towards smaller Froude numbers.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "450",
+    "lastpage": "464",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/8/28",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0195-0.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0195-0",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0201-6",
+    "title": "Interface tracking simulation of multifluid flow by ISPH–FVM coupling method",
+    "authors": [
+      {
+        "name": "Yixiang Xu"
+      },
+      {
+        "name": "Gang Yang"
+      },
+      {
+        "name": "Yulin Xing"
+      },
+      {
+        "name": "Dean Hu"
+      }
+    ],
+    "affiliations": [
+      "Key Laboratory of Advanced Design and Simulation Technology for Special Equipments, Ministry of Education,Hunan,CHINA. College of Mechanical and Vehicle Engineering,Hunan,CHINA. Hunan University,Changsha,Hunan,CHINA.",
+      "Key Laboratory of Advanced Design and Simulation Technology for Special Equipments, Ministry of Education,Hunan,CHINA. College of Mechanical and Vehicle Engineering,Hunan,CHINA. Hunan University,Changsha,Hunan,CHINA.",
+      "Key Laboratory of Advanced Design and Simulation Technology for Special Equipments, Ministry of Education,Hunan,CHINA. College of Mechanical and Vehicle Engineering,Hunan,CHINA. Hunan University,Changsha,Hunan,CHINA.",
+      "Key Laboratory of Advanced Design and Simulation Technology for Special Equipments, Ministry of Education,Hunan,CHINA. College of Mechanical and Vehicle Engineering,Hunan,CHINA. Hunan University,Changsha,Hunan,CHINA."
+    ],
+    "keywords": [
+      "surface tension"
+    ],
+    "abstract": "Interface tracking simulation of multifluid flow is challenging due to the unstable multiphase interface involves complex topological changes. In this paper, an ISPH–FVM coupling method combining the incompressible smooth particle hydrodynamics (ISPH) method and the finite volume method (FVM) is developed for interface tracking simulation of multifluid flow. In the present ISPH–FVM coupling method, the flow filed is calculated by FVM, while the tracking of phase interfaces is characterized by ISPH particles. The bidirectional information transfer between ISPH particles and FVM grids is implemented by the particle approximation interpolation technique. The continuous surface stress (CSS) model is introduced into the present ISPH–FVM coupling method to evaluate the effect of the interphase surface tension. Moreover, the surface tension between phase interfaces is identified and calculated by the volume fraction on the grid. In addition, the volume fraction on the grid can also be easily obtained through the particle approximation interpolation technique. To verify and test the ability of the present ISPH–FVM coupling method in interface tracking simulation of multifluid flow, several numerical examples are implemented. The results show that the present ISPH–FVM coupling method has good performance in interface tracking simulation of multifluid flow with complex interface topology changes.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "465",
+    "lastpage": "489",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/5/27",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0201-6.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0201-6",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0220-3",
+    "title": "Investigating gas influx migration, dispersion, and suspension in well control operations: An interfacial area transport perspective",
+    "authors": [
+      {
+        "name": "Chen Wei"
+      },
+      {
+        "name": "Temitayo Adeyemi"
+      },
+      {
+        "name": "Jyotsna Sharma"
+      },
+      {
+        "name": "Shahriar Mahmud"
+      },
+      {
+        "name": "Yuanhang Chen"
+      }
+    ],
+    "affiliations": [
+      "Craft & Hawkins Department of Petroleum Engineering,巴吞鲁日,路易斯安那州,UNITED STATES. Louisiana State University,巴吞鲁日,路易斯安那州,UNITED STATES.",
+      "Craft & Hawkins Department of Petroleum Engineering,巴吞鲁日,路易斯安那州,UNITED STATES. Louisiana State University,巴吞鲁日,路易斯安那州,UNITED STATES.",
+      "Craft & Hawkins Department of Petroleum Engineering,巴吞鲁日,路易斯安那州,UNITED STATES. Louisiana State University,巴吞鲁日,路易斯安那州,UNITED STATES.",
+      "Craft & Hawkins Department of Petroleum Engineering,巴吞鲁日,路易斯安那州,UNITED STATES. Louisiana State University,巴吞鲁日,路易斯安那州,UNITED STATES.",
+      "Craft & Hawkins Department of Petroleum Engineering,巴吞鲁日,路易斯安那州,UNITED STATES. Louisiana State University,巴吞鲁日,路易斯安那州,UNITED STATES."
+    ],
+    "keywords": [
+      "distributed fiber-optic sensing (DFOS)"
+    ],
+    "abstract": "Effective management of gas influx is crucial in oil and gas drilling operations to prevent uncontrolled gas release and blowout hazards. When gas influxes enter a wellbore or marine riser within non-Newtonian drilling fluids, the processes associated with gas dispersion and suspension can significantly alter the behavior of gas migration. This consideration becomes crucial in non-circulating wells where it is essential to monitor and accurately predict changes in pressure. This study investigates gas influx behavior and interfacial area concentration (IAC) transport through detailed full-scale experiments and numerical simulations. Helium gas was injected into a 5160-foot wellbore filled with synthetic oil-based mud (SBM). High-resolution distributed fiber-optic sensing (DFOS) system was used to monitor the gas migration process, analyzing gas slip velocities, slug lengths, and suspension concentrations. A numerical simulator using the two-fluid model (TFM) and interfacial area transport equation (IATE) simulated gas influx behaviors, with results compared to experimental data. The IATE-based modeling framework accurately captured bubble breakdown, coalescence, and suspension processes, achieving good agreement with experimental data, including gauge measurements, distributed temperature sensing (DTS), and distributed acoustic sensing (DAS). This approach showed improved accuracy over traditional models like the drift-flux model, particularly in gas suspension interpretation. Sensitivity analysis highlighted the impact of gas influx size, gas bubble dispersion, and suspension processes on surface pressure build-up due to changes in system compressibility. In addition, the presented case study was translated into field predictions (the migration of methane influx in water-based mud (WBM)) based on the proposed and validated models. The obtained results provided valuable references for field applications. The experimental data using helium and SBM is beneficial in decoupling the complex physical processes involved during gas migration. This is also a novel practice for implementing the IATE in well-scale multiphase flow simulations, which has proved to be an effective tool for predicting the dynamics of gas influx distributions.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "490",
+    "lastpage": "515",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/8/26",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0220-3.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0220-3",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0230-1",
+    "title": "Novel gas–liquid volumetric flow measurement via non-intrusive optical sensing under upward vertical bubbly flow",
+    "authors": [
+      {
+        "name": "Kwame Sarkodie"
+      },
+      {
+        "name": "Andrew Fergusson Rees"
+      },
+      {
+        "name": "Mukhtar Abdulkadir"
+      },
+      {
+        "name": "Nana Yaw Asiedu"
+      },
+      {
+        "name": "Jonathan Atuquaye Quaye"
+      },
+      {
+        "name": "Patrick Boakye"
+      }
+    ],
+    "affiliations": [
+      "Department of Petroleum Engineering,GHANA. Kwame Nkrumah University of Science and Technology (KNUST),GHANA. Division of Chemical and Energy Engineering,UNITED KINGDOM. London South Bank University,UNITED KINGDOM.",
+      "Division of Chemical and Energy Engineering,UNITED KINGDOM. London South Bank University,UNITED KINGDOM.",
+      "Department of Chemical Engineering,NIGERIA. Federal University of Minna,NIGERIA.",
+      "Department of Chemical Engineering,GHANA. Kwame Nkrumah University of Science and Technology (KNUST),GHANA.",
+      "Department of Petroleum Engineering,GHANA. Kwame Nkrumah University of Science and Technology (KNUST),GHANA.",
+      "Department of Chemical Engineering,GHANA. Kwame Nkrumah University of Science and Technology (KNUST),GHANA."
+    ],
+    "keywords": [
+      "void fractions"
+    ],
+    "abstract": "A novel method for the measurement of volumetric flow rate for gas–liquid flow under vertical setting has been developed in this work. The sensing system consisted of two pairs of non-intrusive optical sensors that emit and receive infrared. The light intensity received is proportional to the phase fraction of gas and liquid in the pipe and hence bubble and slug flow regimes. The actual gas velocities were determined from cross-correlation and combined with phase fractions and pipe size to determine the gas flow rate. For the liquid flow rate, a modified drift flux model was developed to determine the actual liquid velocity based on the identified flow regime of bubble or slug flow. These measurements are then combined with the liquid fraction to determine the liquid flow rate. Measurement errors of ±3.2% and ±4.5% were obtained for liquid flow rate and gas volumetric flow rate measurements, respectively.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "516",
+    "lastpage": "536",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/8/22",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0230-1.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0230-1",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0211-4",
+    "title": "Effect of improving the performance of pulsating heat pipes on heat transfer in an extruder",
+    "authors": [
+      {
+        "name": "Rui-Li Yu"
+      },
+      {
+        "name": "Xiao-Yu Wang"
+      },
+      {
+        "name": "Dong-Sheng Jiao"
+      },
+      {
+        "name": "Rui-Di Qi"
+      },
+      {
+        "name": "Zi-Han Wang"
+      },
+      {
+        "name": "Zhen-Le Li"
+      },
+      {
+        "name": "Qiu-Rui Zhu"
+      },
+      {
+        "name": "Liang-Zhi Xia"
+      }
+    ],
+    "affiliations": [
+      "School of Chemical Engineering,CHINA. Dalian University of Technology, 116024,CHINA.",
+      "School of Chemical Engineering,CHINA. Dalian University of Technology, 116024,CHINA.",
+      "School of Chemical Engineering,CHINA. Dalian University of Technology, 116024,CHINA.",
+      "School of Chemical Engineering,CHINA. Dalian University of Technology, 116024,CHINA.",
+      "Leicester International Institute,CHINA. Dalian University of Technology, 116024,CHINA.",
+      "School of Chemical Engineering,CHINA. Dalian University of Technology, 116024,CHINA.",
+      "School of Chemical Engineering,CHINA. Dalian University of Technology, 116024,CHINA.",
+      "School of Chemical Engineering,CHINA. Dalian University of Technology, 116024,CHINA."
+    ],
+    "keywords": [
+      "numerical simulation"
+    ],
+    "abstract": "The extruder is prone to heat accumulation, which could affect production processes. Thus, this study explored the effectiveness of incorporating variable-diameter pulsating heat pipes into an extruder heat exchange system. The gas–liquid two-phase flow process within a pulsating heat pipe extruder was simulated, and the heat transfer effects of pulsating heat pipes with different diameters, as well as the heat transfer effects and temperature distribution of an extruder with a variable diameter condensing pipe, were examined. The findings revealed a substantial enhancement in performance when pulsating heat pipes were employed in the extruder’s heat exchange system, outperforming conventional gravity heat pipes. Specifically, the cooling start-up time was reduced by one-third when variable-diameter pulsating heat pipes were used. Moreover, the maximum temperature difference within the evaporation chamber at the same height was reduced by 5.5 K. This result suggests that the variable-diameter pulsating heat pipes promote a more uniform temperature distribution within the extruder. In summary, the variable diameter pulsating heat pipe demonstrates superior heat transfer efficiency and a more rapid response time than the gravity heat pipe does. This enhanced performance translates into reduced temperatures within the extruder, offering a significant advantage for the thermoplastic extrusion process. This innovation mitigates the risk of heat-related issues during operation.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "537",
+    "lastpage": "550",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/9/1",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0211-4.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0211-4",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0212-3",
+    "title": "Characterizing thermal efficiency and entropy generation of Sisko nanofluids in parabolic trough solar collectors: A comparison between three carbon-based nanoparticles",
+    "authors": [
+      {
+        "name": "Philopatir B. Raafat"
+      },
+      {
+        "name": "Fayez N. Ibrahim"
+      },
+      {
+        "name": "Mahmoud Ameen Mahmoud Sharaf"
+      }
+    ],
+    "affiliations": [
+      "Department of Mathematics,EGYPT. Faculty of Science,EGYPT. Ain Shams University,EGYPT.",
+      "Department of Mathematics,EGYPT. Faculty of Science,EGYPT. Ain Shams University,EGYPT.",
+      "Department of Mathematics,EGYPT. Faculty of Science,EGYPT. Ain Shams University,EGYPT."
+    ],
+    "keywords": [
+      "Sisko nanofluid"
+    ],
+    "abstract": "The primary objective of this work is to compare the effect of adding three different carbon-based nanoparticles (graphene, graphene oxide, and SWCNT) on the parabolic trough solar collector (PTSC)’s efficiency by considering Sisko nanofluids with ethylene glycol taken as the base fluid. The mathematical modelling took into consideration the impact of viscosity dissipation, solar thermal radiation, heat source/sink, and a constant slanted magnetic field. The controlling PDEs and the bounding constraints are attenuated into an ODE system upon the application of an appropriate similarity transformation. A numerical solution to the obtained ODE system is found by using the shooting technique via bvp4c. The effects of different parameters controlling the flow of the Sisko nanofluids are studied on the nanofluid’s velocity, temperature, entropy, skin friction coefficient, and local Nusselt number. It is found that the skin friction coefficient is increased with the Sisko material parameter, nanoparticle concentration, and decreased with the power-law index. While, the local Nusselt number is increased with the power-law index, nanoparticle concentration and is decreased with the Sisko material parameter. Numerical investigations show that the relative increase in the maximum temperature of graphene, graphene oxide, and SWCNT Sisko nanofluid was found to be 8.7308%, 38.4100%, and 47.7266%, respectively. The SWCNT–ethylene glycol Sisko nanofluid was determined to have the highest thermal performance enhancement among the three nanofluids herein.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "551",
+    "lastpage": "565",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/9/23",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0212-3.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0212-3",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0218-x",
+    "title": "Dynamics of pressure oscillations in microchannel flow boiling: Insight from wavelet analysis",
+    "authors": [
+      {
+        "name": "Nishant Shah"
+      },
+      {
+        "name": "Hemantkumar B. Mehta"
+      },
+      {
+        "name": "Jyotirmay Banerjee"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering,INDIA. Sardar Vallabhbhai National Institute of Technology,INDIA.",
+      "Department of Mechanical Engineering,INDIA. Sardar Vallabhbhai National Institute of Technology,INDIA.",
+      "Department of Mechanical Engineering,INDIA. Sardar Vallabhbhai National Institute of Technology,INDIA."
+    ],
+    "keywords": [
+      "flow restrictor (FR)"
+    ],
+    "abstract": "This present study employs comprehensive wavelet analysis to investigate pressure drop signals during subcooled flow boiling within a straight-through microchannel heat sink (MCHS). The research proposes the use of a flow restrictor (FR) to address the flow boiling instability, exploring its impact across a broad range of heat fluxes (15–80 W/cm2) and mass fluxes (320 and 520 kg/(m2·s)) in a high aspect ratio configuration with 44 parallel micro-channels (230 μm in width, 500 μm in height) utilizing degassed DI water as the coolant. The decomposed pressure signals reveal the contribution of various frequency components to the overall system dynamics, aiding in identifying dominant frequencies associated with flow boiling phenomena. The study demonstrates the effectiveness of the flow restrictor in mitigating flow boiling instability and enhancing heat transfer efficiency. The analysis of pressure drop fluctuations showcases the altered power spectrum behaviour and improved stability with the use of flow restrictor. The results present detailed power magnitude and dominant frequency ranges for different mass and heat fluxes, offering essential information for optimizing the heat transfer processes in the MCHS.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "566",
+    "lastpage": "581",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/8/12",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0218-x.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0218-x",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0232-z",
+    "title": "A numerical study of the effects of exposure conditions and human movement on cough droplets transmission and deposition",
+    "authors": [
+      {
+        "name": "Chang Xu"
+      },
+      {
+        "name": "Xin Zheng"
+      },
+      {
+        "name": "Fengshi Tian"
+      },
+      {
+        "name": "Feng Ding"
+      },
+      {
+        "name": "Shifei Shen"
+      }
+    ],
+    "affiliations": [
+      "School of Safety Science,CHINA. Tsinghua University, 100084,CHINA. College of Energy, Environment and Safety Engineering,CHINA. China Jiliang University, 310018,CHINA.",
+      "School of Safety Science,CHINA. Tsinghua University, 100084,CHINA.",
+      "School of Safety Science,CHINA. Tsinghua University, 100084,CHINA.",
+      "Department of Electronic Engineering,CHINA. Tsinghua University, 100084,CHINA.",
+      "School of Safety Science,CHINA. Tsinghua University, 100084,CHINA."
+    ],
+    "keywords": [
+      "computational fluid particle dynamics"
+    ],
+    "abstract": "The present numerical study aimed to clarify the effects of exposure conditions and human movement on cough droplets transmission and deposition. Two human manikins stood face-to-face were constructed within a computational domain, and the dynamic mesh method was used to realize the human movement. A validated computational fluid–particle dynamic model was adopted to simulate the transport, evaporation, and deposition of droplets emitted by human coughs under varied upstream velocities and relative humidities. The findings revealed a significantly higher percentage of droplets deposited on body surfaces compared to those inhaled into the airway. Specifically, the ratio between these two fractions was approximately 5 under a calm air environment, increasing to around 20 in windy conditions due to reduced inhalation and enhanced body surface deposition at higher wind speeds. The high humidity inhibited droplet evaporation and facilitated droplet sedimentation on the ground, consequently decreasing droplets reaching the susceptible person and mitigating associated health risks. Moreover, the impact of increased distance between the two virtual humans on reducing exposure risk was found to be exponentially diminished under windy conditions. In the coughing human movement scenario, droplets deposited on the susceptible human body and inhaled into the airway increased to 1.54 and 1.66 times, respectively, under the static condition, as the induced airflow pushed the droplets closer to the susceptible human body and respiratory zone.",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "582",
+    "lastpage": "596",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/8/30",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0232-z.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0232-z",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-025-0258-x",
+    "title": "Correction to: Thermal performance analysis of reflux condensation in vertical tubes via pure steam",
+    "authors": [
+      {
+        "name": "Samah A. Albdour"
+      },
+      {
+        "name": "Sameer Osman"
+      },
+      {
+        "name": "Mubashir Hassan"
+      },
+      {
+        "name": "Ho Joon Yoon"
+      },
+      {
+        "name": "Imran Afgan"
+      },
+      {
+        "name": "Yacine Addad"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical and Nuclear Engineering,UNITED ARAB EMIRATES. Khalifa University,UNITED ARAB EMIRATES. Emirates Nuclear Technology Center,UNITED ARAB EMIRATES. Khalifa University of Science and Technology,UNITED ARAB EMIRATES.",
+      "Department of Mechanical and Nuclear Engineering,UNITED ARAB EMIRATES. Khalifa University,UNITED ARAB EMIRATES. Emirates Nuclear Technology Center,UNITED ARAB EMIRATES. Khalifa University of Science and Technology,UNITED ARAB EMIRATES.",
+      "Department of Mechanical and Nuclear Engineering,UNITED ARAB EMIRATES. Khalifa University,UNITED ARAB EMIRATES. Emirates Nuclear Technology Center,UNITED ARAB EMIRATES. Khalifa University of Science and Technology,UNITED ARAB EMIRATES.",
+      "Federal Authority for Nuclear Regulation,UNITED ARAB EMIRATES.",
+      "Department of Mechanical and Nuclear Engineering,UNITED ARAB EMIRATES. Khalifa University,UNITED ARAB EMIRATES. Emirates Nuclear Technology Center,UNITED ARAB EMIRATES. Khalifa University of Science and Technology,UNITED ARAB EMIRATES. Department of Mechanical and Aerospace Engineering,School of Engineering,The University of Manchester, M13 9 PL,",
+      "Department of Mechanical and Nuclear Engineering,UNITED ARAB EMIRATES. Khalifa University,UNITED ARAB EMIRATES. Emirates Nuclear Technology Center,UNITED ARAB EMIRATES. Khalifa University of Science and Technology,UNITED ARAB EMIRATES."
+    ],
+    "keywords": [
+      "vertical tube"
+    ],
+    "abstract": "",
+    "volume": 7,
+    "issue": 4,
+    "firstpage": "597",
+    "lastpage": "597",
+    "publication_date": "2025/12/1",
+    "online_date": "2025/5/9",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/local/article_pdf/10.1007/s42757-025-0258-x.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0258-x",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0236-8",
+    "title": "Unsteady behavior of cloud cavitation and its induced shock waves: Part 1: Experimental observations and analysis",
+    "authors": [
+      {
+        "name": "Takahiro Ushioku"
+      },
+      {
+        "name": "Hiroaki Yoshimura"
+      }
+    ],
+    "affiliations": [
+      "Department of Applied Mechanics and Aerospace Engineering,JAPAN. Waseda University, 163-8001,JAPAN.",
+      "Department of Applied Mechanics and Aerospace Engineering,JAPAN. Waseda University, 163-8001,JAPAN."
+    ],
+    "keywords": [
+      "submerged water-jet"
+    ],
+    "abstract": "Cloud cavitation is associated with a collective unsteady motion, characterized by repeated growth and collapse of the cloud, with the collapse process emitting a shock wave. The mechanism whereby the cloud exhibits the unsteady behavior (i.e., from its inception, growth, collapse, and finally rebound) and generates the shock wave has not been well revealed. In particular, we consider that how the impact pressure which is the source of the outward-propagating shock wave is formed during the cloud collapse remains an open question. To elucidate the unsteady behavior of the cloud and associated shock wave phenomena, detailed experimental and numerical analyses are required, each of which is explored in Parts 1 and 2 of this paper. The main objective of Part 1 is to investigate the structure of the unsteady behavior of clouds induced by pulsed submerged water-jet injection and shock wave phenomena through experimental observations. To this end, we developed an observation system with two high-speed cameras operating at 450 kfps arranged orthogonally, enabling the simultaneous observation of unsteady phenomena as well as shock wave propagation using the shadowgraph and Schlieren methods. Thus, we illustrated how the cloud shows elementary processes and how shock waves are generated and propagated. In particular, we introduced the concept of “nucleus of the cloud” to understand the structure of its collective unsteady motion and the shock waves associated with the cloud collapse.",
+    "volume": 7,
+    "issue": 3,
+    "firstpage": "245",
+    "lastpage": "257",
+    "publication_date": "2025/9/1",
+    "online_date": "2024/12/2",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0236-8.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0236-8",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-024-0216-z",
+    "title": "Numerical assessment of the hydrogel physical properties’ effect on oxygen gradients in an organ-on-a-chip biosystem",
+    "authors": [
+      {
+        "name": "Violeta Carvalho"
+      },
+      {
+        "name": "Nelson Rodrigues"
+      },
+      {
+        "name": "Paulo Sousa"
+      },
+      {
+        "name": "Vânia Pinto"
+      },
+      {
+        "name": "Cristina S. Rodrigues"
+      },
+      {
+        "name": "Su Ryon Shin"
+      },
+      {
+        "name": "Manuel Bañobre-López"
+      },
+      {
+        "name": "Graça Minas"
+      },
+      {
+        "name": "Raquel O. Rodrigues"
+      },
+      {
+        "name": "Rui Lima"
+      },
+      {
+        "name": "Senhorinha F. C. F. Teixeira"
+      }
+    ],
+    "affiliations": [
+      "Division of Engineering in Medicine, Department of Medicine,UNITED STATES. Brigham and Women’s Hospital,UNITED STATES. Harvard Medical School, 02115,UNITED STATES. Center for MicroElectromechanical Systems (CMEMS-UMinho),University of Minho, 4710-057,MEtRICs,Mechanical Engineering Department,University of Minho, 4710-057,LABBELS—Associate Laboratory,PORTUGAL. ALGORITMI Research Centre,University of Minho, 4710-057,LASI Research Centre,University of Minho, 4710-057,",
+      "MEtRICs,Mechanical Engineering Department,University of Minho, 4710-057,ALGORITMI Research Centre,University of Minho, 4710-057,LASI Research Centre,University of Minho, 4710-057,",
+      "Center for MicroElectromechanical Systems (CMEMS-UMinho),University of Minho, 4710-057,LABBELS—Associate Laboratory,PORTUGAL.",
+      "Center for MicroElectromechanical Systems (CMEMS-UMinho),University of Minho, 4710-057,LABBELS—Associate Laboratory,PORTUGAL.",
+      "ALGORITMI Research Centre,University of Minho, 4710-057,LASI Research Centre,University of Minho, 4710-057,",
+      "Division of Engineering in Medicine, Department of Medicine,UNITED STATES. Brigham and Women’s Hospital,UNITED STATES. Harvard Medical School, 02115,UNITED STATES.",
+      "Advanced (magnetic) Theranostic Nanostructures Lab,PORTUGAL. Nanomedicine Unit,PORTUGAL. INL–International Iberian Nanotechnology Laboratory,PORTUGAL.",
+      "Center for MicroElectromechanical Systems (CMEMS-UMinho),University of Minho, 4710-057,LABBELS—Associate Laboratory,PORTUGAL.",
+      "Center for MicroElectromechanical Systems (CMEMS-UMinho),University of Minho, 4710-057,LABBELS—Associate Laboratory,PORTUGAL.",
+      "MEtRICs,Mechanical Engineering Department,University of Minho, 4710-057,Transport Phenomena Research Center,PORTUGAL. Faculty of Engineering,PORTUGAL. University of Porto,PORTUGAL. ALiCE – Associate Laboratory in Chemical Engineering,PORTUGAL. Faculty of Engineering, University of Porto,PORTUGAL.",
+      "ALGORITMI Research Centre,University of Minho, 4710-057,LASI Research Centre,University of Minho, 4710-057,"
+    ],
+    "keywords": [
+      "porous media"
+    ],
+    "abstract": "Organ-on-a-Chip (OoC) platforms hold promise for mimicking human physiology better than traditional methods. A vital aspect of OoC research is the investigation of oxygen distribution within these microscale systems as it affects cellular metabolism. Numerical simulations, valuable for this research, offer detailed insights into the interaction between physics, biology, and fluid flow. Nevertheless, in OoC research, many authors usually ignore the properties of hydrogels that mimic the human organs, e.g., their porosity and permeability, when numerical simulations are performed, due to the lack of information about these materials or difficulty in measuring them. However, simplifying these properties may sacrifice realistic aspects of the numerical results. In light of this, the present study aims to evaluate how hydrogel scaffolds within the OoC impact oxygen distribution, when simulated as porous media. For this purpose, computational fluid dynamic simulations of an OoC model were conducted through Ansys Fluent Software. Additionally, to qualitatively validate the current model, experimental fluid flow visualizations were conducted. The results showed that when a lower permeability is considered, the oxygen transport in the organ models occurs mainly by diffusion, while with a higher permeability, the oxygen transport occurs essentially by convection. Despite these differences, on average, the predicted oxygen concentration in the current setup was similar in both cases. The findings also indicated that for a lower permeability, the fluid velocity within the organ models is approximately zero. Moreover, the qualitative assessment demonstrated a strong agreement between the numerical and the experimental fluid flow in terms of flow streamlines.",
+    "volume": 7,
+    "issue": 3,
+    "firstpage": "258",
+    "lastpage": "269",
+    "publication_date": "2025/9/1",
+    "online_date": "2024/8/1",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0216-z.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0216-z",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-025-0239-0",
+    "title": "Modelling air–water flow in vacuum-aided vertical drain",
+    "authors": [
+      {
+        "name": "Zhihao Huangfu"
+      },
+      {
+        "name": "An Deng"
+      },
+      {
+        "name": "Zhao Tian"
+      }
+    ],
+    "affiliations": [
+      "School of Architecture and Civil Engineering,AUSTRALIA. The University of Adelaide,AUSTRALIA.",
+      "School of Architecture and Civil Engineering,AUSTRALIA. The University of Adelaide,AUSTRALIA.",
+      "School of Electrical and Mechanical Engineering,AUSTRALIA. The University of Adelaide,AUSTRALIA."
+    ],
+    "keywords": [
+      "lift depth"
+    ],
+    "abstract": "Vacuum-aided vertical drain is an established dewatering method. The vacuum pressure exerts a force inside the drain, lifting the groundwater and lowering the groundwater table. Along with the inflowing groundwater, a volume of air often gathers towards the drain and forms an air–water mixture transported in the drainpipe. The presence of air complicates the pressures in the conduit and therefore affects the dewatering efficiency. This paper presented a numerical model for orifice-induced air–water flow in vertical drains. Using the mass conservation, the model can calculate pipe pressure distributions and water discharge capacity. The model was validated against the results obtained from the computational fluid dynamics calculations. The proposed model was applied to the example problems to examine the effects of orifices on the pipe pressure distributions, water discharge rates, and lift depths. Nonlinear pressure distributions occurred in the drainpipe, and pressure dropped more noticeably in the presence of air. More water was discharged when the orifice was located closer to the lower end than to the upper end. Under one standard atmosphere vacuum pressure the lift depth was approximately 6.3–7.5 m depending on the orifice size.",
+    "volume": 7,
+    "issue": 3,
+    "firstpage": "270",
+    "lastpage": "283",
+    "publication_date": "2025/9/1",
+    "online_date": "2025/6/16",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0239-0.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0239-0",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-024-0200-7",
+    "title": "Deposition characteristics of ultrafine particles of different shapes in an inertial impactor: CFD-DEM simulations and experiments",
+    "authors": [
+      {
+        "name": "Yanru Wang"
+      },
+      {
+        "name": "Hui Peng"
+      },
+      {
+        "name": "Zhaoqin Yin"
+      },
+      {
+        "name": "Fubing Bao"
+      },
+      {
+        "name": "Likai Hou"
+      }
+    ],
+    "affiliations": [
+      "School of Aeronautics and Astronautics,CHINA. Zhejiang University, 310058,CHINA. Zhejiang Provincial Key Laboratory of Flow Measurement Technology,CHINA. China Jiliang University, 310018,CHINA.",
+      "Zhejiang Provincial Key Laboratory of Flow Measurement Technology,CHINA. China Jiliang University, 310018,CHINA.",
+      "Zhejiang Provincial Key Laboratory of Flow Measurement Technology,CHINA. China Jiliang University, 310018,CHINA.",
+      "Zhejiang Provincial Key Laboratory of Flow Measurement Technology,CHINA. China Jiliang University, 310018,CHINA.",
+      "Zhejiang Provincial Key Laboratory of Flow Measurement Technology,CHINA. China Jiliang University, 310018,CHINA."
+    ],
+    "keywords": [
+      "scanning mobility particle sizer (SMPS)"
+    ],
+    "abstract": "In this study, the deposition characteristics of non-spherical ultrafine particles in an inertial impactor were analyzed. Firstly, numerical simulations were conducted using a model developed via computational fluid dynamics and the discrete element method (CFD-DEM). The numerical results suggested that the particle deposition characteristics were influenced by the drag force, adhesion force, and particle inertia. Moreover, the collection efficiencies of spherical, triangular, and cylindrical particles in the impactor were examined, and cylindrical particles with a large aspect ratio exhibited the lowest collection efficiency. Secondly, experiments were conducted using a particle dispersion system, particle collection system, and particle size distribution measurement system, and the particle size spectrum was measured using a scanning mobility particle sizer (SMPS). The experimental results demonstrated that the collection efficiency of non-spherical particles was lower than that of spherical particles for the same initial concentration in the impactor, which was in good agreement with the simulation results.",
+    "volume": 7,
+    "issue": 3,
+    "firstpage": "284",
+    "lastpage": "296",
+    "publication_date": "2025/9/1",
+    "online_date": "2025/6/16",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0200-7.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0200-7",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-023-0162-1",
+    "title": "An experimental study of pool boiling of low concentrated CuO nanofluid on the copper flat surface",
+    "authors": [
+      {
+        "name": "Amir Ahmad Jamialahmadi"
+      },
+      {
+        "name": "Ahmad Nazari"
+      },
+      {
+        "name": "Mohammad Hasan Kayhani"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering,IRAN, ISLAMIC REPUBLIC OF. Shahrood University of Technology,IRAN, ISLAMIC REPUBLIC OF.",
+      "Department of Mechanical Engineering,IRAN, ISLAMIC REPUBLIC OF. Shahrood University of Technology,IRAN, ISLAMIC REPUBLIC OF.",
+      "Department of Mechanical Engineering,IRAN, ISLAMIC REPUBLIC OF. Shahrood University of Technology,IRAN, ISLAMIC REPUBLIC OF."
+    ],
+    "keywords": [
+      "nanocoated surface"
+    ],
+    "abstract": "Nanofluid containing CuO particles with a size of 40 nm in the water-based fluid has been used in this research. Measurements of heat transfer coefficient and critical heat flux in seven different concentrations of nanofluid including 1, 5, 10, 50, 100, 500, and 1000 mg/L have shown that firstly, the boiling heat transfer coefficient at the concentration of 50 mg/L has the highest amount and increases by 50% compared to pure water. Secondly, the critical heat flux at the concentration of 100 mg/L has the highest value and has shown a 92% increase over deionized water.",
+    "volume": 7,
+    "issue": 3,
+    "firstpage": "297",
+    "lastpage": "307",
+    "publication_date": "2025/9/1",
+    "online_date": "2025/6/14",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0162-1.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0162-1",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-024-0205-2",
+    "title": "Bubble size effect on electrical signal fluctuations in flow of sub-millimeter bubbles at low void fractions: A simulation study",
+    "authors": [
+      {
+        "name": "Sotiris P. Evgenidis"
+      },
+      {
+        "name": "Thodoris D. Karapantsios"
+      },
+      {
+        "name": "Margaritis Kostoglou"
+      }
+    ],
+    "affiliations": [
+      "Chemical and Environmental Technology Lab, Department of Chemical Technology and Industrial Chemistry,GREECE. School of Chemistry,GREECE. Aristotle University of Thessaloniki,GREECE.",
+      "Chemical and Environmental Technology Lab, Department of Chemical Technology and Industrial Chemistry,GREECE. School of Chemistry,GREECE. Aristotle University of Thessaloniki,GREECE.",
+      "Chemical and Environmental Technology Lab, Department of Chemical Technology and Industrial Chemistry,GREECE. School of Chemistry,GREECE. Aristotle University of Thessaloniki,GREECE."
+    ],
+    "keywords": [
+      "void fraction"
+    ],
+    "abstract": "Bubbly flow is widely encountered in industrial applications and in human physiology during Decompression Sickness, so the interest for non-intrusive measuring techniques is still great. Karapantsios et al. (2016, 2022) have developed an EU patented, ultra-sensitive electrical impedance spectroscopy method, called I-VED, for in-vitro and in-vivo detection of sub-mm bubbles in liquids at low void fractions (< 10−1). Previous experiments in a flow loop led to an empirical correlation that estimates the arithmetic average bubbles diameter from the intensity of I-VED signal fluctuations. In an effort to provide physical insight to the above-mentioned correlation, this work applies a unique mathematical model that simulates bubbly flow electrical conductance signals under prescribed conditions. Simulations are performed for different bubble populations, void fractions and Bubble Size Distribution (BSD) types (mono-disperse and uniform/non-uniform bi-disperse). Both the average value and the intensity of fluctuations of simulated signals increase with bubbles size and population of a mono-disperse BSD. Despite the two-dimensional simplified character of the model, the exponent relating signal fluctuations to bubbles average size appears to be comparable to the experimental one. Signal fluctuations increase also with the width of a uniform bi-disperse BSD as well as with the population and size of the larger bubbles in the case of a non-uniform bi-disperse BSD. Interestingly, analysis of simulated signals suggests that a correction factor for BSD width should be incorporated in the empirical equation, while an average bubble diameter of higher order than the arithmetic one may be directly proportional to the intensity of signal fluctuations.",
+    "volume": 7,
+    "issue": 3,
+    "firstpage": "308",
+    "lastpage": "322",
+    "publication_date": "2025/9/1",
+    "online_date": "2025/7/11",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0205-2.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0205-2",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-024-0209-y",
+    "title": "Effect of flow direction and capillary orientation on the bubble detachment diameter in liquid cross-flow",
+    "authors": [
+      {
+        "name": "Maksim Vorobyev"
+      },
+      {
+        "name": "Pavel Lobanov"
+      },
+      {
+        "name": "Aleksandr Chinak"
+      },
+      {
+        "name": "Oleg Kashinsky"
+      }
+    ],
+    "affiliations": [
+      "Novosibirsk State University, 630090,Kutateladze Institute of Thermophysics SB RAS,RUSSIAN FEDERATION.",
+      "Kutateladze Institute of Thermophysics SB RAS,RUSSIAN FEDERATION.",
+      "Kutateladze Institute of Thermophysics SB RAS,RUSSIAN FEDERATION.",
+      "Kutateladze Institute of Thermophysics SB RAS,RUSSIAN FEDERATION."
+    ],
+    "keywords": [
+      "coalescence"
+    ],
+    "abstract": "The process of bubble detachment from an orifice or capillary in the liquid flow was studied experimentally. The effect of liquid viscosity, orifice orientation, and flow direction were investigated. It was shown that the smallest bubbles were obtained when the capillary was placed across the flow in the channel center. The largest bubbles were produced when the capillary was oriented along the flow. A comparison of several theoretical and semi-empirical models with experimental data obtained was performed. A qualitative model was proposed to predict the size of bubble produced, taking into account the bubble coalescence near the capillary. The study demonstrates that the average dimensionless volume of generated bubbles is influenced by factors such as capillary diameter, liquid velocity, and viscosity, as long as the gas flow rate remains below a critical value. However, beyond this critical gas flow rate, the dimensionless bubble volume values of different experimental parameters align along a single curve in the suggested dimensionless coordinates.",
+    "volume": 7,
+    "issue": 3,
+    "firstpage": "323",
+    "lastpage": "335",
+    "publication_date": "2025/9/1",
+    "online_date": "2025/6/16",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0209-y.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0209-y",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-024-0210-5",
+    "title": "Scaling rules for multiphase flow in vertical Venturis",
+    "authors": [
+      {
+        "name": "Meng-Ke Zhan"
+      },
+      {
+        "name": "Cheng-Gang Xie"
+      },
+      {
+        "name": "Jian-Jun Shu"
+      }
+    ],
+    "affiliations": [
+      "School of Mechanical and Aerospace Engineering,SINGAPORE. Nanyang Technological University, Singapore,SINGAPORE. Schlumberger Oilfield (Singapore) Pte Ltd.,SINGAPORE. Singapore Well Testing Center,SINGAPORE.",
+      "Schlumberger Oilfield (Singapore) Pte Ltd.,SINGAPORE. Singapore Well Testing Center,SINGAPORE.",
+      "School of Mechanical and Aerospace Engineering,SINGAPORE. Nanyang Technological University, Singapore,SINGAPORE."
+    ],
+    "keywords": [
+      "Eulerian–Eulerian modeling"
+    ],
+    "abstract": "Employing a suitable scaling rule in gas–liquid flow can produce dynamically comparable results, which helps in the development of flow models applicable to a wide range of flow conditions and reduces the carbon footprint; however, matching all dimensionless numbers in gas–liquid flow is a challenge. This study uses a computational fluid dynamics approach to identify key dimensionless numbers that can produce dimensionally equivalent results under a variety of flow conditions in the vertical Venturi of varied sizes. The performance of the scaling rule is evaluated and validated based on experimental measurements in terms of the phase fraction, the Venturi dimensionless pressure drop, and the two-phase discharge coefficient.",
+    "volume": 7,
+    "issue": 3,
+    "firstpage": "336",
+    "lastpage": "351",
+    "publication_date": "2025/9/1",
+    "online_date": "2025/7/2",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0210-5.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0210-5",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-024-0204-3",
+    "title": "Multiphase flow simulation and experimental investigation of product transport during electrolyte jet machining of titanium alloy",
+    "authors": [
+      {
+        "name": "Yang Liu"
+      },
+      {
+        "name": "Pengfei Ouyang"
+      },
+      {
+        "name": "Zhaoyang Zhang"
+      },
+      {
+        "name": "Wei Xue"
+      },
+      {
+        "name": "Weidong Liu"
+      },
+      {
+        "name": "Yufeng Wang"
+      },
+      {
+        "name": "Hao Zhu"
+      },
+      {
+        "name": "Kun Xu"
+      },
+      {
+        "name": "Jinzhong Lu"
+      }
+    ],
+    "affiliations": [
+      "School of Mechanical Engineering,CHINA. Jiangsu University, 212013,CHINA.",
+      "School of Mechanical Engineering,CHINA. Jiangsu University, 212013,CHINA.",
+      "School of Mechanical Engineering,CHINA. Jiangsu University, 212013,CHINA.",
+      "Institute of Laser and Optoelectronics Intelligent Manufacturing,CHINA. Wenzhou University,CHINA.",
+      "College of Aeronautical Engineering,Civil Aviation University of China, 300300,",
+      "Ningbo Institute of Material Technology & Engineering, Chinese Academy of Sciences,Ningbo,Zhejiang,CHINA.",
+      "School of Mechanical Engineering,CHINA. Jiangsu University, 212013,CHINA.",
+      "School of Mechanical Engineering,CHINA. Jiangsu University, 212013,CHINA.",
+      "School of Mechanical Engineering,CHINA. Jiangsu University, 212013,CHINA."
+    ],
+    "keywords": [
+      "surface quality"
+    ],
+    "abstract": "Electrolyte jet machining technology offers high machining flexibility, enabling high-quality machining of various aerospace titanium alloys. As a result, it holds significant market application value. However, the development of this technology has been limited by difficulties in product transportation. This article addresses these issues by focusing on numerical simulation and experimental research on the transportation of processed products. A comprehensive study was conducted on the flow direction of the flow field, transportation of processing products, and distribution of gas–liquid. Particularly, the particle tracking method was employed to simulate the transport process of processed products under varying pressures and electrolyte jet angles, offering valuable insights into the transient transport of processed products in high-speed electrolyte jet machining. The quality of the processed surface, the contour of the processed grooves, and the micro morphology are the key points to be analyzed. Research results indicate that changing the jet angle of the electrolyte to 60° improved the machining surface quality. The machined surface roughness was approximately Ra 0.3 μm, which was significantly lower than the original surface roughness of Ra 1.6 μm. The machined edge contour was clear, and the machined surface exhibited a silver-white metallic sheen. The stability and reliability of this technology were verified by machining complex shape patterns. The depth and width errors of the machined grooves in multiple positions were less than 2%, indicating good machining consistency. Finally, a planar structure was machined using this technology, and the machined surface was smooth with no apparent scattered corrosion. The findings of this study provide a technical foundation for the utilization of high-speed electrolyte jet machining technology in the machining of aerospace titanium alloys.",
+    "volume": 7,
+    "issue": 3,
+    "firstpage": "352",
+    "lastpage": "367",
+    "publication_date": "2025/9/1",
+    "online_date": "2025/7/2",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0204-3.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0204-3",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-024-0224-z",
+    "title": "A new correlation for prediction of drag coefficient on particle agglomerates using CFD",
+    "authors": [
+      {
+        "name": "Ricardo Arbach Fernandes de Oliveira"
+      },
+      {
+        "name": "Gabriela Cantarelli Lopes"
+      }
+    ],
+    "affiliations": [
+      "Department of Chemical Engineering,BRAZIL. Graduate Program in Chemical Engineering,BRAZIL. Universidade Federal de São Carlos,BRAZIL. Department of Chemical Engineering,BRAZIL. Universidade Federal de São Carlos,BRAZIL.",
+      "Department of Chemical Engineering,BRAZIL. Universidade Federal de São Carlos,BRAZIL."
+    ],
+    "keywords": [
+      "computational fluid dynamics (CFD)"
+    ],
+    "abstract": "This work focuses on studying the drag coefficient of particle agglomerates and, based on previous studies, presenting a new drag correlation that improves the accuracy on estimating it. The study was carried out in the numerical field, using computational fluid dynamics (CFD), with experimental validation, to evaluate the drag acting in agglomerates of spheres in three conformations, according to the number of spheres (from 3 to 5). Based on the advances in the literature concerning the Kaskas equation for drag coefficient in spheres, the present study proposes the inclusion of a natural logarithm function, allied with shape parameters to characterize the agglomerate geometry, to enhance the capability of estimating the drag coefficient for a wide range of Reynolds numbers (0.1–3500). Results showed that, the use of the logarithm function improved the equation for all the shape descriptors tested, compared to previous correlations in the literature. Best results were observed by fitting the correlation using the flatness of the agglomerate, presenting a mean relative deviation of 3.79%, with maximum, minimum and standard deviations of 10.78%, −7.62%, and 5.06%, respectively.",
+    "volume": 7,
+    "issue": 3,
+    "firstpage": "368",
+    "lastpage": "387",
+    "publication_date": "2025/9/1",
+    "online_date": "2025/7/2",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0224-z.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0224-z",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-025-0251-4",
+    "title": "Message from the Guest Editor of the 19th Multiphase Flow Conference Special Issue",
+    "authors": [
+      {
+        "name": "Dirk Lucas"
+      }
+    ],
+    "affiliations": [
+      "Institute of Fluid Dynamics,Helmholtz-Zentrum Dresden-Rossendorf,GERMANY."
+    ],
+    "keywords": [],
+    "abstract": "",
+    "volume": 7,
+    "issue": 2,
+    "firstpage": "149",
+    "lastpage": "150",
+    "publication_date": "2025/6/1",
+    "online_date": "2025/6/23",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0251-4.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0251-4",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-024-0206-1",
+    "title": "Extension of the two-fluid model to bubble size distribution moment velocities",
+    "authors": [
+      {
+        "name": "E. M. A. Frederix"
+      },
+      {
+        "name": "V. Habiyaremye"
+      },
+      {
+        "name": "S. Tajfirooz"
+      },
+      {
+        "name": "J. G. M. Kuerten"
+      }
+    ],
+    "affiliations": [
+      "Nuclear Research and Consultancy Group,NETHERLANDS.",
+      "Nuclear Research and Consultancy Group,NETHERLANDS.",
+      "Nuclear Research and Consultancy Group,NETHERLANDS.",
+      "Eindhoven University of Technology,"
+    ],
+    "keywords": [
+      "log-normal size distribution"
+    ],
+    "abstract": "Moment methods exist as a computationally affordable way to model particle population balance in combination with the two-fluid model. For simplicity, it is often assumed that all moments are advected using the dispersed phase velocity of the two-fluid model. However, interfacial forces, and therefore also particle velocities, are generally size-dependent functions. We refer to this phenomenon as poly-celerity. This can be accounted for in moment methods by having different advection velocities for the different moments under consideration. In this work, we present a momentum balance equation for the advection velocity of a moment of arbitrary order. The equation is derived in such a way that it remains consistent with the two-fluid model momentum balance equation. This consistency is crucial, since the volume fraction computed by the two-fluid model is often taken as one of the moments used for closure in moment methods. In order to test the presented model, a hypothetical air–water bubbly pipe flow is simulated. We show that the resulting poly-celeric moment method is capable of predicting the same size distribution dynamics as a highly accurate reference size group method, at a significantly lower computational cost. The low computational cost can be explained by the fact that the present model only requires two additional balance equations to be solved in order to account for poly-celerity, while the reference method requires, in our specific case, 15 (one per velocity group). Additionally, we show that the correct size distribution dynamics are entirely lost when the effect of poly-celerity is left out of the model.",
+    "volume": 7,
+    "issue": 2,
+    "firstpage": "151",
+    "lastpage": "166",
+    "publication_date": "2025/6/1",
+    "online_date": "2024/5/28",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0206-1.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0206-1",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-024-0213-2",
+    "title": "Investigation of the gas and film flow of Taylor bubble in a tube with a short constriction employing 3D particle tracking",
+    "authors": [
+      {
+        "name": "Florian Bürkle"
+      },
+      {
+        "name": "Rhandrey Maestri"
+      },
+      {
+        "name": "Gregory Lecrivain"
+      },
+      {
+        "name": "Uwe Hampel"
+      },
+      {
+        "name": "Lars Büttner"
+      },
+      {
+        "name": "Jürgen Czarske"
+      }
+    ],
+    "affiliations": [
+      "Laboratory of Measurement and Sensor System Technique,GERMANY. Technische Universität Dresden,GERMANY.",
+      "Institute of Fluid Dynamics,Helmholtz-Zentrum Dresden-Rossendorf,GERMANY.",
+      "Institute of Fluid Dynamics,Helmholtz-Zentrum Dresden-Rossendorf,GERMANY.",
+      "Institute of Fluid Dynamics,Helmholtz-Zentrum Dresden-Rossendorf,GERMANY. Chair of Imaging Techniques in Energy and Process Engineering,GERMANY. Technische Universität Dresden,GERMANY.",
+      "Laboratory of Measurement and Sensor System Technique,GERMANY. Technische Universität Dresden,GERMANY.",
+      "Laboratory of Measurement and Sensor System Technique,GERMANY. Technische Universität Dresden,GERMANY."
+    ],
+    "keywords": [
+      "adaptive optics"
+    ],
+    "abstract": "Taylor gas–liquid flows are present in many technical processes. However, the gas flow inside bubbles, which influences various process parameters, has been poorly investigated experimentally. These data provide new insights for more resource- and energy-efficient processes. This study explores the internal gas flow and film flow dynamics within Taylor bubbles in a cylindrical tube with a constriction. By employing particle image velocimetry for internal gas flow and highly spatially resolving double helical particle tracking velocimetry (DH-PTV) for film flow, experiments are conducted with downward water flow. The Reynolds number Re for the liquid and air flows ranges from 127 to 1460 and 317.5 to 1016, respectively. With an Eötvös number Eo<5 and a capillary number Ca<10–3, the internal flow in a plain tube exhibits a toroidal vortex in the upper part of the bubble, whereas the constriction introduces significant alterations, generating two toroidal vortices with elevated shear velocities. Complementary film flow measurements below constrictions reveal a correlation with internal flow velocities at the bubble surface. The DH-PTV technique, which uses a spatial light modulator, proves effective in measuring micrometer-scale film thickness and reducing aberrations due to curved optical interfaces. This work contributes insights into multiphase flow dynamics, offering potential applications for particle separation studies and more efficient flow geometries in various processes.",
+    "volume": 7,
+    "issue": 2,
+    "firstpage": "167",
+    "lastpage": "177",
+    "publication_date": "2025/6/1",
+    "online_date": "2025/5/27",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0213-2.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0213-2",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-024-0203-4",
+    "title": "Analysis of water-in-gasoline emulsions via experiments and direct numerical simulations",
+    "authors": [
+      {
+        "name": "Benjamin Blau"
+      },
+      {
+        "name": "Oscar Krzeczek"
+      },
+      {
+        "name": "Christoph Heinrich"
+      },
+      {
+        "name": "Markus Klein"
+      }
+    ],
+    "affiliations": [
+      "Institute of Automotive Technology,GERMANY. Trier University of Applied Sciences,GERMANY.",
+      "Institute of Applied Mathematics and Scientific Computing,巴伐利亚州,GERMANY. Bundeswehr University Munich,慕尼黑,巴伐利亚州,GERMANY.",
+      "Institute of Automotive Technology,GERMANY. Trier University of Applied Sciences,GERMANY.",
+      "Institute of Applied Mathematics and Scientific Computing,巴伐利亚州,GERMANY. Bundeswehr University Munich,慕尼黑,巴伐利亚州,GERMANY."
+    ],
+    "keywords": [
+      "droplet size distribution (DSD)"
+    ],
+    "abstract": "This work explores the combination of direct numerical simulations (DNSs) and experimental approaches for studying technical emulsification processes. Although emulsions have long been used in a variety of industries and many important research papers have been published over the years, quantifying and predicting the dispersion of droplets in another liquid remains challenging because of the complex multiphase nature and microscopic droplet scales. This study focuses on water-in-gasoline emulsions, which have the potential to improve efficiency and reduce emissions in combustion-based power generation. Experimental data from two different emulsion injection systems are complemented with DNS to gain insight into emulsification and the resulting droplet size distribution. In situ shadow imaging is used to acquire the experimental droplet size distributions, whereas DNS is performed via the geometric volume of fluid (VoF) method with the open-source code PARIS. The results indicate consistent agreement between the experimental and simulation results. Additionally, a corresponding trend of increasing droplet size is observed as the volume fraction of the dispersed phase increases. Furthermore, a detailed analysis of various probability density functions for modeling droplet size distributions (DSDs) reveals that the gamma distribution is the most appropriate. Overall, this work demonstrates that DNS can be successfully combined with experiments to increase the understanding of emulsification processes.",
+    "volume": 7,
+    "issue": 2,
+    "firstpage": "178",
+    "lastpage": "196",
+    "publication_date": "2025/6/1",
+    "online_date": "2025/5/27",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0203-4.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0203-4",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-024-0227-9",
+    "title": "Euler–Euler simulation of multi-regime two-phase flows with thin liquid films",
+    "authors": [
+      {
+        "name": "Paul Porombka"
+      },
+      {
+        "name": "Jan Schlottke"
+      }
+    ],
+    "affiliations": [
+      "Institute of Fluid Dynamics,Helmholtz-Zentrum Dresden-Rossendorf,GERMANY.",
+      "Mahle International GmbH,GERMANY."
+    ],
+    "keywords": [
+      "annular flow"
+    ],
+    "abstract": "In Euler–Euler simulations, the information on the interfacial structure of two-phase flow is lost due to the underlying phase averaging. Suitable interaction force models, which rely on assumptions about the local interfacial structure, are required to close the two-fluid model equations. Recent advances have produced multi-regime closure models, which allow simulations of continuous-dispersed and separated flows within the same domain. Here, a model is presented that extends the multi-regime two-fluid model by a hybrid model for wall-bounded liquid films. Thus, wall films of varying film thickness and length scales can be considered in the Euler–Euler framework. The two-fluid film model (TFFM) is implemented in Star-CCM+ v15.04 and compared against experimental data for horizontal annular flow through an orifice and an expansion. It is found that the presented model can qualitatively reproduce the measured mean liquid volume fraction and film thickness profiles, including film separation and transition to stratified flow. Spurious entrainment of liquid in the gas core, however, deteriorates the quantitative agreement with the experimental data, which can be attributed to limitations in the current model implementation. Finally, the presented model is applied to the simulation of a water separator and compared to a simulation without a hybrid film model. A significant improvement in the predicted phase field and separation efficiency was found with the TFFM, which justifies further research to alleviate the current model limitations.",
+    "volume": 7,
+    "issue": 2,
+    "firstpage": "197",
+    "lastpage": "210",
+    "publication_date": "2025/6/1",
+    "online_date": "2025/6/17",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0227-9.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0227-9",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-024-0223-0",
+    "title": "Numerical assessment of emergency ammonia underwater discharge from a platform supply vessel",
+    "authors": [
+      {
+        "name": "Nikolaos A. Avgerinos"
+      },
+      {
+        "name": "Panagiotis Neofytou"
+      },
+      {
+        "name": "Athanasios Stubos"
+      },
+      {
+        "name": "Lachlan McKenzie"
+      }
+    ],
+    "affiliations": [
+      "Thermal-Hydraulics & Multiphase Flow Lab.,GREECE. National Center for Scientific Research Demokritos,GREECE.",
+      "Thermal-Hydraulics & Multiphase Flow Lab.,GREECE. National Center for Scientific Research Demokritos,GREECE.",
+      "Environmental Research Lab.,Athens,GREECE. National Centre for Scientific Research “Demokritos”,Athens,GREECE.",
+      "Wärtsilä Gas Solutions Norway AS,NORWAY."
+    ],
+    "keywords": [
+      "maritime sector"
+    ],
+    "abstract": "For reaching the target of clean fuels in the Maritime sector, the use of ammonia as shipping fuel is a potential candidate as it is a zero-carbon fuel. In view of this, the necessity of a thorough study with respect to the emergency release of fuel ammonia on a ship is eminent, as there is a scarcity of research on emergency ammonia release underwater. Computational Fluid Dynamics (CFD) is a powerful tool for numerical prediction of the diffusion of a substance in the vicinity or greater area of the release, and is also able to handle multiphase flows. In this work CFD is used to simulate the time dependent 3D spatial distribution and concentration of ammonia when released underwater from a platform supply vessel considering parameters such as the positioning and size of the underwater vent, the ammonia mass transfer rate, the ammonia mean bubble diameter, the direction and intensity of the seawater current. Results show that if the ship maintains its steering maneuvering capability in case of an emergency scenario, then it is feasible to maintain a safe side in the opposite direction of the discharge location with minimum effect of toxic ammonia presence by positioning the ship axis parallel to the seawater current.",
+    "volume": 7,
+    "issue": 2,
+    "firstpage": "211",
+    "lastpage": "226",
+    "publication_date": "2025/6/1",
+    "online_date": "2025/6/20",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0223-0.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0223-0",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-025-0241-6",
+    "title": "Comparison of upper boundary treatments for bubble column simulations with the two-fluid model",
+    "authors": [
+      {
+        "name": "Fabian Schlegel"
+      },
+      {
+        "name": "Susann Hänsch"
+      },
+      {
+        "name": "Benjamin Krull"
+      },
+      {
+        "name": "Richard Meller"
+      },
+      {
+        "name": "Sesi Preetam Kota"
+      }
+    ],
+    "affiliations": [
+      "Department of Computational Fluid Dynamics,GERMANY. Helmholtz-Zentrum Dresden-Rossendorf,GERMANY.",
+      "Department of Computational Fluid Dynamics,GERMANY. Helmholtz-Zentrum Dresden-Rossendorf,GERMANY.",
+      "Department of Computational Fluid Dynamics,GERMANY. Helmholtz-Zentrum Dresden-Rossendorf,GERMANY.",
+      "Department of Computational Fluid Dynamics,GERMANY. Helmholtz-Zentrum Dresden-Rossendorf,GERMANY.",
+      "Technische Universität Bergakademie Freiberg,GERMANY."
+    ],
+    "keywords": [
+      "bubble column"
+    ],
+    "abstract": "A better understanding of multiphase flows is increasingly relevant for industrial applications, in particular with respect to the transition of the chemical and process engineering industry towards green energy. Therein, bubble columns play an important role. Hence, they have been subject to numerical simulations for decades. The literature is characterized by a large variety of numerical methods, interfacial closure terms, boundary conditions, and more. The current paper makes the attempt to exclude one parameter, namely the treatment of the upper boundary, from the discussions around the modelling of those bubble columns. Three different boundary conditions, a degassing boundary condition, a gas-only outlet boundary condition, and an outlet boundary condition are compared. Furthermore, two modelling strategies with a different number of numerical phases to include the physics of the free surface, are investigated. The five different treatments are implemented into the same numerical solver, and are then applied to four different bubble column experiments. All simulations are set up as consistent as possible, to exclude the influence of other parameters, e.g., the numerical method. Three different modelling strategies for the bubble size distribution have been checked as well, namely a monodisperse, a fixed-polydisperse and a poly-disperse one, the latter including bubble breakup and coalescence. The results show for bubble columns no significant influence of the treatment of the upper boundary. However, a prerequisite for an accurate analysis is stable statistics, which are found to require a very long averaging time for the bubble columns investigated here.",
+    "volume": 7,
+    "issue": 2,
+    "firstpage": "227",
+    "lastpage": "244",
+    "publication_date": "2025/6/1",
+    "online_date": "2025/6/18",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0241-6.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0241-6",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-024-0190-5",
+    "title": "Two-group drift–flux model and covariance for dispersed two-phase flows",
+    "authors": [
+      {
+        "name": "Takashi Hibiki"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering,CHINA. City University of Hong Kong, 999077,CHINA."
+    ],
+    "keywords": [
+      "void fraction covariance"
+    ],
+    "abstract": "The prediction of the interfacial area concentration is critical for one-dimensional gas–liquid two-phase flow analyses because the interfacial area concentration governs the mass, momentum, and energy transfer between gas and liquid in actual engineering situations. Introducing a two-group interfacial area transport equation into computational codes is one of the possible options for predicting the interfacial area concentration in transient and developing two-phase flows. The two-group approach treats bubbles in two groups: group-1 for small bubbles and group-2 for large bubbles. Two-group gas velocity is required to solve the two-group interfacial area transport equation. Thus, a one-group gas momentum equation currently used in two-fluid model-based computational codes should be transformed into a two-group gas momentum equation. However, introducing a two-group drift–flux model enables two-group gas velocity prediction via the one-group gas momentum equation without the current computational code structure. The two-group drift–flux model and void fraction covariance play critical roles in modeling the area-averaged relative velocity between the gas and liquid phases, which is critical in modeling the interfacial drag force. First, the framework used to calculate the two-group interfacial area concentration and area-averaged relative velocity via the two-group drift–flux model is described. Second, the paper provides a state-of-the-art review for two-group drift–flux correlations and void fraction covariance correlations developed for adiabatic and boiling two-phase flows in pipes, annuli, and rod bundles.",
+    "volume": 7,
+    "issue": 1,
+    "firstpage": "1",
+    "lastpage": "15",
+    "publication_date": "2025/3/1",
+    "online_date": "2025/3/20",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Review Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0190-5.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0190-5",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-024-0208-z",
+    "title": "Transient nozzle flow analysis and near-field characterization of gasoline direct fuel injectors under different surrogate fuel and flash boiling conditions",
+    "authors": [
+      {
+        "name": "María Martínez"
+      },
+      {
+        "name": "Pedro Martí-Aldaraví"
+      },
+      {
+        "name": "Francisco Javier Salvador"
+      },
+      {
+        "name": "Enrique Carlos Martínez-Miracle"
+      }
+    ],
+    "affiliations": [
+      "Mitsubishi Turbocharger and Engine Europe B.V.,NETHERLANDS.",
+      "CMT-Motores Térmicos,SPAIN. Universitat Politècnica de València,SPAIN.",
+      "CMT-Motores Térmicos,SPAIN. Universitat Politècnica de València,SPAIN.",
+      "CMT-Motores Térmicos,SPAIN. Universitat Politècnica de València,SPAIN."
+    ],
+    "keywords": [
+      "spray collapse"
+    ],
+    "abstract": "This article focuses on understanding the transient effects of the gasoline direct injection (GDi) process, which plays an important role in mixture formation and combustion efficiency in this type of engine. Owing to the growing interest of the scientific community in better understanding the performance of engines with other alternative fuels, this work includes not only iso-octane as a substitute fuel for gasoline but also surrogate fuels such as hexane, pentane, heptane, ethanol, and multiple components. In GDi injections, the injector plays a major role in defining the air–fuel mixture quality. The study of these phenomena has become challenging because of the reduced size of the orifices, high flow velocities, and multiphasic flows. Computational fluid dynamics (CFD) tools allow insight and understanding into complex flow physics, which are considered in this research. Unsteady Reynolds-Averaged Navier Stokes (URANS) is selected to account for the turbulent effects. The volume-of-fluid (VOF) approach is employed to analyze the flow inside the nozzle and the first 2–5 mm of the spray. A homogeneous relaxation model (HRM) accounts for the mass exchange between flow phases. Validation against experimental data proves how the variation in discharge pressure minimally influences the macroscopic parameters of internal flow. The density and volatility of different fuels directly affect injection. This effect must be considered, especially in flash boiling conditions, where fuels with a greater tendency toward phase change produce strong flash boiling, resulting in a higher probability of spray collapse and lower engine performance.",
+    "volume": 7,
+    "issue": 1,
+    "firstpage": "16",
+    "lastpage": "36",
+    "publication_date": "2025/3/1",
+    "online_date": "2025/3/13",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0208-z.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0208-z",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-024-0225-y",
+    "title": "Effects of critical energy on the excitation of 2/1 fishbone-like modes during tearing modes in a generalized multiphase flow system",
+    "authors": [
+      {
+        "name": "Xiaoxi Zhang"
+      },
+      {
+        "name": "Sizhe Duan"
+      },
+      {
+        "name": "Baofeng Gao"
+      },
+      {
+        "name": "Nan Gui"
+      },
+      {
+        "name": "Zheng-Xiong Wang"
+      },
+      {
+        "name": "Jiyuan Tu"
+      }
+    ],
+    "affiliations": [
+      "School of Science,Beijing,CHINA. China University of Geosciences (Beijing),Beijing,CHINA.",
+      "College of Physics and Optoelectronic Engineering,CHINA. Shenzhen University, 518060,CHINA.",
+      "Key Laboratory of Computing Power Network and Information Security, Ministry of Education,Shandong Computer Science Center (National Supercomputer Center in Jinan),Qilu University of Technology(Shandong Academy of Sciences),Shandong Provincial Key Laboratory of Computing Power Internet and Service Computing,Shandong,CHINA. Shandong Fundamental Research Center for Computer Science,Jinan,Shandong,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety (Ministry of Education),CHINA. Institute of Nuclear and New Energy Technology,CHINA. Tsinghua University, 100084,CHINA. Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA. Institute of Nuclear and New Energy Technology,CHINA. Tsinghua University, 100084,CHINA.",
+      "Key Laboratory of Materials Modification by Laser, Ion and Electron Beams (Ministry of Education),CHINA. School of Physics,CHINA. Dalian University of Technology, 116024,CHINA.",
+      "School of Engineering,AUSTRALIA. RMIT University,AUSTRALIA. Key Laboratory of Advanced Reactor Engineering and Safety (Ministry of Education),CHINA. Institute of Nuclear and New Energy Technology,CHINA. Tsinghua University, 100084,CHINA. Collaborative Innovation Center of Advanced Nuclear Energy Technology,CHINA. Institute of Nuclear and New Energy Technology,CHINA. Tsinghua University, 100084,CHINA."
+    ],
+    "keywords": [
+      "tokamak plasma"
+    ],
+    "abstract": "The plasma in a tokamak can be viewed as a complex multiphase magnetohydrodynamic system composed of various “flowing components”, such as energetic ions, energetic electrons, and background plasma. The interactions and energy exchange between these different phases significantly affect the instability of the plasma. This work investigates the effects of critical energy on the excitation of the 2/1 fishbone-like mode (FLM) by trapped energetic ions in the presence of the tearing mode (TM) in a tokamak multiphase flow system. The combination of analytical theory and numerical simulations is used to analyze how critical energy modifies the interactions between different phases and affects the excitation of instabilities. The influence of parameters such as the total adiabatic potential energy, magnetic Reynolds number, and magnetic shear on instabilities in multiphase flow is examined. The results show that the critical energy has a destabilizing effect on the 2/1 FLM and can significantly reduce the beta threshold of the 2/1 FLM, significantly impacting the stability and dynamics of the multiphase system. This study provides a theoretical foundation for predicting instabilities in multiphase flow systems and holds significant implications for applications in tokamak devices and beyond.",
+    "volume": 7,
+    "issue": 1,
+    "firstpage": "37",
+    "lastpage": "49",
+    "publication_date": "2025/3/1",
+    "online_date": "2025/3/6",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0225-y.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0225-y",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-023-0180-z",
+    "title": "Analysis of horizontal gas–liquid intermittent flow subregime transitions: Physical mechanisms and flow maps",
+    "authors": [
+      {
+        "name": "Abderraouf Arabi"
+      },
+      {
+        "name": "Yacine Salhi"
+      },
+      {
+        "name": "Youcef Zenati"
+      },
+      {
+        "name": "El-Khider Si-Ahmed"
+      },
+      {
+        "name": "Jack Legrand"
+      }
+    ],
+    "affiliations": [
+      "Laboratory of Theoretical and Applied Fluid Mechanics,ALGERIA. Physics’ Faculty,ALGERIA. University of Sciences and Technology Houari Boumediene,ALGERIA. Direction Centrale Recherche et Développement, SONATRACH,ALGERIA.",
+      "Laboratory of Theoretical and Applied Fluid Mechanics,ALGERIA. Physics’ Faculty,ALGERIA. University of Sciences and Technology Houari Boumediene,ALGERIA.",
+      "Laboratory of Theoretical and Applied Fluid Mechanics,ALGERIA. Physics’ Faculty,ALGERIA. University of Sciences and Technology Houari Boumediene,ALGERIA.",
+      "LEM, ONERA/CNRS,FRANCE. ONIRIS,FRANCE. Université de Nantes,FRANCE. UMR-6144,FRANCE. GEPEA,FRANCE. Université de Nantes,FRANCE.",
+      "LEM, ONERA/CNRS,FRANCE. ONIRIS,FRANCE. Université de Nantes,FRANCE. UMR-6144,FRANCE. GEPEA,FRANCE. Université de Nantes,FRANCE."
+    ],
+    "keywords": [
+      "flow maps"
+    ],
+    "abstract": "In recent years, several experimental investigations have been carried out on horizontal gas–liquid two-phase subregimes, including plug, less aerated slug (LAS), and highly aerated slug (HAS) flows. This classification is based on the shape of the elongated bubble/liquid slug interface as well as the aeration of the liquid slugs. In this paper, extensive experimental visualization was performed using an air–water mixture in a 30 mm ID horizontal pipe covering a total of 189 operating conditions. For the first time, it was reported that each subregime had a specific mechanism for aeration of the liquid slug flow. For instance, the presence of gas bubbles within liquid slugs, in the case of plug flow, is due to the interfacial shear-induced wave mechanism. The transitions to LAS and HAS flows are accompanied by the appearance of shearing-off and scooping mechanisms of bubbles, respectively, in the liquid film and into the liquid slug. In addition, the reported flow transition lines, as well as those existing in the literature, were analyzed using different existing coordinate systems. This analysis showed that the X–T system is the most suitable for predicting the three flow subregimes.",
+    "volume": 7,
+    "issue": 1,
+    "firstpage": "50",
+    "lastpage": "66",
+    "publication_date": "2025/3/1",
+    "online_date": "2025/3/8",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0180-z.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0180-z",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-024-0191-4",
+    "title": "A method to investigate the variable physical properties of the boundary layer for the supercritical water flat plate model",
+    "authors": [
+      {
+        "name": "Peitong Li"
+      },
+      {
+        "name": "Xiaoyu Li"
+      },
+      {
+        "name": "Bowen Ke"
+      },
+      {
+        "name": "Hui Jin"
+      }
+    ],
+    "affiliations": [
+      "International Research Center for Renewable EnergyState Key Laboratory of Multiphase Flow in Power Engineering,CHINA. Xi'an Jiaotong University, 710049,CHINA.",
+      "International Research Center for Renewable EnergyState Key Laboratory of Multiphase Flow in Power Engineering,CHINA. Xi'an Jiaotong University, 710049,CHINA.",
+      "International Research Center for Renewable EnergyState Key Laboratory of Multiphase Flow in Power Engineering,CHINA. Xi'an Jiaotong University, 710049,CHINA.",
+      "International Research Center for Renewable EnergyState Key Laboratory of Multiphase Flow in Power Engineering,CHINA. Xi'an Jiaotong University, 710049,CHINA."
+    ],
+    "keywords": [
+      "laminar flow"
+    ],
+    "abstract": "The characteristics of the boundary layer in supercritical water (SCW) gasification reactors include large temperature differences and drastic changes in physical properties. In this paper, the application of the asymptotic theoretical method of the variable properties boundary layer in such an SCW boundary layer is first studied. Neither the 1st- nor 2nd-order formulas of this method can successfully predict the change trend of the surface friction coefficient (Cf) with the temperature boundary conditions in the SCW plate boundary layer. The reason is that the property‒temperature dependence relationships constructed via this method are not applicable to the SCW flow field. The original method is subsequently improved by constructing a series of simplified property‒temperature relationships suitable for SCW. By embedding the simplified properties model into the dimensionless boundary layer equation and solving it numerically, the Cf calculation formula based on the simplified properties embedded (SPE) method can be obtained. The results of Cf obtained via the SPE method are highly accurate, and the relative error between these results and the direct numerical simulation (DNS) results does not exceed 0.899%. Moreover, the SPE method also successfully predicts the special change trend caused by drastic property changes near the pseudocritical temperature, which compensates for the limitations of the original asymptotic method in the SCW flow field.",
+    "volume": 7,
+    "issue": 1,
+    "firstpage": "67",
+    "lastpage": "81",
+    "publication_date": "2025/3/1",
+    "online_date": "2025/3/6",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0191-4.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0191-4",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-024-0192-3",
+    "title": "Modeling multiphasic flow and bubbling nonfluidized beds in water-filled sediment",
+    "authors": [
+      {
+        "name": "Augustin Bitangilayi Bantu"
+      },
+      {
+        "name": "Laura A. Ibarra Bracamontes"
+      },
+      {
+        "name": "Gonzalo Viramontes Gamboa"
+      },
+      {
+        "name": "Cristian Cáliz Reyes"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering,MEXICO. Universidad Michoacana de San Nicolás de Hidalgo,MEXICO.",
+      "Department of Mechanical Engineering,MEXICO. Universidad Michoacana de San Nicolás de Hidalgo,MEXICO.",
+      "Department of Physical Engineering,MEXICO. Universidad Michoacana de San Nicolás de Hidalgo,MEXICO.",
+      "Department of Mechanical Engineering,MEXICO. Universidad Michoacana de San Nicolás de Hidalgo,MEXICO."
+    ],
+    "keywords": [
+      "optical measurements"
+    ],
+    "abstract": "The phenomenon of ascending bubbles, frequently studied in the context of fluidized beds, was employed in this study to study submerged nonfluidized beds. An experimental study was conducted to improve the understanding of gas flow phenomena in porous sediments. Images were captured via a high-speed camera to monitor the mass flow and inlet pressure of the gas passing through the granular medium inside a Hele–Shaw-type rectangular cell. The flow parameters were experimentally measured, and their Lagrangian characteristics were determined in a visual nondestructive manner, where the tracing particles constituted a bubble flow in the circulating fluid. By applying the object-following algorithm, it was possible to determine the positions of the bubbles and follow them while in motion. We developed a model of porosity and studied its effects on bubble rise and residence time. The laminar flow in saturated and unsaturated areas was detected, and the limits of the rigorous use of Darcy’s law were determined. The proposed model was satisfactorily compared with the Kozeny–Carman model. Moreover, with the determination of tortuosity, the trapped bubble rise was shown to be mainly a function of the gas saturation in the system. Compared with experimental measurements, the developed model satisfactorily described this behavior.",
+    "volume": 7,
+    "issue": 1,
+    "firstpage": "82",
+    "lastpage": "96",
+    "publication_date": "2025/3/1",
+    "online_date": "2025/3/6",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0192-3.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0192-3",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-023-0175-9",
+    "title": "Numerical study on thermal-hydraulic characteristics of petal-shaped fuel rod assembly under cosine heating conditions",
+    "authors": [
+      {
+        "name": "Zequan Huang"
+      },
+      {
+        "name": "Wenchao Zhang"
+      },
+      {
+        "name": "Jianchuang Sun"
+      },
+      {
+        "name": "Guangyuan Jin"
+      },
+      {
+        "name": "Jun Cui"
+      },
+      {
+        "name": "Weihua Cai"
+      }
+    ],
+    "affiliations": [
+      "Laboratory of Thermo-fluid Science and Nuclear Engineering,CHINA. School of Energy and Power Engineering,CHINA. Northeast Electric Power University, 132012,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA. Laboratory of Thermo-fluid Science and Nuclear Engineering,CHINA. School of Energy and Power Engineering,CHINA. Northeast Electric Power University, 132012,CHINA.",
+      "Laboratory of Thermo-fluid Science and Nuclear Engineering,CHINA. School of Energy and Power Engineering,CHINA. Northeast Electric Power University, 132012,CHINA.",
+      "Laboratory of Thermo-fluid Science and Nuclear Engineering,CHINA. School of Energy and Power Engineering,CHINA. Northeast Electric Power University, 132012,CHINA.",
+      "China Nuclear Power Technology Research Institute Co., Ltd.,Shenzhen,Guangdong,CHINA.",
+      "Laboratory of Thermo-fluid Science and Nuclear Engineering,CHINA. School of Energy and Power Engineering,CHINA. Northeast Electric Power University, 132012,CHINA."
+    ],
+    "keywords": [
+      "cosine heating conditions"
+    ],
+    "abstract": "Petal-shaped fuel rod assemblies are characterized by their compact structure and high power density, making them highly promising for application in small-scale reactors. This study uses the Realizable k–ε turbulence model, Eulerian two-fluid model, and wall boiling model to investigate the spatial evolution of thermal-hydraulic characteristics in 2 × 2 petal-shaped fuel rod assembly under cosine heating conditions. The onset of nucleate boiling (ONB) and critical heat flux (CHF) are determined, and based on these, the flow field, temperature field, void fraction, and heat transfer characteristics in both single-phase and subcooled boiling regions are analyzed. Results show that in the single-phase region, fuel temperature is low and heat transfer coefficient fluctuates periodically at a low level. In the subcooled boiling region, void fraction distribution follows a peak-like pattern along the axial direction due to cosine heating influence. Vapor phase generation leads to the increased fluctuation amplitude of coolant transverse flow, evaporation heat flux gradually dominates, leading to a significant increase in the heat transfer capacity of the rod bundle channel. CHF occurs at the inner concave arc of the fuel rod slightly above the channel center, and void fraction peaks at ZCHF; moreover, the deterioration of heat transfer causes a significant decrease in heat transfer coefficient.",
+    "volume": 7,
+    "issue": 1,
+    "firstpage": "97",
+    "lastpage": "108",
+    "publication_date": "2025/3/1",
+    "online_date": "2025/3/31",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0175-9.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0175-9",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-023-0169-7",
+    "title": "Effect of liquid–liquid flows on flow pattern, pressure drop, wall shear drop, and strain rate drop through sudden contraction and expansion pipe coupled with return bend: A CFD analysis",
+    "authors": [
+      {
+        "name": "Ashutosh Kumar"
+      },
+      {
+        "name": "Mukesh Sharma"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering,INDIA. Birla Institute of Technology Mesra,INDIA.",
+      "Department of Mechanical Engineering,INDIA. Birla Institute of Technology Mesra,INDIA."
+    ],
+    "keywords": [
+      "strain rate drop"
+    ],
+    "abstract": "A sudden contraction and expansion pipe coupled with a return bend is intended to avoid the necessity of an abrupt change in direction, orientation, or change in the cross-section of the tube during the simultaneous oil–water flow. The volume of fluid (VOF) model based on the Eulerian–Eulerian approach offered by Fluent was used to determine the flow pattern and local pressure drop of oil and water flowing through a sudden contraction and expansion pipe via a return bend for different sets of the superficial velocities of lubricating oil, kerosene oil with water, and Excol D80 with an aqueous phase. The research findings showed that, among the three configurations, the pressure drop and strain rate decrease are larger in more viscous oil, while the wall shear drop is only significant on return bends as well as in the sudden expansion section of the pipe.",
+    "volume": 7,
+    "issue": 1,
+    "firstpage": "109",
+    "lastpage": "120",
+    "publication_date": "2025/3/1",
+    "online_date": "2025/3/31",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0169-7.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0169-7",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-024-0234-x",
+    "title": "Thermal performance analysis of reflux condensation in vertical tubes via pure steam",
+    "authors": [
+      {
+        "name": "Samah A. Albdour"
+      },
+      {
+        "name": "Sameer Osman"
+      },
+      {
+        "name": "Mubashir Hassan"
+      },
+      {
+        "name": "Ho Joon Yoon"
+      },
+      {
+        "name": "Imran Afgan"
+      },
+      {
+        "name": "Yacine Addad"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical and Nuclear Engineering,UNITED ARAB EMIRATES. Khalifa University,UNITED ARAB EMIRATES. Emirates Nuclear Technology Center,UNITED ARAB EMIRATES. Khalifa University of Science and Technology,UNITED ARAB EMIRATES.",
+      "Department of Mechanical and Nuclear Engineering,UNITED ARAB EMIRATES. Khalifa University,UNITED ARAB EMIRATES. Emirates Nuclear Technology Center,UNITED ARAB EMIRATES. Khalifa University of Science and Technology,UNITED ARAB EMIRATES.",
+      "Department of Mechanical and Nuclear Engineering,UNITED ARAB EMIRATES. Khalifa University,UNITED ARAB EMIRATES. Emirates Nuclear Technology Center,UNITED ARAB EMIRATES. Khalifa University of Science and Technology,UNITED ARAB EMIRATES.",
+      "Federal Authority for Nuclear Regulation,UNITED ARAB EMIRATES.",
+      "Department of Mechanical and Nuclear Engineering,UNITED ARAB EMIRATES. Khalifa University,UNITED ARAB EMIRATES. Emirates Nuclear Technology Center,UNITED ARAB EMIRATES. Khalifa University of Science and Technology,UNITED ARAB EMIRATES. Department of Mechanical and Aerospace Engineering,School of Engineering,The University of Manchester, M13 9 PL,",
+      "Department of Mechanical and Nuclear Engineering,UNITED ARAB EMIRATES. Khalifa University,UNITED ARAB EMIRATES. Emirates Nuclear Technology Center,UNITED ARAB EMIRATES. Khalifa University of Science and Technology,UNITED ARAB EMIRATES."
+    ],
+    "keywords": [
+      "vertical tube"
+    ],
+    "abstract": "Reflux condensation in the U-tubes of a steam generator (SG) plays a vital role in removing heat in pressurized water reactors (PWRs) during mid-loop operations and/or accidents. To evaluate the efficacy of reflux condensation in SG U-tubes, a comprehensive understanding of the heat transfer characteristics associated with pure steam is necessary. Therefore, this study performs experiments to examine the reflux condensation of pure steam within a vertical tube with an inner diameter of 19 mm and an outer diameter of 22 mm. The steam bulk temperatures were systematically altered at 10-degree intervals within the range of 120–150 °C, and the steam Reynolds number ranged from 4876 to 20,430. Throughout, the temperature of the coolant within the cooling jacket and its rate of flow remained constant at 55 °C and 8 L/min, respectively. Validation via the TRACE system code confirmed good agreement with the experimental results, further bolstering confidence in the consistency of the current findings with the data previously used to calibrate and refine the correlations within the system code.",
+    "volume": 7,
+    "issue": 1,
+    "firstpage": "121",
+    "lastpage": "132",
+    "publication_date": "2025/3/1",
+    "online_date": "2025/3/6",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0234-x.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0234-x",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-024-0199-3",
+    "title": "Virtual multiphase flow meter for high gas/oil ratios and water-cut reservoirs via ensemble machine learning",
+    "authors": [
+      {
+        "name": "Wael A. Farag"
+      }
+    ],
+    "affiliations": [
+      "College of Engineering and Energy,KUWAIT. Abdullah Al Salem University,KUWAIT."
+    ],
+    "keywords": [
+      "SDG13 climate action"
+    ],
+    "abstract": "The proposed data-driven multiphase virtual flow meter (DD-MVFM) blends data-driven ensemble machine learning with historical portable test reports. It provides precise real-time estimates of oil, gas, and water flow rates, along with production predictions. A key novelty is its efficient use of existing hardware for wellhead measurements such as temperature and pressure. The DD-MVFM can serve in three distinct ways: as a verification tool for multiphase physical flow meters (MPFMs), ensuring their accuracy; as a redundant system when MPFMs are unavailable or undergoing maintenance; and as a standalone replacement for MPFMs, significantly reducing operating costs and eliminating the need for extensive infrastructure setup. This innovation contributes to the crucial objective of reducing CO2 emissions. The development of the DD-MVFM involves the fusion of data wrangling and machine learning algorithms for optimal performance. Initial testing indicates an 85% success rate, with potential for further improvement as more field test data are incorporated, making it a pioneering solution in the field of oil and gas management.",
+    "volume": 7,
+    "issue": 1,
+    "firstpage": "133",
+    "lastpage": "148",
+    "publication_date": "2025/3/1",
+    "online_date": "2025/3/6",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2025,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0199-3.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0199-3",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-024-0202-5",
+    "title": "Advances in the modeling of multiphase flows and their application in nuclear engineering—A review",
+    "authors": [
+      {
+        "name": "Mengqi Wu"
+      },
+      {
+        "name": "Jinsong Zhang"
+      },
+      {
+        "name": "Nan Gui"
+      },
+      {
+        "name": "Quan Zou"
+      },
+      {
+        "name": "Xingtuan Yang"
+      },
+      {
+        "name": "Jiyuan Tu"
+      },
+      {
+        "name": "Shengyao Jiang"
+      },
+      {
+        "name": "Zhiyong Liu"
+      }
+    ],
+    "affiliations": [
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA.",
+      "School of Engineering,AUSTRALIA. RMIT University, 3000,AUSTRALIA. Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA."
+    ],
+    "keywords": [
+      "lattice Boltzmann method"
+    ],
+    "abstract": "This paper mainly reviews the research progress on multiphase flow in nuclear engineering. This paper is composed of three parts. The first part documents a literature statistical analysis based on publications, mainly the SCIE-indexed papers collected in the Web of Science. The analysis data of publications on multiphase flows showcase the prosperous future of the current Experimental and Computational Multiphase Flow journal. The second part summarizes advanced measurement technology and microscale and nanoscale multiphase flow research in terms of modeling and algorithms. The third part reviews the current progress in multiphase flow-related research in nuclear engineering. Various aspects of solid–liquid, gas–liquid, and gas–particle flows, in particular, critical heat flux research and deep learning applications in nuclear engineering, have been extensively reviewed. This paper aims to explore multiphase flow research in the future in the nuclear and its related disciplines through the analysis and review of cutting-edge research and development states.",
+    "volume": 6,
+    "issue": 4,
+    "firstpage": "287",
+    "lastpage": "352",
+    "publication_date": "2024/12/1",
+    "online_date": "2024/10/23",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Review Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0202-5.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0202-5",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-023-0182-x",
+    "title": "Bubble dynamics under the influence of the Marangoni force induced by a stratified field of contamination",
+    "authors": [
+      {
+        "name": "Sadra Mahmoudi"
+      },
+      {
+        "name": "Mahdi Saeedipour"
+      },
+      {
+        "name": "Mark W. Hlawitschka"
+      }
+    ],
+    "affiliations": [
+      "Institute of Process Engineering,AUSTRIA. Johannes Kepler University Linz,AUSTRIA.",
+      "Department of Particulate Flow Modelling,AUSTRIA. Johannes Kepler University Linz,AUSTRIA.",
+      "Institute of Process Engineering,AUSTRIA. Johannes Kepler University Linz,AUSTRIA."
+    ],
+    "keywords": [
+      "computational fluid dynamics"
+    ],
+    "abstract": "The Marangoni effect assumes significance in bubbly flows when temperature or concentration gradients exist in the domain. This study investigated the hydrodynamics of single bubbles under the influence of the Marangoni force induced by stratified fields of dissolved sugar, providing a numerical framework for examining these phenomena. A laboratory-scale bubble column and high-speed imaging were utilized to analyze the bubble behavior. The OpenFOAM-based geometric volume of the fluid solver was extended by incorporating the solutocapillary Marangoni effect, and a passive scalar transport equation for the sugar concentration was solved. The results revealed that small bubbles entering regions with elevated sugar concentrations experienced deceleration, transitioning into linear paths, while those departing from regions with high sugar concentrations exhibited fluctuations and meandering. Furthermore, the concentration gradient leads larger bubbles to meander throughout the entire column, without a notable increase in their velocity. The intensity of these behaviors is governed by the magnitude of the Marangoni force. The findings provide a better understanding of single bubble hydrodynamics in complex environments.",
+    "volume": 6,
+    "issue": 4,
+    "firstpage": "353",
+    "lastpage": "364",
+    "publication_date": "2024/12/1",
+    "online_date": "2024/4/16",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0182-x.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0182-x",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-023-0184-8",
+    "title": "Collision rates of small solid particles with rigid spherical and spheroidal bubbles in laminar flow",
+    "authors": [
+      {
+        "name": "Martin Sommerfeld"
+      },
+      {
+        "name": "Manuel A. Taborda"
+      }
+    ],
+    "affiliations": [
+      "Multiphase Flow Systems (MPS),GERMANY. Institute for Process Engineering,GERMANY. Otto von Guericke University Magdeburg,GERMANY.",
+      "Multiphase Flow Systems (MPS),GERMANY. Institute for Process Engineering,GERMANY. Otto von Guericke University Magdeburg,GERMANY."
+    ],
+    "keywords": [
+      "impact efficiency"
+    ],
+    "abstract": "The interaction and impact of solid particles from a dilute suspension with fixed spherical and deformed bubbles (i.e., oblate spheroids) with rigid interface was analysed numerically, a situation found for example in flotation or three-phase chemical reactors. The flow field about the bubbles was computed for laminar flow and the particles were considered as point masses incorporating all forces as there are drag, added mass, fluid inertia, transverse shear-lift, and gravity/buoyancy. Particle sizes were varied up to about 200 μm allowing for a wide range of interaction Stokes numbers. The impact efficiency was evaluated for a wide range of bubble Reynolds numbers and bubbles having different shape and size, as well as eccentricity and orientation. The volume equivalent diameter of the bubbles was between 2 and 4 mm. The bubble deformation was varied up to an eccentricity of 1.8 and the bubble orientation was modified until 45 degrees. The effect of different forces on the impact efficiency was studied in detail. Added mass, fluid inertia (part of the pressure term), and slip-shear transverse lift force cannot be neglected in liquid environments, especially for larger particles. The obtained results were also compared to the composite model of Schulze (1989), well established in the field of flotation. Finally, also the particle impact statistics (i.e., location and velocity) was evaluated.",
+    "volume": 6,
+    "issue": 4,
+    "firstpage": "365",
+    "lastpage": "386",
+    "publication_date": "2024/12/1",
+    "online_date": "2024/3/6",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0184-8.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0184-8",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-023-0168-8",
+    "title": "Experimental and numerical studies on the wall-roughness effect to particle dynamics in various gas–particle flows",
+    "authors": [
+      {
+        "name": "Lixing Zhou"
+      },
+      {
+        "name": "Xia Zhang"
+      },
+      {
+        "name": "Yong Yu"
+      }
+    ],
+    "affiliations": [
+      "Department of Engineering Mechanics,CHINA. Tsinghua University, 100084,CHINA.",
+      "Department of Engineering Mechanics,CHINA. Tsinghua University, 100084,CHINA.",
+      "Department of Engineering Mechanics,CHINA. Tsinghua University, 100084,CHINA. Department of Power Engineering,CHINA. Beijing Institute of Technology, 100081,CHINA."
+    ],
+    "keywords": [
+      "gas–particle flows"
+    ],
+    "abstract": "The effect of wall roughness on particle dynamics in gas–particle flows has been studied both experimentally and numerically, but mainly for channel, pipe, and boundary-layer flows. The present authors did numerical studies and detailed phase-Doppler particle anemometry (PDPA) measurements on the effect of wall roughness for particle dynamics in separating (sudden-expansion and swirling) gas–particle flows, as well as channel flows. The simulated gas–particle flow showed that the prediction results accounting for the wall roughness agree well with the measurement results. The PDPA measurements of backward-facing step gas–particle flows showed that as the wall roughness increases, the longitudinal and the transverse time-averaged particle velocities decrease, but the longitudinal and transverse particle fluctuation velocities increase.",
+    "volume": 6,
+    "issue": 4,
+    "firstpage": "387",
+    "lastpage": "394",
+    "publication_date": "2024/12/1",
+    "online_date": "2024/3/6",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0168-8.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0168-8",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-023-0177-7",
+    "title": "Factors affecting the formation of a cumulative jet after the collapse of a vapor bubble in a subcooled liquid",
+    "authors": [
+      {
+        "name": "Anatoliy A. Levin"
+      },
+      {
+        "name": "Alexei S. Safarov"
+      },
+      {
+        "name": "Andrey A. Chernov"
+      }
+    ],
+    "affiliations": [
+      "Laboratory of Physical and Technical Basics of Energy,Novosibirsk State University, 630090,Laboratory for Dynamics of Steam-Generating Systems,RUSSIAN FEDERATION. Melentiev Energy Systems Institute SB RAS,RUSSIAN FEDERATION.",
+      "Laboratory of Physical and Technical Basics of Energy,Novosibirsk State University, 630090,Laboratory for Dynamics of Steam-Generating Systems,RUSSIAN FEDERATION. Melentiev Energy Systems Institute SB RAS,RUSSIAN FEDERATION.",
+      "Laboratory of Physical and Technical Basics of Energy,Novosibirsk State University, 630090,Laboratory of Synthesis of New Materials,RUSSIAN FEDERATION. Kutateladze Institute of Thermophysics SB RAS,RUSSIAN FEDERATION."
+    ],
+    "keywords": [
+      "level-set model"
+    ],
+    "abstract": "This paper presents the results of numerical simulation of the dynamics of a vapor bubble at the end of an optical fiber. The bubble appears as a result of the absorption of laser radiation energy by water. Our model is prototyped by the level-set model that describes the movement of two phases (water and vapor) and the interface position. For the closing relationships we used the previously obtained experimental data of nucleus formation. Numerical calculations are based on our earlier hypothesis about the predominant influence of the hydrodynamic pattern on the formation and characteristics of the cumulative jet. We determined the influence of the hydrophilicity of the optical fiber surface on the pulse magnitude of the cumulative jet. The influence of the salt impurity content on the jet formation happened to be predictably small due to the insignificant change in the aqua solute viscosity. To confirm the correct understanding of the mechanics of the ongoing hydrodynamic processes, we compared the results of numerical simulation with the theoretical estimate for the velocity obtained for a cumulative jet. The results of the numerical simulation obtained in this work indicate the decisive influence of the properties of the optical fiber surface, since the variability of the velocity of the cumulative jet depending on the wettability and geometry of the end-face was at least 50%.",
+    "volume": 6,
+    "issue": 4,
+    "firstpage": "395",
+    "lastpage": "407",
+    "publication_date": "2024/12/1",
+    "online_date": "2024/3/6",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0177-7.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0177-7",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0189-y",
+    "title": "OpenFOAM modelling of single-phase and two-phase heat transfer in square ducts partially filled with porous medium",
+    "authors": [
+      {
+        "name": "Kattupurathu Scharia Bibin"
+      },
+      {
+        "name": "Sarath Raj"
+      },
+      {
+        "name": "Janardanan Sarasamma Jayakumar"
+      },
+      {
+        "name": "Krishnan Kutty Elsy Bai Reby Roy"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering,INDIA. Amrita Vishwa Vidyapeetham,INDIA. Department of Mechanical Engineering,INDIA. Mangalam College of Engineering,INDIA.",
+      "Department of Mechanical Engineering,INDIA. Amrita Vishwa Vidyapeetham,INDIA. Department of Mechanical Engineering,INDIA. T.K.M. College of Engineering,INDIA. Department of Mechanical Automobile Engineering,INDIA. Sree Narayana Institute of Technology,INDIA.",
+      "Department of Mechanical Engineering,INDIA. Amrita Vishwa Vidyapeetham,INDIA.",
+      "Department of Mechanical Engineering,INDIA. T.K.M. College of Engineering,INDIA."
+    ],
+    "keywords": [
+      "heat transfer enhancement"
+    ],
+    "abstract": "The primary objective of the current computational research is to provide open-source solvers for studying heat transfer through media having pore implants for one-phase and multi-phase flow. The new solvers are created with the OpenFOAM framework. The Darcy–Forchheimer model is used to simulate the flow through the media with pores. The interface for a two-phase flow is tracked using the VOF phase fraction technique. The energy equations of these solvers are used with the local thermal equilibrium model and phase change model to calculate heat transfer in the presence of a porous media. The recently created solutions are tested against benchmark situations for both flows. In further case studies, the compactness and porousness of the porous medium are varied to examine the features of heat transport in square channels. It is discovered that, as compared to a channel without a porous medium, the transfer rate for single-phase flow is increased by a factor of 10.4. According to the results of the two-phase study, as the porousness of the porous medium increases, the percentage of vapour concentration and heat transfer rates also increase for thickness (compactness) ratios (H∗p)(Hp∗)<math id=\"mathml_M1\" display=\"inline\" overflow=\"scroll\"><mo stretchy=\"false\">(</mo><msubsup><mi>H</mi><mi>p</mi><mo>∗</mo></msubsup><mo stretchy=\"false\">)</mo></math> > 0.4. For the channel with H∗pHp∗<math id=\"mathml_M2\" display=\"inline\" overflow=\"scroll\"><msubsup><mi>H</mi><mi>p</mi><mo>∗</mo></msubsup></math> = 0.4, the rate of heat transfer is improved if the porosity of the porous matrix rises.",
+    "volume": 6,
+    "issue": 4,
+    "firstpage": "408",
+    "lastpage": "427",
+    "publication_date": "2024/12/1",
+    "online_date": "2024/3/9",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0189-y.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0189-y",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0198-x",
+    "title": "Numerical investigation of the impact of fuel temperature on spray characteristics in a pressure-swirl atomizer with spiral path",
+    "authors": [
+      {
+        "name": "Kiumars Khani Aminjan"
+      },
+      {
+        "name": "Mehdi Sedaghat"
+      },
+      {
+        "name": "Milad Heidari"
+      },
+      {
+        "name": "Morteza Khashehchi"
+      },
+      {
+        "name": "Kazem Mohammadzadeh"
+      },
+      {
+        "name": "Mohammad Salahinezhad"
+      },
+      {
+        "name": "Rahim Bina"
+      }
+    ],
+    "affiliations": [
+      "Faculty of Mechanical Engineering,IRAN, ISLAMIC REPUBLIC OF. University of Guilan,IRAN, ISLAMIC REPUBLIC OF.",
+      "Faculty of Mechanical Engineering,IRAN, ISLAMIC REPUBLIC OF. K.N. Toosi University of Technology,IRAN, ISLAMIC REPUBLIC OF.",
+      "Mechanical Engineering Department,OMAN. Global College of Engineering and Technology,OMAN.",
+      "Systems Engineering Department,OMAN. Military Technological College,OMAN.",
+      "Department of Mechanical Engineering,IRAN, ISLAMIC REPUBLIC OF. Arak University of Technology,IRAN, ISLAMIC REPUBLIC OF.",
+      "Faculty of Mechanical Engineering,Islamic Azad University,",
+      "Department of Mechanical Engineering,IRAN, ISLAMIC REPUBLIC OF. Shahid Chamran University, Ahwaz,IRAN, ISLAMIC REPUBLIC OF."
+    ],
+    "keywords": [
+      "spray cone angle"
+    ],
+    "abstract": "In this study, a pressure-swirl device with a spiral path was designed, built, and tested at various inlet pressures, and the experimental results were used to verify the accuracy of the numerical solution. Finally, we conducted a numerical investigation on the impact of fuel temperature on kerosene spray at four different temperatures: 243 K (approximately 10 degrees below the freezing point), 273 K (approximately equidistant between the freezing and flash point temperatures), 300 K (approximately 10 degrees below the flash point temperature), and 324 K (within the temperature range of the flash point). The simulation conditions, including a fixed mass flow rate of 10 gr/s, remained constant across all four cases, with the only variable being fuel temperature. The results indicate that as the fuel temperature increased, the spray angle increased by 45.27%. Furthermore, the most significant changes in the discharge coefficient were observed between temperatures of 273 and 324 K, leading to an increase of 18.01% in the discharge coefficient. Furthermore, within the liquid state range of the fuel, increasing the temperature resulted in a decrease in the Sauter mean diameter (SMD), while within the vapor state range, increasing the temperature led to an increase in the SMD. Additionally the pressure drop, discharge coefficient, and SMD of the spray are similar at temperatures of 243 and 324 K.",
+    "volume": 6,
+    "issue": 4,
+    "firstpage": "428",
+    "lastpage": "445",
+    "publication_date": "2024/12/1",
+    "online_date": "2024/8/28",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0198-x.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0198-x",
+    "month": "December"
+  },
+  {
+    "doi": "10.1007/s42757-024-0196-z",
+    "title": "Message from the Guest Editors of the Joint 21st International Heat Pipe Conference and 15th International Heat Pipe Symposium Special Issue",
+    "authors": [
+      {
+        "name": "Abhijit Date"
+      },
+      {
+        "name": "Aliakbar Akbarzadeh"
+      },
+      {
+        "name": "Kiao Inthavong"
+      }
+    ],
+    "affiliations": [
+      "Mechanical, Manufacturing and Mechatronic Engineering,AUSTRALIA. School of Engineering,AUSTRALIA. RMIT University, 3000,AUSTRALIA.",
+      "Mechanical, Manufacturing and Mechatronic Engineering,AUSTRALIA. School of Engineering,AUSTRALIA. RMIT University, 3000,AUSTRALIA.",
+      "Mechanical, Manufacturing and Mechatronic Engineering,AUSTRALIA. School of Engineering,AUSTRALIA. RMIT University, 3000,AUSTRALIA."
+    ],
+    "keywords": [],
+    "abstract": "",
+    "volume": 6,
+    "issue": 3,
+    "firstpage": "195",
+    "lastpage": "198",
+    "publication_date": "2024/9/5",
+    "online_date": "2024/6/4",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0196-z.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0196-z",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-023-0186-6",
+    "title": "Effect of far-field ambient conditions on interfacial solar vapor generation using a two-phase closed thermosyphon",
+    "authors": [
+      {
+        "name": "Tarun Kulshrestha"
+      },
+      {
+        "name": "Debartha Chatterjee"
+      },
+      {
+        "name": "Sameer Khandekar"
+      }
+    ],
+    "affiliations": [
+      "Indian Institute of Technology Kanpur,INDIA.",
+      "Indian Institute of Technology Kanpur,INDIA.",
+      "Indian Institute of Technology Kanpur,INDIA."
+    ],
+    "keywords": [
+      "Sherwood equation"
+    ],
+    "abstract": "The fundamental heat/mass transport mechanism from the vapor-generating surfaces related to interfacial solar vapor generators for desalination applications has received less attention. The majority of the investigations in this regard were not carried out inside controlled environmental facilities, and the operating conditions for different proposed configurations in the literature varied. Although few investigations have reported theoretical framework and computational simulations of the heat/mass transport phenomena during the interfacial evaporation involved in such cases, no systematic experimental investigation exists in the literature. In the present study, a controlled environmental test section capable of having different far-field ambient conditions and maintaining a quiescent environment, is designed and fabricated. The performance of a thermosyphon-based heat localization strategy proposed by the authors for efficient and reliable vapor generation was tested in this test section. Different far-field ambient conditions (RH = 30%–80% and Tamb = 25–42 °C) are investigated on the evaporating mass flux and heat-to-vapor conversion efficiency. The experimentally obtained evaporative mass flux was compared against three Sherwood–-Rayleigh empirical correlations for natural convection-driven evaporation. It was shown that the existing relations matched well for the cases that fell within the assigned range of Rayleigh number of these correlations.",
+    "volume": 6,
+    "issue": 3,
+    "firstpage": "199",
+    "lastpage": "213",
+    "publication_date": "2024/9/5",
+    "online_date": "2024/4/11",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0186-6.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0186-6",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-024-0194-1",
+    "title": "Numerical challenges of CFD simulations of two-phase injectors working in the direct contact condensation mode",
+    "authors": [
+      {
+        "name": "Camila Braga Vieira"
+      },
+      {
+        "name": "Olivier Fontaine de Ghelin"
+      },
+      {
+        "name": "Cecile Goffaux"
+      },
+      {
+        "name": "Thomas Nicolle"
+      },
+      {
+        "name": "Vincent Dupont"
+      }
+    ],
+    "affiliations": [
+      "CENAERO,BELGIUM.",
+      "CENAERO,BELGIUM.",
+      "CENAERO,BELGIUM.",
+      "CALYOS,BELGIUM.",
+      "CALYOS,BELGIUM."
+    ],
+    "keywords": [
+      "Lee model"
+    ],
+    "abstract": "This work describes numerical simulations applied for the investigation of vapor injection into subcooled flow in a capillary jet loop (CJL) system. The improvement of the injector (or ejector) design is discussed here by examining several parameters influencing its performance. Consequently, this paper covers the influence of the entrainment ratio γ (the ratio of the mass flow rate of the low-pressure secondary flow to the mass flow rate of the high-pressure primary flow), the characteristics of the working fluid, and the geometry on the pressure rise through the mixing region, the criterion chosen here to measure the injector efficiency. Considering that full condensation is expected to occur, part of the simulation will also cover the numerical aspects related to phase change to establish the most appropriate choices for obtaining a reliable solution for full condensation cases. Here, condensation is studied for two different injector designs: one with a vapor nozzle inclined to the direction of subcooled flow and the other with an inline orientation with respect to the secondary flow. From computational fluid dynamics (CFD) simulations performed using the commercial software Ansys Fluent (versions 19.4 and 2023R1), a parametric study indicated that increasing the injection angle had a negative impact on the pressure increase. The same negative impact was observed for γ. Regarding the working fluid, the use of methanol and acetone appeared to increase the pressure rise in the vapor injection region (in comparison to R1233zd), inducing faster condensation and, consequently, affecting the injector efficiency in a positive manner.",
+    "volume": 6,
+    "issue": 3,
+    "firstpage": "214",
+    "lastpage": "228",
+    "publication_date": "2024/9/5",
+    "online_date": "2024/5/18",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0194-1.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0194-1",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-024-0193-2",
+    "title": "Experimental investigation of the heat transfer characteristics, operating limits, and temperature distribution of a prototypically 3 m long two-phase closed thermosyphon for spent fuel pool passive cooling",
+    "authors": [
+      {
+        "name": "Sergio Iván Cáceres Castro"
+      },
+      {
+        "name": "Marc Kirsch"
+      },
+      {
+        "name": "Rudi Kulenovic"
+      },
+      {
+        "name": "Jörg Starflinger"
+      }
+    ],
+    "affiliations": [
+      "Institute of Nuclear Technology and Energy Systems,GERMANY. University of Stuttgart, 70569,GERMANY.",
+      "Institute of Nuclear Technology and Energy Systems,GERMANY. University of Stuttgart, 70569,GERMANY.",
+      "Institute of Nuclear Technology and Energy Systems,GERMANY. University of Stuttgart, 70569,GERMANY.",
+      "Institute of Nuclear Technology and Energy Systems,GERMANY. University of Stuttgart, 70569,GERMANY."
+    ],
+    "keywords": [
+      "stainless steel–water"
+    ],
+    "abstract": "The current study investigated the heat transfer performance, operation limits, and temperature distribution of a 3 m prototype model for a large-scale straight two-phase closed thermosyphon with deionized water designed for passive cooling of nuclear spent fuel pools with a filling ratio ranging from 20% to 100% and a heat source temperature ranging from 45 to 80 °C. After the accident at the Fukushima Daiichi nuclear power plant, the need for a reliable cooling system for these pools increased, with thermosyphons emerging as a promising solution for passive cooling. The experimental procedure implemented in this study yielded a comprehensive understanding of the operation and phenomena inside a thermosyphon, providing crucial data for the validation and enhancement of numerical models that simulate relevant phenomena within nuclear power plants, including passive residual heat removal with thermosyphons. The results indicated that the optimal heat transfer performance was achieved at a filling ratio of 30%, where the thermosyphon begins operation at a heat source temperature of 45 °C. Additionally, the temperature distribution along the thermosyphon confirmed the operation limits, including partial dryout at a 20% filling ratio and geyser boiling and flooding (entrainment) limits at 75% and 100% filling ratios, respectively.",
+    "volume": 6,
+    "issue": 3,
+    "firstpage": "229",
+    "lastpage": "241",
+    "publication_date": "2024/9/5",
+    "online_date": "2024/5/15",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0193-2.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0193-2",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-023-0185-5",
+    "title": "Experimental analysis of the influence of ambient temperature for a Loop Heat Pipe based Battery Thermal Management System",
+    "authors": [
+      {
+        "name": "Marco Bernagozzi"
+      },
+      {
+        "name": "Anastasios Georgoulas"
+      },
+      {
+        "name": "Nicolas Miché"
+      },
+      {
+        "name": "Marco Marengo"
+      }
+    ],
+    "affiliations": [
+      "Advanced Engineering Centre,UNITED KINGDOM. University of Brighton,UNITED KINGDOM.",
+      "Advanced Engineering Centre,UNITED KINGDOM. University of Brighton,UNITED KINGDOM.",
+      "Advanced Engineering Centre,UNITED KINGDOM. University of Brighton,UNITED KINGDOM.",
+      "Advanced Engineering Centre,UNITED KINGDOM. University of Brighton,UNITED KINGDOM. Department of Civil Engineering and Architecture,ITALY. University of Pavia,ITALY."
+    ],
+    "keywords": [
+      "ambient temperature"
+    ],
+    "abstract": "In Battery Thermal Management System (BTMS), Loop Heat Pipes (LHPs) may act as thermal vectors connecting the bottom of the battery pack with the remote chiller of the EV's HVAC system, whilst graphite sheets allow to achieve satisfactory temperature homogenization of the cell surface, containing the added system weight and thermally isolating one cell to the other. This design was developed aiming to improve on fast charge timings, all-electric range and to reduce costs and complexity. Preliminary studies revealed the potential of this innovative passive BTMS for providing better performance than an active BTMS using a liquid cold plate. Taking a further step in the direction of practical applications, the present work investigates how the proposed innovative BTMS performs in different ambient temperatures by showing the results of several fast charge and heating tests inside an environmental thermal chamber, with temperatures ranging between −20 and 50 °C. The results show that the considered LHP worked in all the tested conditions, and that the heating delay brought by the LHP during heating phase (i.e., final temperature 1.2 °C lower than without the LHP) was surpassed by the temperature reduction during the cooling phases (i.e., 3.2 °C temperature reduction at high temperatures).",
+    "volume": 6,
+    "issue": 3,
+    "firstpage": "242",
+    "lastpage": "252",
+    "publication_date": "2024/9/5",
+    "online_date": "2024/4/4",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0185-5.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0185-5",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-023-0178-6",
+    "title": "Experimental analyses of temperature and pressure oscillation frequencies of a flat plate pulsating heat pipe tested under various edge orientation angles and heat loads",
+    "authors": [
+      {
+        "name": "Vincent Ayel"
+      },
+      {
+        "name": "Luca Pagliarini"
+      },
+      {
+        "name": "Thibault Van't Veer"
+      },
+      {
+        "name": "Maksym Slobodeniuk"
+      },
+      {
+        "name": "Fabio Bozzoli"
+      },
+      {
+        "name": "Cyril Romestant"
+      },
+      {
+        "name": "Yves Bertin"
+      }
+    ],
+    "affiliations": [
+      "Pprime Institute CNRS-ENSMA-Université de Poitiers,FRANCE.",
+      "Department of Engineering and Architecture,ITALY. University of Parma,ITALY.",
+      "Pprime Institute CNRS-ENSMA-Université de Poitiers,FRANCE. Stellantis, Carrières sous Poissy,FRANCE.",
+      "Pprime Institute CNRS-ENSMA-Université de Poitiers,FRANCE.",
+      "Department of Engineering and Architecture,ITALY. University of Parma,ITALY.",
+      "Pprime Institute CNRS-ENSMA-Université de Poitiers,FRANCE.",
+      "Pprime Institute CNRS-ENSMA-Université de Poitiers,FRANCE."
+    ],
+    "keywords": [
+      "wavelet"
+    ],
+    "abstract": "A closed loop flat plate pulsating heat pipe, filled with OpteonTM SF33 (with a filling ratio of 50%), was experimentally studied in different orientations: 0° (horizontal), 22.5°, 45°, 67.5°, and 90° ( \"edge\" : vertical with horizontal channels). The results confirm the interest of such configurations, rarely investigated in the literature, on the thermal behavior of the device and on the regularity of the temperatures and pressure signals: If dried-out occurred in horizontal orientation, increase of inclination angle (starting from 22.5°) led to regular oscillatory movement due to help of gravity pressure drop between channels. The thermal performance remains very similar for the device inclination angles from 45° to 90°. Both FFT and wavelet analyses of the pressure signal and temperatures of the external wall of the device (measured with IR camera) were done to characterize the dominant oscillatory frequencies. These orientations led to dominant frequencies, rarely detected in the literature for other classic configurations (with vertical/inclined channels). Similar internal pressure and temperature signals both showed that the dominant frequency increases with decreasing angle (from edge to horizontal orientation), but also with increasing applied heat power, and finally tends to spread and disappear for the highest heat loads.",
+    "volume": 6,
+    "issue": 3,
+    "firstpage": "253",
+    "lastpage": "264",
+    "publication_date": "2024/9/5",
+    "online_date": "2024/3/6",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0178-6.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0178-6",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-023-0179-5",
+    "title": "Investigation of operational limit of a pulsating heat pipe by estimating local heat transfer",
+    "authors": [
+      {
+        "name": "Naoko Iwata"
+      },
+      {
+        "name": "Fabio Bozzoli"
+      }
+    ],
+    "affiliations": [
+      "Department of Engineering and Architecture,ITALY. University of Parma,ITALY.",
+      "Department of Engineering and Architecture,ITALY. University of Parma,ITALY."
+    ],
+    "keywords": [
+      "infrared measurement"
+    ],
+    "abstract": "How pulsating heat pipes (PHPs) reach their operational limit has not yet been fully understood. This study aims to provide a complete picture of the termination mechanism of the self-oscillation of vapor and liquid. Experimental studies on a 10-turn PHP with HFC-134a were conducted and the filling ratio (FR) was from 20% to 80%. The thermo-fluid behavior in the PHP was investigated by temperature measurements with a high-resolution and high-speed infrared camera and estimation of fluid-to-wall heat flux distributions by solving inverse heat conduction problems. The results suggested that the PHP, increasing heat load, reached the operational limit due to different mechanisms depending on the filling ratio: at a high FR (80%), the liquid volume ratio increased with the increase of the operating temperature, resulting in the compressed liquid phase. At a low FR (20%), when a large amount of heat was applied, the fluid in the evaporator dried out and became a superheated vapor. The PHP with an optimum FR (50%) transferred the maximum heat under the same evaporator temperature, as the fluid in the PHP was able to keep the saturated two-phase state until the evaporator temperature exceeded the critical temperature.",
+    "volume": 6,
+    "issue": 3,
+    "firstpage": "265",
+    "lastpage": "276",
+    "publication_date": "2024/9/5",
+    "online_date": "2024/3/14",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0179-5.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0179-5",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-024-0187-0",
+    "title": "A new flat electronics cooling device composed of internal parallel loop heat pipes",
+    "authors": [
+      {
+        "name": "Larissa Krambeck"
+      },
+      {
+        "name": "Kelvin Guessi Domiciano"
+      },
+      {
+        "name": "Marcia B. H. Mantelli"
+      }
+    ],
+    "affiliations": [
+      "Heat Pipe Laboratory,BRAZIL. Department of Mechanical Engineering,BRAZIL. Federal University of Santa Catarina, 88040-900,BRAZIL.",
+      "Heat Pipe Laboratory,BRAZIL. Department of Mechanical Engineering,BRAZIL. Federal University of Santa Catarina, 88040-900,BRAZIL.",
+      "Heat Pipe Laboratory,BRAZIL. Department of Mechanical Engineering,BRAZIL. Federal University of Santa Catarina, 88040-900,BRAZIL."
+    ],
+    "keywords": [
+      "electronics cooling"
+    ],
+    "abstract": "The thermal performance of a new two-phase device developed for electronics cooling was experimentally investigated in this research. The proposed device is flat and composed of eight channels, where two parallel channels, one of which is partially filled with a sintered metallic porous medium, are interconnected, forming four parallel loop heat pipes. The wick structure promotes working fluid displacement along the device. Diffusion bonding was the manufacturing process. A benchmark flat pulsating heat pipe was also manufactured and experimentally studied for thermal performance comparison. Distilled water was used as the working fluid. Heat transfer rates from 10 to 170 W were applied to the flat heat pipes at gravity-assisted and horizontal orientations. The experimental results showed that the proposed flat loop heat pipes in parallel arrangement operated successfully in a wide thermal load range at the gravity-assisted position, reaching an almost constant thermal resistance of 0.17±0.02 °C/W between 80 and 170 W. In the horizontal orientation, the new device worked satisfactorily at low heat loads, with a minimum thermal resistance of 0.39±0.11 °C/W at 24 W. On the other hand, the conventional pulsating heat pipe operated adequately for high power inputs, presenting the lowest thermal resistance of 0.11±0.01 °C/W at 170 W. The major conclusion is that the proposed two-phase flat loop heat pipes in parallel arrangement behave successfully in a specific thermal load range for each orientation, being considered a suitable cooling alternative for flat electronic devices.",
+    "volume": 6,
+    "issue": 3,
+    "firstpage": "277",
+    "lastpage": "286",
+    "publication_date": "2024/9/5",
+    "online_date": "2024/4/16",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0187-0.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-024-0187-0",
+    "month": "September"
+  },
+  {
+    "doi": "10.1007/s42757-023-0158-x",
+    "title": "Computational fluid dynamics modeling of gas–solid fluidized bed reactor: Influence of numerical and operating parameters",
+    "authors": [
+      {
+        "name": "Vahid Akbari"
+      },
+      {
+        "name": "Tohid Nejad Ghaffar Borhani"
+      },
+      {
+        "name": "Ahmad Shamiri"
+      },
+      {
+        "name": "Mohammad Saleh Shafeeyan"
+      }
+    ],
+    "affiliations": [
+      "Department of Process Engineering,IRAN, ISLAMIC REPUBLIC OF. Razi Petrochemical Company,IRAN, ISLAMIC REPUBLIC OF.",
+      "Division of Chemical Engineering,UNITED KINGDOM. School of Engineering,,UNITED KINGDOM. University of Wolverhampton,UNITED KINGDOM.",
+      "Health Safety Environment & Operations Excellence,AUSTRALIA. Process Technologies Department,AUSTRALIA.",
+      "Department of Chemical Engineering,,IRAN, ISLAMIC REPUBLIC OF. Faculty of Engineering,IRAN, ISLAMIC REPUBLIC OF. Golestan University,IRAN, ISLAMIC REPUBLIC OF."
+    ],
+    "keywords": [
+      "mixing and segregation"
+    ],
+    "abstract": "In this paper, the most influential parameters (numerical and operating parameters) affecting the performance of fluidized bed reactors are studied. The investigated parameters are constitutive and numerical parameters, minimum fluidization velocity, operating pressure, temperature, gas distributor, and particle size distribution (PSD). Furthermore, the recent methods for solving population balance equations coupled with computational fluid dynamic (CFD-PBM) are discussed. The direct quadrature method of moments (DQMOM) was found to be the most efficient method for CFD-PBM coupled simulations. It must be pointed out that due to the computational cost there is limitation on the application of CFD in practical reactor with detailed mass/heat transfer and reaction mechanisms, especially under industrial operating condition.",
+    "volume": 6,
+    "issue": 2,
+    "firstpage": "85",
+    "lastpage": "125",
+    "publication_date": "2024/6/5",
+    "online_date": "2024/1/8",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Review Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0158-x.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0158-x",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-023-0174-x",
+    "title": "Experimental and LBM simulation study on the effect of bubble merging on saturated pool boiling in pure water",
+    "authors": [
+      {
+        "name": "Yongzhong Chen"
+      },
+      {
+        "name": "Jue Wang"
+      },
+      {
+        "name": "Shifan Ouyang"
+      },
+      {
+        "name": "Zhentao Wang"
+      },
+      {
+        "name": "Bin Li"
+      },
+      {
+        "name": "Junfeng Wang"
+      }
+    ],
+    "affiliations": [
+      "School of Energy Science and Engineering,CHINA. Jiangsu University, 212013,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA. School of Energy Science and Engineering,CHINA. Jiangsu University, 212013,CHINA. Institute of Energy Conservation Technology,CHINA. Jiangsu University, 212013,CHINA.",
+      "Institute of Energy Conservation Technology,CHINA. Jiangsu University, 212013,CHINA.",
+      "Institute of Energy Conservation Technology,CHINA. Jiangsu University, 212013,CHINA.",
+      "Institute of Energy Conservation Technology,CHINA. Jiangsu University, 212013,CHINA.",
+      "Institute of Energy Conservation Technology,CHINA. Jiangsu University, 212013,CHINA."
+    ],
+    "keywords": [
+      "dry spot"
+    ],
+    "abstract": "The foaming characteristic of surfactant solution is rarely discussed in surfactant enhancing pool boiling heat transfer and the critical heat flux (CHF). In the present work, saturated pool boiling experiment using transparent heating plate of indium tin oxide (ITO) coating and lattice Boltzmann method (LBM) simulation are conducted to get further insights into the effect of bubble merging on the wettability characteristics and CHF. With a high-speed camera, the gas–liquid phase and nucleate site distribution at the heating surface are recorded. The improved Shan–Chen model is applied in LBM simulation to investigate the interaction between nucleate sites. The experimental and simulation results show that vapor film appears at CHF. The vapor film inhibits nucleate sites to be effective and other new bubbles to emerge. Bubble merging decreases the contact line of gas–liquid–solid interface. The irreversible dry spot appears in the center of large bubbles due to CHF. It implies that preventing bubble merging is another factor of surfactant enhancing pool boiling heat transfer and CHF.",
+    "volume": 6,
+    "issue": 2,
+    "firstpage": "126",
+    "lastpage": "134",
+    "publication_date": "2024/6/5",
+    "online_date": "2024/1/8",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0174-x.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0174-x",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-023-0173-y",
+    "title": "3D simulation of pulsatile bubbly flow resembling decompression sickness conditions inside a realistic human artery",
+    "authors": [
+      {
+        "name": "Sotiris P. Evgenidis"
+      },
+      {
+        "name": "Thodoris D. Karapantsios"
+      }
+    ],
+    "affiliations": [
+      "Chemical and Environmental Technology Lab, Department of Chemical Technology and Industrial Chemistry,GREECE. School of Chemistry,GREECE. Aristotle University of Thessaloniki,GREECE.",
+      "Chemical and Environmental Technology Lab, Department of Chemical Technology and Industrial Chemistry,GREECE. School of Chemistry,GREECE. Aristotle University of Thessaloniki,GREECE."
+    ],
+    "keywords": [
+      "flow velocity"
+    ],
+    "abstract": "I-VED (In-Vivo Embolic Detector) is a novel diagnostic tool for non-invasive, real-time detection of bubbles in humans. Bubbles are precursors of decompression sickness (DCS), which can be encountered in astronauts, scuba divers, etc. I-VED exploits an EU patented electrical impedance spectroscopy technology, developed under the umbrella of a European Space Agency project. So far, I-VED has been calibrated and validated in vitro. In view of the forthcoming in-vivo trials, it needs to be configured for sensing bubbles in the bloodstream. For this, 3D computational fluid dynamics simulation is performed to investigate axial and radial variation of void fraction (α) and flow velocity (U) in a pulsatile bubbly flow inside a realistic human artery (diameter: 5–20 mm, implying vessel dilatation or contraction), where liquid velocity, bubble size, and void fraction resemble DCS conditions. Results show that U and α show a core-peaking profile despite the variation of artery diameter, while 3D sharp turns yield U and α non-uniformities in the angular direction that do not affect mean void fraction across the artery. Obtained knowledge allows deeper insight on the physics and spatial characteristics of bubbly flow in a real artery, which is useful in the design of measuring volume and tuning of I-VED.",
+    "volume": 6,
+    "issue": 2,
+    "firstpage": "135",
+    "lastpage": "139",
+    "publication_date": "2024/6/5",
+    "online_date": "2024/1/8",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0173-y.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0173-y",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-023-0181-y",
+    "title": "Stabilizing the unstructured Volume-of-Fluid method for capillary flows in microstructures using artificial viscosity",
+    "authors": [
+      {
+        "name": "Luise Nagel"
+      },
+      {
+        "name": "Anja Lippert"
+      },
+      {
+        "name": "Tobias Tolle"
+      },
+      {
+        "name": "Ronny Leonhardt"
+      },
+      {
+        "name": "Huijie Zhang"
+      },
+      {
+        "name": "Tomislav Marić"
+      }
+    ],
+    "affiliations": [
+      "Corporate Research,GERMANY. Robert Bosch GmbH,GERMANY.",
+      "Corporate Research,GERMANY. Robert Bosch GmbH,GERMANY.",
+      "Corporate Research,GERMANY. Robert Bosch GmbH,GERMANY.",
+      "Corporate Research,GERMANY. Robert Bosch GmbH,GERMANY.",
+      "Automotive Electronics,GERMANY. Robert Bosch GmbH,GERMANY.",
+      "Mathematical Modeling and Analysis,GERMANY. Technical University of Darmstadt,GERMANY."
+    ],
+    "keywords": [
+      "spurious currents"
+    ],
+    "abstract": "Parasitic currents still pose a significant challenge for the investigation of two-phase flow in Lab-on-Chip (LoC) applications with Volume-of-Fluid (VoF) simulations. To counter the impact of such spurious velocity fields in the vicinity of the fluid interface, this work presents an implementation of an artificial interface viscosity model in OpenFOAM. The model is introduced as an additional damping term in the momentum conservation equation. It is implemented as an fvOption, allowing for its simple application to existing VoF solvers. Validation is performed with hydrodynamic and wetting cases, in which constant artificial viscosity values are prescribed to examine the sensitivity of the solution to the artificial damping. The artificial viscosity model shows promising results in reducing spurious currents for two considered geometrical VoF solvers, namely interIsoFoam and InterFlow. It is found that the influence of the artificial viscosity heavily depends on the fluid properties. Applying the model to simulations of an interface traversing through microcavities relevant in LoC applications, experimental results of the interface progression are predicted well, while spurious currents are effectively reduced by approximately one order of magnitude due to the artificial viscosity model. The code is publicly available on GitHub at https://github.com/boschresearch/sepMultiphaseFoam/tree/publications/ArtificialInterfaceViscosity.",
+    "volume": 6,
+    "issue": 2,
+    "firstpage": "140",
+    "lastpage": "153",
+    "publication_date": "2024/6/5",
+    "online_date": "2024/1/8",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0181-y.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0181-y",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-023-0170-1",
+    "title": "An empirical approach for predicting slug to pseudo-slug transition of air/water upward two-phase flow",
+    "authors": [
+      {
+        "name": "Ghassan Abdul-Majeed"
+      },
+      {
+        "name": "Abdelsalam Al-Sarkhi"
+      },
+      {
+        "name": "Abdalellah O. Mohmmed"
+      },
+      {
+        "name": "Maha R. Hamoudi"
+      }
+    ],
+    "affiliations": [
+      "College of Engineering,IRAQ. University of Baghdad, 47024,IRAQ.",
+      "Mechanical Engineering Department,SAUDI ARABIA. King Fahd University of Petroleum and Minerals (KFUPM),SAUDI ARABIA.",
+      "Department of Mechanical Engineering,OMAN. Middle East College,OMAN.",
+      "Petroleum Department,IRAN, ISLAMIC REPUBLIC OF. University of Kurdistan,IRAN, ISLAMIC REPUBLIC OF."
+    ],
+    "keywords": [
+      "slug (SL) flow"
+    ],
+    "abstract": "Pseudo-slug (PSL) flow is an intermittent flow that has short, frothy, and chaotic slugs, which are not fully formed and have a structure velocity that falls between the conventional slug translational velocity and the wave celerity. It is important to predict the transition from conventional slug (SL) flow to PSL to determine the pressure gradients and liquid holdups. Literatures revealed that PSL can comprise a significant portion of the conventional flow pattern map, especially in highly deviated large-diameter (D) wellbores and pipelines. Several studies investigated the behavior of PSL; however, certain models were developed to predict SL/PSL transition. In the present study, an empirical model is derived employing the modified gas and liquid Froude numbers in measured dataset of Zhu (2019). The dataset consists of 125 data points, covering inclination angle (θ) from 2o to 89.4o with D of 0.1016 m. The range of superficial gas velocity is 0.124–3.313 m/s, with a constant liquid superficial velocity of 0.05 m/s. The suggested model accurately predicts all the data points and captures the expected effects of θ, D, and the gas density on the SL/PSL transition. The proposed model predicted well when validated against several independent experimental studies.",
+    "volume": 6,
+    "issue": 2,
+    "firstpage": "154",
+    "lastpage": "169",
+    "publication_date": "2024/6/5",
+    "online_date": "2024/1/8",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0170-1.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0170-1",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-023-0183-9",
+    "title": "In-depth investigation of air quality and CO<sub>2</sub> lock-up phenomenon in pilots’ local environment",
+    "authors": [
+      {
+        "name": "Xueren Li"
+      },
+      {
+        "name": "Xiang Fang"
+      },
+      {
+        "name": "Yihuan Yan"
+      }
+    ],
+    "affiliations": [
+      "School of Engineering,AUSTRALIA. RMIT University,AUSTRALIA.",
+      "School of Air Transportation/Flying,CHINA. Shanghai University of Engineering Science, 201620,CHINA.",
+      "School of Air Transportation/Flying,CHINA. Shanghai University of Engineering Science, 201620,CHINA."
+    ],
+    "keywords": [
+      "ventilation"
+    ],
+    "abstract": "The understanding of the cockpit environment with regard to air quality and contaminant suspension is currently very limited. With the escalating concerns of pilots’ health and flight performance being revealed with association to these two aspects, this study numerically investigated the air quality and CO2 lock-up phenomenon in pilots’ local environment based on the actual dimensions of widely used aircraft prototype—Boeing 737, using computational fluid dynamics (CFD) approach. Three ventilation layouts and configurations with real operational conditions were considered and their performance and effectiveness in diluting the contaminants (CO2) released from pilots’ mouths, were carefully assessed with the indoor air-related indices. The results revealed that only relying on the cockpit diffusers could hardly achieve a good air mixing from the pilots’ breathing level while activating the windshield inlets and personal gaspers could both be effective. Using the personal gaspers was found the most cost-effective way to facilitate the local air mixing in the breathing zone. The current three ventilation strategies were not optimal in minimising the CO2 concentration in pilots’ micro-environment. Significant CO2 lock-up phenomenon with concentrations from 700 to 1000 ppm can be noticed. When the design priority is to effectively minimise the local contaminant in pilots’ breathing zone, appropriately changing the location of the vents could be more effective than increasing the mass flow rate. With current ventilations, nearly 6%–15% of pilots would fail the pilot manoeuvring performance under the FAA Practical Test Standards and from a healthy perspective, several sick building syndromes can be initiated, such as nose/sinus irritation, sore throat, and wheeze.",
+    "volume": 6,
+    "issue": 2,
+    "firstpage": "170",
+    "lastpage": "179",
+    "publication_date": "2024/6/5",
+    "online_date": "2024/1/8",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0183-9.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0183-9",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-023-0161-2",
+    "title": "Modeling of chemical-looping combustion process of methane with nickel-based oxygen carrier",
+    "authors": [
+      {
+        "name": "Kaige Zhang"
+      },
+      {
+        "name": "Jin Liang"
+      },
+      {
+        "name": "Huili Liu"
+      },
+      {
+        "name": "Guirong Bao"
+      },
+      {
+        "name": "Hua Wang"
+      }
+    ],
+    "affiliations": [
+      "State Key Laboratory of Complex Nonferrous Metal Resources Clean Utilization,Kunming University of Science and Technology, 650093,CHINA.",
+      "State Key Laboratory of Complex Nonferrous Metal Resources Clean Utilization,Kunming University of Science and Technology, 650093,CHINA.",
+      "State Key Laboratory of Complex Nonferrous Metal Resources Clean Utilization,Kunming University of Science and Technology, 650093,CHINA.",
+      "State Key Laboratory of Complex Nonferrous Metal Resources Clean Utilization,Kunming University of Science and Technology, 650093,CHINA.",
+      "State Key Laboratory of Complex Nonferrous Metal Resources Clean Utilization,Kunming University of Science and Technology, 650093,CHINA."
+    ],
+    "keywords": [
+      "numerical simulation"
+    ],
+    "abstract": "The chemical-looping combustion of methane in a three-dimensional cylindrical fuel reactor is numerically studied using the developed multiphase particle-in-cell reactive model, featuring the multi-phase flow, heat transfer, reduction of oxygen carriers, and particle shrinkage. After model validation, the general flow patterns, and the thermophysical properties of oxygen carriers (e.g., temperature, heat transfer coefficient) and gas phase (e.g., temperature, density, thermal conductivity, specific heat capacity, and viscosity) are comprehensively studied with the discussion on several crucial operating parameters. The results show that bubble dynamics (e.g., generation, rising, coalescence, and eruption) induce the segregation of small- and large-mass particles. CH4 is thoroughly converted in a very short distance above the bottom distributor while CO and H2 increase above the bottom distributor and then decrease axially. The temperature of particles ranges from 1275 to 1295 K, leading to a 20 K temperature difference in the bed. The heat transfer coefficient (HTC) of particles is in the range of 50–150 W/(m2·K). Increasing the investigated operating parameters (i.e., superficial gas velocity, methane ratio, and wall temperature) enlarges the particle properties (i.e., temperature, HTC) and most of the gas properties (i.e., temperature, thermal conductivity, specific capacity, and viscosity), but decreases the gas density. The findings shed light on the reactor design and process control of the chemical-looping combustion systems.",
+    "volume": 6,
+    "issue": 2,
+    "firstpage": "180",
+    "lastpage": "194",
+    "publication_date": "2024/6/5",
+    "online_date": "2024/1/8",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0161-2.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0161-2",
+    "month": "June"
+  },
+  {
+    "doi": "10.1007/s42757-023-0172-z",
+    "title": "Experimental measuring techniques for industrial-scale multiphase flow problems",
+    "authors": [
+      {
+        "name": "Yihuan Yan"
+      },
+      {
+        "name": "Krishna Mohanarangam"
+      },
+      {
+        "name": "William Yang"
+      },
+      {
+        "name": "Jiyuan Tu"
+      }
+    ],
+    "affiliations": [
+      "School of Air Transportation/Flying,CHINA. Shanghai University of Engineering Science, 201620,CHINA.",
+      "Teck Resources Limited,CANADA.",
+      "Advanced Laser Flow Diagnostic Laboratory,AUSTRALIA. CSIRO Mineral Resources,AUSTRALIA.",
+      "School of Engineering,AUSTRALIA. RMIT University,AUSTRALIA."
+    ],
+    "keywords": [
+      "measuring techniques"
+    ],
+    "abstract": "Industrial-scale measuring techniques on multiphase flow behaviours are essential in understanding realistic industrial problems and investigating onsite multiphase flow problems. Over the past decades, several experimental measuring techniques (e.g., laser Doppler velocimetry, particle image velocimetry, and particle/droplet image analysis) were developed or successfully applied by Commonwealth Scientific and Industrial Research Organization (CSIRO), Australia, on many collaborated industrial projects. Most of these valuable measuring techniques are presented in this review, followed by demonstrating case studies on multiphase flow problems using these techniques. The outcomes from the case studies revealed strong compatibility of the presented techniques on measuring a wide variety of multiphase flow scenarios. The applications could widely differ from highly-agitated industrial mixing cell to densely occupied commercial airliner cabin. The great potential on the future of industrial-scale measuring techniques for multiphase flow researches has been clearly revealed.",
+    "volume": 6,
+    "issue": 1,
+    "firstpage": "1",
+    "lastpage": "13",
+    "publication_date": "2024/3/5",
+    "online_date": "2023/11/25",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Review Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0172-z.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0172-z",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-023-0160-3",
+    "title": "Pressure recovery model for gas–liquid two-phase flow across sudden expansions",
+    "authors": [
+      {
+        "name": "Abderraouf Arabi"
+      },
+      {
+        "name": "Ghassan H. Abdul-Majeed"
+      },
+      {
+        "name": "Houari B. Boukrouche"
+      },
+      {
+        "name": "Zakaria Larbi"
+      }
+    ],
+    "affiliations": [
+      "SONATRACH, Direction Centrale Recherche et Développement, Avenue 1er Novembre, 35000,ALGERIA.",
+      "University of Baghdad, 47024,IRAQ.",
+      "SONATRACH, Direction Centrale Recherche et Développement, Avenue 1er Novembre, 35000,ALGERIA.",
+      "Laboratory of Theoretical and Applied Fluid Mechanics,ALGERIA. Physics’ Faculty,ALGERIA. University of Sciences and Technology Houari Boumediene,ALGERIA."
+    ],
+    "keywords": [
+      "two-phase multiplier"
+    ],
+    "abstract": "The presence of a sudden expansion generates a variation in the static pressure, which is commonly called pressure recovery (PR). In this paper, we did an extensive literature review to list existing gas–liquid two-phase flow PR models and collect experimental data. As a result, a total of 305 data points were gathered from 6 recent works and 18 predictive models were identified. An analysis of the different existing models was carried out. Then, the predictive capability of 9 existing models was assessed using the collected database. It was reported that none of the models can predict the experimental results for a large range of experimental conditions. This finding highlighted the necessity to propose a new model. The proposed predictive model was developed using the two-phase multiplier and mass quality. These two parameters were correlated using 157 data points from the collected database, while the rest of the data were used to validate it. It was found that the proposed model gives better predictions compared to existing ones in the range of conditions and parameters of the experimental data used in this analysis.",
+    "volume": 6,
+    "issue": 1,
+    "firstpage": "14",
+    "lastpage": "27",
+    "publication_date": "2024/3/5",
+    "online_date": "2023/11/25",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0160-3.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0160-3",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-022-0153-7",
+    "title": "Identifying the intermittent flow sub-regimes using pressure drop time series fluctuations",
+    "authors": [
+      {
+        "name": "Abderraouf Arabi"
+      },
+      {
+        "name": "Yacine Salhi"
+      },
+      {
+        "name": "Youcef Zenati"
+      },
+      {
+        "name": "El-Khider Si-Ahmed"
+      },
+      {
+        "name": "Jack Legrand"
+      }
+    ],
+    "affiliations": [
+      "SONATRACH, Direction Centrale Recherche et Développement, Avenue 1er Novembre, 35000,ALGERIA. Laboratory of Theoretical and Applied Fluid Mechanics,ALGERIA. Physics’ Faculty,ALGERIA. University of Sciences and Technology Houari Boumediene,ALGERIA. Departament d'Enginyeria Mecànica,SPAIN. Universitat Rovira i VirgiliAv,SPAIN.",
+      "Laboratory of Theoretical and Applied Fluid Mechanics,ALGERIA. Physics’ Faculty,ALGERIA. University of Sciences and Technology Houari Boumediene,ALGERIA.",
+      "Laboratory of Theoretical and Applied Fluid Mechanics,ALGERIA. Physics’ Faculty,ALGERIA. University of Sciences and Technology Houari Boumediene,ALGERIA.",
+      "Université de Nantes,FRANCE.",
+      "Université de Nantes,FRANCE."
+    ],
+    "keywords": [
+      "probability density function (PDF)"
+    ],
+    "abstract": "From a literature survey, a deficiency has been noticed in objective methods to identify and distinct between the intermittent flow sub-regimes. Thus, the aim of this study is to analyze pressure drop fluctuations using statistical methods in order to propose simple tools to characterize the sub-regimes of the intermittent flow. The pressure drop time series were collected from experiments carried out using air–water mixture and 30 mm inner diameter pipe. The utilization of transparent pipes allowed to identify three sub-regimes which are plug flow, less aerated slug flow (LAS flow), and highly aerated slug flow (HAS flow). It was found that the probability density functions (PDF) displayed a unimodal distribution in all cases studied. Meanwhile, the representation of the base width and maximum values of PDF as functions of the gas-to-liquid superficial velocity ratio and the mixture Froude number, respectively, showed that the points for each sub-regime are clustered in the same zone. Therefore, these two feature spaces can be used to identify the sub-regimes. A third feature space, based on the statistical parameter standard deviation and kurtosis, was also proposed as a tool to distinguish between the three sub-regimes.",
+    "volume": 6,
+    "issue": 1,
+    "firstpage": "28",
+    "lastpage": "40",
+    "publication_date": "2024/3/5",
+    "online_date": "2023/11/25",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-022-0153-7.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-022-0153-7",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-023-0166-x",
+    "title": "Liquid jet breakup in a subsonic cross airflow: An experimental study of the effect of the gas phase turbulence",
+    "authors": [
+      {
+        "name": "Joshua Peters"
+      },
+      {
+        "name": "Madjid Birouk"
+      }
+    ],
+    "affiliations": [
+      "Department of Mechanical Engineering,CANADA. University of Manitoba, R3T 5V6,CANADA.",
+      "Department of Mechanical Engineering,CANADA. University of Manitoba, R3T 5V6,CANADA."
+    ],
+    "keywords": [
+      "breakup mechanism"
+    ],
+    "abstract": "The effect of cross-airflow turbulence on the primary breakup mechanisms, trajectory, and location of a transverse liquid jet was experimentally investigated. The airflow turbulence intensity (Tu) was varied independently of the mean Weber number (Weg) and momentum flux ratio (q). The instantaneous Weber number range was found to increase with turbulence, allowing multiple breakup regimes to occur simultaneously. The breakup regimes were found to shift towards higher Weg breakup types. High Tu was found to cause surface breakup at large q and Weg. Increased Tu caused the liquid column to bend more into the crossflow and also made it fluctuate more. A critical height in the trajectory was found where the jet transitions from being dominated by the liquid jet flow in the near-field to being dominated by the crossflow turbulence in the far-field. This critical height strongly depends on q and Rejet. A correlation for predicting the liquid jet trajectory was developed in terms of q, Rejet, and Tu. The normalized breakup height was found to depend on Tu and q, with higher Tu causing a lower breakup height, and then plateauing at higher q. The normalized streamwise breakup distance was found to decrease with increasing q, and then plateauing.",
+    "volume": 6,
+    "issue": 1,
+    "firstpage": "41",
+    "lastpage": "58",
+    "publication_date": "2024/3/5",
+    "online_date": "2023/11/25",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0166-x.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0166-x",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-023-0171-0",
+    "title": "A thermal resistance model of conduction–thermal radiation heat transfer in pebble-bed nuclear reactors",
+    "authors": [
+      {
+        "name": "Hao Wu"
+      },
+      {
+        "name": "Fenglei Niu"
+      },
+      {
+        "name": "Nan Gui"
+      },
+      {
+        "name": "Xingtuan Yang"
+      },
+      {
+        "name": "Jiyuan Tu"
+      },
+      {
+        "name": "Shengyao Jiang"
+      }
+    ],
+    "affiliations": [
+      "School of Nuclear Science and Engineering,CHINA. North China Electric Power University, 102206,CHINA.",
+      "School of Nuclear Science and Engineering,CHINA. North China Electric Power University, 102206,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA.",
+      "School of Engineering,AUSTRALIA. RMIT University,AUSTRALIA. Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA.",
+      "Key Laboratory of Advanced Reactor Engineering and Safety, Ministry of Education,CHINA. Tsinghua University, 100084,CHINA."
+    ],
+    "keywords": [
+      "void fraction"
+    ],
+    "abstract": "The pebble-bed high-temperature gas-cooled reactor (HTGR) is an advanced nuclear system with inherent safety. The nuclear reactor is operated in high-temperature ranges and its design temperature limit is 1600 °C. It is important to discuss the conduction–radiation heat transfer in the nuclear pebble bed during the thermal hydraulics analysis. Until now, the investigation mainly focuses on large-scale experimental tests, such as the Selbsttätige Abfuhr der Nachwärme (SANA) test by the International Atomic Energy Agency (IAEA), high temperature test unit (HTTU) under low gas pressure by North-West University of South Africa, and the pebble bed equivalent conductivity measurement (PBEC) under vacuum conditions for the high temperature gas-cooled reactor pebble bed module (HTR-PM) project by the Institute of Nuclear and New Energy Technology (INET) of Tsinghua University. In this work, a thermal resistance model was developed to calculate the conduction–radiation effective thermal conductivity of nuclear pebble beds. With the constitutive continuum modeling for conduction, contact resistance, coordination number, and void fraction are considered for physical expressions, and heat conduction in the packed bed will be enhanced directly by higher packing density and more contact. For thermal radiation dominated by the heat transfer process under high temperatures, a sub-cell model with an equivalent resistance network is developed to calculate the radiative exchange factor, and the void fraction effect is implemented by a modification term with thermal ray tracing results. At low packing density, because the thermal rays from the local pebble will travel a further distance until reaching the surrounding pebbles, the local sphere will be in contact with more particles by thermal radiation, and the heat transfer is enhanced. Compared with the empirical correlations, the present model is proven to be applicable for both dense and dilute cases. In the nuclear pebble bed, the present conduction–thermal radiation model agrees generally with experimental data under different temperatures and can be applied in the particle-scale CFD-DEM simulations. The present work provides a meaningful approach for conduction–thermal radiation heat transfer for engineering and nuclear pebble-bed design.",
+    "volume": 6,
+    "issue": 1,
+    "firstpage": "59",
+    "lastpage": "66",
+    "publication_date": "2024/3/5",
+    "online_date": "2023/11/25",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0171-0.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0171-0",
+    "month": "March"
+  },
+  {
+    "doi": "10.1007/s42757-023-0159-9",
+    "title": "Analysis of two-phase flow in the porous medium through a rectangular curved duct",
+    "authors": [
+      {
+        "name": "Khalilur Rahman"
+      },
+      {
+        "name": "Salma Parvin"
+      },
+      {
+        "name": "Abdul Hakim Khan"
+      }
+    ],
+    "affiliations": [
+      "Department of Mathematics,BANGLADESH. Bangladesh University of Engineering & Technology,BANGLADESH. Department of Mathematics,BANGLADESH. Bangladesh Civil Service, Ministry of Education,BANGLADESH.",
+      "Department of Mathematics,BANGLADESH. Bangladesh University of Engineering & Technology,BANGLADESH.",
+      "Department of Mathematics,BANGLADESH. Bangladesh University of Engineering & Technology,BANGLADESH."
+    ],
+    "keywords": [
+      "porous medium"
+    ],
+    "abstract": "The current work is primarily concerned with the analysis of an unsteady incompressible laminar two-phase flow in a porous medium through a rectangular curved duct. The Navier–Stokes equations and the level set equation with boundary conditions represent the corresponding governing equations. Fluid flow through curved rectangular ducts is influenced by the centrifugal action arising from duct curvature and has a unique behavior different from fluid flow through straight ducts. Centrifugal force-induced secondary flow vortices produce spiraling fluid motion within curved ducts. This paper shows the vector plot of the field flow, velocity contours, and fluid volume fractions graphically. The effect of curvature, Dean number, aspect ratio, porosity, and particle concentration on each fluid domain is also displayed. A comparison of the two-phase flow between different fluids is also shown. The results reveal that the unstable behavior of the flow is reduced with increased values of curvature, Dean number, and high viscosity flow.",
+    "volume": 6,
+    "issue": 1,
+    "firstpage": "67",
+    "lastpage": "83",
+    "publication_date": "2024/3/5",
+    "online_date": "2023/11/25",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "language": "en",
+    "type": "Research Article",
+    "year": 2024,
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0159-9.pdf",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-023-0159-9",
+    "month": "March"
   }
 ]
